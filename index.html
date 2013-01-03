@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Trafic annuel entrant par station à Paris</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <style>
+      #map{
+        height: 100%;
+        width: 100%;
+        position: absolute;
+      }
+
+      #map-container {
+        display: block;
+        position: absolute;
+        left: 0;
+        right: 250px;
+        bottom: 0;
+        top: 0;
+      }
+
+      .background {
+        fill: #ddd;
+      }
+
+      .paris {
+        fill: #ccc;
+      }
+
+      .line_branch {
+        fill: none !important;
+        stroke-width: 1px;
+        stroke-opacity: 0.1;
+      }
+
+      .line_branch.active {
+        stroke-opacity: 0.5;
+      }
+
+      .station_part {
+        stroke-opacity: 0;
+        stroke-width: 2px;
+        fill-opacity: inherit;
+        stroke-width: 0;
+      }
+
+      .station {
+        opacity: 0.1;
+      }
+      .station.active {
+        opacity: 1;
+      }
+      #header {
+        position: absolute;
+        padding: 0;
+        top: 0;
+        height: 44px;
+        right: 250px;
+        left: 0;
+      }
+      #header h1 {
+        margin: 16px;
+        text-align: center;
+        transform: perspective(100px) rotateX(-5deg);
+        -webkit-transform: perspective(100px) rotateX(-5deg);
+      }
+
+      #header h1 span {
+        font-size: 90%;
+        border: 6px solid white;
+        background-color: #22265b;
+        color: white;
+        font-weight: bolder;
+        font-family: "helvetica";
+        padding: 8px;
+        font-variant: small-caps;
+      }
+
+      #footer {
+        position: absolute;
+        bottom: 0;
+        height: 24px;
+        width: 100%;
+      }
+
+      #footer ul {
+        margin-left: 10px;
+      }
+      #footer li {
+        display: inline;        
+        margin-right: 20px;
+        margin-left: 0;
+      }
+
+      #infos {
+        position: absolute;
+        padding: 10px;
+        width: 230px;
+        top:0;
+        bottom: 0;
+        right: 0;
+      }
+
+      #infos h2 {
+        text-align: center;
+      }
+
+      #infos .infos_station, #infos .infos_line {
+        display: none;
+      }
+
+      #infos .infos_station h3 {
+        background-color: #22265b;
+        text-align: center;
+      }
+      #infos .infos_station h3 span {
+        font-size: 90%;
+        color: white;
+        font-weight: bolder;
+        font-family: "helvetica";
+        padding: 8px;
+        font-variant: small-caps;
+      }
+      #infos .infos_line .sign {
+        border-radius: 40px;
+        width: 40px; 
+        height: 40px;
+        display: inline-block;
+        text-align: center;
+        padding: 0;
+      }
+      #infos .infos_line ul {
+        margin-left: 4px;
+        list-style: none;
+        font-size: 80%;
+      }
+      #infos .infos_line li {
+        line-height: 120%;
+        margin: 0;
+      }
+
+    </style>
+
+    <link href="ratp.colors.css" media="screen" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://code.jquery.com/jquery.min.js"></script>
+    <script src="paris.path.js"></script>
+    <script src="helpers.js"></script>
+    <script src="mouse.helpers.js"></script>
+
+    <div id="map-container"></div>
+    <div id="header">
+      <h1><span>Trafic annuel entrant par station à Paris</span></h1>
+    </div>
+    <div id="footer">
+      <ul>
+        <li>Trafic annuel entrant par station&nbsp;: <a href="http://data.ratp.fr/fr/les-donnees/fiche-de-jeu-de-donnees/dataset/trafic-annuel-entrant-par-station-2011.html">RATP</a></li>
+        <li>Positions géographiques des stations&nbsp;: <a href="http://data.ratp.fr/fr/les-donnees/fiche-de-jeu-de-donnees/dataset/positions-geographiques-des-stations-du-reseau-ratp.html?tx_icsoddatastore_pi1[returnID]=38">RATP</a></li>
+        <li>Indices et couleurs de lignes&nbsp;: <a href="http://data.ratp.fr/fr/les-donnees/fiche-de-jeu-de-donnees/dataset/indices-et-couleurs-de-lignes-du-reseau-ferre-ratp.html?tx_icsoddatastore_pi1[page]=1&tx_icsoddatastore_pi1[returnID]=38">RATP</a></li>
+        <li>Contour de Paris: <a href="http://professionnels.ign.fr/geofla">IGN</a></li>
+      </ul>
+    </div>
+    <div id="infos">
+      <div class="active help">
+        <h2>Infos</h2>
+        Survolez une station ou une ligne pour plus d'informations.
+      </div>
+      <div class="infos_station">
+        <h3><span></span></h3>
+        <div><i class="icon-user"></i>&nbsp;Trafic&nbsp;: <span class='trafic'></span></div>
+        <div><i class="icon-map-marker"></i>&nbsp;Latitude&nbsp;: <span class='latitude'></span></div>
+        <div><i class="icon-map-marker"></i>&nbsp;Longitude&nbsp;: <span class='longitude'></span></div>
+      </div>
+      <div class="infos_line">
+        <h3><span></span></h3>
+        <div><i class="icon-user"></i><i class="icon-user"></i><i class="icon-user"></i>&nbsp;Trafic cumulé&nbsp;: <span class='trafic'></span></div>
+        <ul></ul>
+      </div>
+    </div>
+
+    <script>
+     
+      var width = 100,
+          height = 100;
+
+      var svg = d3.select("#map-container").append("svg")
+                                 // The viewport
+                                 .attr("viewBox", "-100 -100 200 200")
+                                 // Width and height of the svg (will be resized)
+                                 .attr("preserveAspectRatio", "xMidYMid meet")
+                                 .attr("id", "map")
+                                 ;
+
+      var viewport = svg.append("g")
+                        .attr("id", "viewport")
+                        .attr("transform", "scale(1.5)")
+                        .call(d3.behavior.zoom()
+                                .scale(1.5)
+                                .scaleExtent([1, 3])
+                                .on("zoom", function() {
+                                   viewport.attr("transform",
+                                     "translate(" + d3.event.translate + ")" +
+                                     " scale(" + d3.event.scale + ")"
+                                   );
+                                })
+                             )
+
+      var background = viewport.append("rect")
+         .attr("class", "background")
+         .attr("x", -1000)
+         .attr("y", -1000)
+         .attr("width", 2000)
+         .attr("height", 2000)
+         //.on("click", click)
+         ;
+
+      var container = viewport.append("g").attr("id", "container");
+
+      function color(d, inv) { 
+        var color;
+        if (d.lines.length == 1) {
+          var l = d.lines[0];
+          if (l.toString().indexOf("bis") !== -1)
+            color = colors[parseInt(l)];
+          else
+            color = colors[l];
+        } else {
+          color = inv ? "0,0,0" : "255,255,255"; 
+        }
+        return "rgb(" + color + ")";
+      }
+
+
+    d3.json("ratp.json", function(data) {
+      container_paris = container.append("g").attr("id", "paris");
+      container_map = container.append("g").attr("class", "map");
+      container_lines = container_map.append("g").attr("id", "lines");
+      container_stations = container_map.append("g").attr("id", "stations");
+
+      freq = d3.map(data.freq).values();
+      lines = data.lines;
+
+      var median_x = d3.median(freq, function(e) { return e.latitude; });
+      var median_y = d3.median(freq, function(e) { return e.longitude; });
+
+      // https://github.com/mbostock/d3/wiki/Geo-Projections#wiki-center
+      var projection = d3.geo.mercator()
+                             .translate([0, 0])
+                             .scale(250000)
+                             .center([median_x, median_y])
+                             ;
+      
+      // Function to project the paris borders in drawing coordinates
+      var line = d3.svg.line(paris)
+                       .interpolate("linear-closed")
+                       .x(function(d) { return projection(d)[0]; })
+                       .y(function(d) { return projection(d)[1]; })
+                       ;
+
+      // Create Paris' borders
+      container_paris.append("path")
+                     .attr("d", line(paris))
+                     .attr("class", "paris")
+                     //.on("click", click)
+                     ;
+
+      // Stuff needed to scale stations depending on their trafic
+      var get_trafic = function(e) { return e.trafic; };
+      var min = d3.min(freq, get_trafic);
+      var max = d3.max(freq, get_trafic);
+      var median = d3.median(freq, get_trafic);
+      var scale = d3.scale.log()
+                          .domain([min, median, max])
+                          .range([0.2, 1.2, 4])
+                          ;
+
+      // Create the stations by first creating a group
+      var stations = 
+        container_stations.selectAll(".station")
+                          .data(freq, function(d) { return d.key; })
+                          .enter()
+                             .append("g")
+                             // Translate the group (helpers.js)
+                             .attr("transform", transform(projection))
+                             // helpers.js
+                             .attr("class", station_classes)
+                             // Sort the points by trafic to have 
+                             // bigger stations behind (helpers.js)
+                             .sort(sort_stations)
+                             .on("mouseover", select_station)
+                             .on("mouseout", deselect_station)
+                          ;
+
+      // Then append an arc for each part
+      stations.selectAll(".station_part")
+              .data(gen_pie(scale))
+              .enter()
+                .append("path")
+                .attr("d", draw_arc) // helpers.js
+                .attr("class", station_part_classes) // helpers.js
+              ;
+
+
+
+      var lines = 
+        container_lines.selectAll(".line")
+                       .data(lines)
+                       .enter()
+                         .append("g")
+                         .attr("class", line_class)
+                       ;
+
+
+      lines.selectAll(".line_branch")
+           .data(gen_branch)
+           .enter()
+             .append("path")
+             .attr("class", branch_class)
+             .attr("d", draw_line(data, projection))
+             .on("mouseover", select_line)
+             .on("mouseout", deselect_line)
+             ;
+    });
+
+    </script>
+  </body>
+</html>
