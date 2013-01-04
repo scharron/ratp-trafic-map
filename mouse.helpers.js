@@ -15,6 +15,7 @@ var select_station = function(station) {
   $(".infos_station .trafic").html(numberWithCommas(station.trafic));
   $(".infos_station .latitude").html(station.latitude);
   $(".infos_station .longitude").html(station.longitude);
+  $(".infos_station .rank").html(station.rank);
 }
 
 var deselect_station = function(station) {

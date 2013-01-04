@@ -67,8 +67,9 @@ for row in range(sheet.nrows):
   if len(name) == 0:
     continue
   trafic = sheet.cell(row, 4).value
+  rank = sheet.cell(row, 1).value
   lines = [sheet.cell(row, i).value for i in range(5, 10)]
-  stations[name] = {"trafic": trafic, "lines": [int_or_string(l) for l in lines if l != 0 and len(str(l)) > 0 and str(l)[0].isdigit()]}
+  stations[name] = {"trafic": trafic, "lines": [int_or_string(l) for l in lines if l != 0 and len(str(l)) > 0 and str(l)[0].isdigit()], "rank": rank}
 
 import csv
 reader = csv.reader(open("ratp_arret_graphique.csv", newline=""), delimiter='#')
