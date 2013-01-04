@@ -87,6 +87,7 @@
 
       #footer ul {
         margin-left: 10px;
+        margin-bottom: 2px;
       }
       #footer li {
         display: inline;        
@@ -160,7 +161,7 @@
     </div>
     <div id="footer">
       <ul>
-        <li>Trafic annuel entrant par station&nbsp;: <a href="http://data.ratp.fr/fr/les-donnees/fiche-de-jeu-de-donnees/dataset/trafic-annuel-entrant-par-station-2011.html">RATP</a></li>
+        <li>Trafic annuel entrant par station en 2011&nbsp;: <a href="http://data.ratp.fr/fr/les-donnees/fiche-de-jeu-de-donnees/dataset/trafic-annuel-entrant-par-station-2011.html">RATP</a></li>
         <li>Positions géographiques des stations&nbsp;: <a href="http://data.ratp.fr/fr/les-donnees/fiche-de-jeu-de-donnees/dataset/positions-geographiques-des-stations-du-reseau-ratp.html?tx_icsoddatastore_pi1[returnID]=38">RATP</a></li>
         <li>Indices et couleurs de lignes&nbsp;: <a href="http://data.ratp.fr/fr/les-donnees/fiche-de-jeu-de-donnees/dataset/indices-et-couleurs-de-lignes-du-reseau-ferre-ratp.html?tx_icsoddatastore_pi1[page]=1&tx_icsoddatastore_pi1[returnID]=38">RATP</a></li>
         <li>Contour de Paris: <a href="http://professionnels.ign.fr/geofla">IGN</a></li>
@@ -202,7 +203,7 @@
                         .attr("transform", "scale(1.5)")
                         .call(d3.behavior.zoom()
                                 .scale(1.5)
-                                .scaleExtent([1, 3])
+                                .scaleExtent([0.9, 3])
                                 .on("zoom", function() {
                                    viewport.attr("transform",
                                      "translate(" + d3.event.translate + ")" +
