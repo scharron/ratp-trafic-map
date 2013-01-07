@@ -9,3 +9,7 @@ Trafic annuel entrant par station à Paris
 process.py
 ----------
 You need to download the files "Trafic annuel entrant par station" and "Positions géographiques des stations" from the RATP opendata site (links available from [index.html](blob/master/index.html) source).
+
+Follow us
+---------
+[@samuelcharron](http://twitter.com/samuelcharron) &amp; [@datapublica](http://twitter.com/datapublica)
