@@ -1,397 +1,1636 @@
 {
   "freq": {
-    "KLEBER": {
-      "name": "Kl\u00e9ber", 
+    "JAURES": {
+      "connexion": {}, 
+      "rank": 59.0, 
+      "name": "Jaur\u00e8s", 
+      "latitude": 2.37023181919226, 
+      "key": "JAURES", 
+      "trafic": 6046012.0, 
       "lines": [
-        6
+        2, 
+        5, 
+        "7bis"
       ], 
-      "longitude": 48.8710948130145, 
-      "trafic": 1150016.0, 
-      "rank": 286.0, 
-      "key": "KLEBER", 
-      "latitude": 2.29307915421584, 
-      "connexion": {}
+      "longitude": 48.8825437461168
     }, 
-    "SULLY MORLAND": {
-      "name": "Sully-Morland", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8510338403896, 
-      "trafic": 1606960.0, 
-      "rank": 269.0, 
-      "key": "SULLY MORLAND", 
-      "latitude": 2.36186696356924, 
-      "connexion": {}
-    }, 
-    "CORENTIN CARIOU": {
-      "name": "Corentin-Cariou", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8949061258374, 
-      "trafic": 3090833.0, 
-      "rank": 170.0, 
-      "key": "CORENTIN CARIOU", 
-      "latitude": 2.38244550268222, 
-      "connexion": {}
-    }, 
-    "SAINT DENIS UNIVERSITE": {
-      "name": "Saint-Denis-Universite", 
+    "PORTE DE CLICHY": {
+      "connexion": {}, 
+      "rank": 116.0, 
+      "name": "Porte de Clichy", 
+      "latitude": 2.31373834378485, 
+      "key": "PORTE DE CLICHY", 
+      "trafic": 4156619.0, 
       "lines": [
         13
       ], 
-      "longitude": 48.9456254805762, 
-      "trafic": 5365746.0, 
-      "rank": 75.0, 
-      "key": "SAINT DENIS UNIVERSITE", 
-      "latitude": 2.36235875823436, 
-      "connexion": {}
-    }, 
-    "LOUVRE": {
-      "name": "Louvre-Rivoli", 
-      "lines": [
-        1
-      ], 
-      "longitude": 48.8605382946574, 
-      "trafic": 2582023.0, 
-      "rank": 206.0, 
-      "key": "LOUVRE", 
-      "latitude": 2.34100049025543, 
-      "connexion": {}
-    }, 
-    "BIBLIOTHEQUE": {
-      "name": "Bibliotheque-Francois Mitterrand", 
-      "lines": [
-        14
-      ], 
-      "longitude": 48.8296059726948, 
-      "trafic": 15826727.0, 
-      "rank": 7.0, 
-      "key": "BIBLIOTHEQUE", 
-      "latitude": 2.3760926116913, 
-      "connexion": {}
-    }, 
-    "VARENNE": {
-      "name": "Varenne", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.8575166012889, 
-      "trafic": 1517830.0, 
-      "rank": 275.0, 
-      "key": "VARENNE", 
-      "latitude": 2.31553023354222, 
-      "connexion": {}
-    }, 
-    "MAIRIE D IVRY": {
-      "name": "Mairie d'Ivry", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8111784269088, 
-      "trafic": 2973671.0, 
-      "rank": 181.0, 
-      "key": "MAIRIE D IVRY", 
-      "latitude": 2.3838082733405, 
-      "connexion": {}
-    }, 
-    "BREGUET SABIN": {
-      "name": "Br\u00e9guet-Sabin", 
-      "lines": [
-        5
-      ], 
-      "longitude": 48.8565162145681, 
-      "trafic": 2448167.0, 
-      "rank": 220.0, 
-      "key": "BREGUET SABIN", 
-      "latitude": 2.3709371333348, 
-      "connexion": {}
-    }, 
-    "HOCHE": {
-      "name": "Hoche", 
-      "lines": [
-        5
-      ], 
-      "longitude": 48.8913165639098, 
-      "trafic": 5217935.0, 
-      "rank": 79.0, 
-      "key": "HOCHE", 
-      "latitude": 2.40319741378238, 
-      "connexion": {}
-    }, 
-    "BOUCICAUT": {
-      "name": "Boucicaut", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.8412408953716, 
-      "trafic": 2826775.0, 
-      "rank": 188.0, 
-      "key": "BOUCICAUT", 
-      "latitude": 2.28763431751091, 
-      "connexion": {}
+      "longitude": 48.8943611610735
     }, 
     "COURCELLES": {
+      "connexion": {}, 
+      "rank": 197.0, 
       "name": "Courcelles", 
+      "latitude": 2.30360515293852, 
+      "key": "COURCELLES", 
+      "trafic": 2685096.0, 
       "lines": [
         2
       ], 
-      "longitude": 48.8792362487704, 
-      "trafic": 2685096.0, 
-      "rank": 197.0, 
-      "key": "COURCELLES", 
-      "latitude": 2.30360515293852, 
-      "connexion": {}
+      "longitude": 48.8792362487704
     }, 
-    "REPUBLIQUE": {
-      "name": "R\u00e9publique", 
+    "PORTE DES LILAS": {
+      "connexion": {}, 
+      "rank": 126.0, 
+      "name": "Porte des Lilas", 
+      "latitude": 2.40638582344912, 
+      "key": "PORTE DES LILAS", 
+      "trafic": 3899020.0, 
       "lines": [
-        3, 
-        5, 
-        8, 
-        9, 
+        "3bis", 
         11
       ], 
-      "longitude": 48.8674860390566, 
-      "trafic": 17095806.0, 
-      "rank": 6.0, 
-      "key": "REPUBLIQUE", 
-      "latitude": 2.36366959820676, 
-      "connexion": {}
+      "longitude": 48.8770699912197
     }, 
-    "VICTOR HUGO": {
-      "name": "Victor Hugo", 
-      "lines": [
-        2
-      ], 
-      "longitude": 48.8696716618644, 
-      "trafic": 3966843.0, 
-      "rank": 120.0, 
-      "key": "VICTOR HUGO", 
-      "latitude": 2.28526726839526, 
-      "connexion": {}
-    }, 
-    "CHEMIN VERT": {
-      "name": "Chemin Vert", 
+    "FELIX FAURE": {
+      "connexion": {}, 
+      "rank": 250.0, 
+      "name": "F\u00e9lix Faure", 
+      "latitude": 2.29199788779218, 
+      "key": "FELIX FAURE", 
+      "trafic": 1932459.0, 
       "lines": [
         8
       ], 
-      "longitude": 48.8575640614859, 
-      "trafic": 1448436.0, 
-      "rank": 278.0, 
-      "key": "CHEMIN VERT", 
-      "latitude": 2.36793452563335, 
-      "connexion": {}
+      "longitude": 48.8429772288922
     }, 
-    "PORTE D AUTEUIL": {
-      "name": "Porte d'Auteuil", 
+    "MAIRIE D IVRY": {
+      "connexion": {}, 
+      "rank": 181.0, 
+      "name": "Mairie d'Ivry", 
+      "latitude": 2.3838082733405, 
+      "key": "MAIRIE D IVRY", 
+      "trafic": 2973671.0, 
       "lines": [
-        10
+        7
       ], 
-      "longitude": 48.8480737822692, 
-      "trafic": 721009.0, 
-      "rank": 293.0, 
-      "key": "PORTE D AUTEUIL", 
-      "latitude": 2.25864782764785, 
-      "connexion": {}
+      "longitude": 48.8111784269088
     }, 
-    "REUILLY DIDEROT": {
-      "name": "Reuilly-Diderot", 
+    "PEREIRE": {
+      "connexion": {}, 
+      "rank": 94.0, 
+      "name": "P\u00e9reire", 
+      "latitude": 2.29751704870328, 
+      "key": "PEREIRE", 
+      "trafic": 4678888.0, 
+      "lines": [
+        3
+      ], 
+      "longitude": 48.8845503317922
+    }, 
+    "ALESIA": {
+      "connexion": {}, 
+      "rank": 76.0, 
+      "name": "Al\u00e9sia", 
+      "latitude": 2.32674567371924, 
+      "key": "ALESIA", 
+      "trafic": 5317934.0, 
+      "lines": [
+        4
+      ], 
+      "longitude": 48.828398514348
+    }, 
+    "MAISON BLANCHE": {
+      "connexion": {}, 
+      "rank": 236.0, 
+      "name": "Maison Blanche", 
+      "latitude": 2.35818867672494, 
+      "key": "MAISON BLANCHE", 
+      "trafic": 2155971.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8226203194274
+    }, 
+    "BOLIVAR": {
+      "connexion": {}, 
+      "rank": 296.0, 
+      "name": "Bolivar", 
+      "latitude": 2.37397783298056, 
+      "key": "BOLIVAR", 
+      "trafic": 582328.0, 
+      "lines": [
+        "7bis"
+      ], 
+      "longitude": 48.8805834299155
+    }, 
+    "JOURDAIN": {
+      "connexion": {}, 
+      "rank": 150.0, 
+      "name": "Jourdain", 
+      "latitude": 2.38919309981893, 
+      "key": "JOURDAIN", 
+      "trafic": 3418732.0, 
+      "lines": [
+        11
+      ], 
+      "longitude": 48.8751674276782
+    }, 
+    "MARCADET POISSONNIERS": {
+      "connexion": {}, 
+      "rank": 58.0, 
+      "name": "Marcadet-Poissonniers", 
+      "latitude": 2.34983707163005, 
+      "key": "MARCADET POISSONNIERS", 
+      "trafic": 6064992.0, 
+      "lines": [
+        4, 
+        12
+      ], 
+      "longitude": 48.8908769929214
+    }, 
+    "PIGALLE": {
+      "connexion": {}, 
+      "rank": 57.0, 
+      "name": "Pigalle", 
+      "latitude": 2.3376226051814, 
+      "key": "PIGALLE", 
+      "trafic": 6172069.0, 
+      "lines": [
+        2, 
+        12
+      ], 
+      "longitude": 48.8824943850352
+    }, 
+    "GARE DE LYON": {
+      "connexion": {}, 
+      "rank": 3.0, 
+      "name": "Gare de Lyon", 
+      "latitude": 2.37406590751466, 
+      "key": "GARE DE LYON", 
+      "trafic": 34523049.0, 
       "lines": [
         1, 
+        14
+      ], 
+      "longitude": 48.8447045450658
+    }, 
+    "GARE DE L EST": {
+      "connexion": {}, 
+      "rank": 5.0, 
+      "name": "Gare de l'Est (Verdun)", 
+      "latitude": 2.35791867724751, 
+      "key": "GARE DE L EST", 
+      "trafic": 19671320.0, 
+      "lines": [
+        4, 
+        5, 
+        7
+      ], 
+      "longitude": 48.8760613055252
+    }, 
+    "QUAI DE LA RAPEE": {
+      "connexion": {}, 
+      "rank": 285.0, 
+      "name": "Quai de la Rap\u00e9e", 
+      "latitude": 2.36703563413483, 
+      "key": "QUAI DE LA RAPEE", 
+      "trafic": 1201924.0, 
+      "lines": [
+        5
+      ], 
+      "longitude": 48.8457951983436
+    }, 
+    "ASSEMBLEE NATIONALE": {
+      "connexion": {}, 
+      "rank": 288.0, 
+      "name": "Assembl\u00e9e Nationale", 
+      "latitude": 2.32063223779825, 
+      "key": "ASSEMBLEE NATIONALE", 
+      "trafic": 1085710.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.8608996856827
+    }, 
+    "L ECHAT": {
+      "connexion": {}, 
+      "rank": 241.0, 
+      "name": "Cr\u00e9teil-L'Echat (H\u00f4pital Henri Mondor)", 
+      "latitude": 2.44906187102647, 
+      "key": "L ECHAT", 
+      "trafic": 2109885.0, 
+      "lines": [
         8
       ], 
-      "longitude": 48.8472381327386, 
-      "trafic": 5451933.0, 
-      "rank": 70.0, 
-      "key": "REUILLY DIDEROT", 
-      "latitude": 2.38611818658013, 
-      "connexion": {}
+      "longitude": 48.7964623870188
     }, 
-    "CORVISART": {
-      "name": "Corvisart", 
+    "MAIRIE DES LILAS": {
+      "connexion": {}, 
+      "rank": 96.0, 
+      "name": "Mairie des Lilas", 
+      "latitude": 2.41623893515656, 
+      "key": "MAIRIE DES LILAS", 
+      "trafic": 4602681.0, 
       "lines": [
-        6
+        11
       ], 
-      "longitude": 48.8296116848646, 
-      "trafic": 2604292.0, 
-      "rank": 205.0, 
-      "key": "CORVISART", 
-      "latitude": 2.34943832730731, 
-      "connexion": {}
+      "longitude": 48.8797989953663
+    }, 
+    "TEMPLE": {
+      "connexion": {}, 
+      "rank": 282.0, 
+      "name": "Temple", 
+      "latitude": 2.36108072227889, 
+      "key": "TEMPLE", 
+      "trafic": 1268036.0, 
+      "lines": [
+        3
+      ], 
+      "longitude": 48.8663687823143
+    }, 
+    "EXELMANS": {
+      "connexion": {}, 
+      "rank": 246.0, 
+      "name": "Exelmans", 
+      "latitude": 2.25973661579821, 
+      "key": "EXELMANS", 
+      "trafic": 1985640.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8424273379119
     }, 
     "BARBES ROCHECHOUART": {
+      "connexion": {}, 
+      "rank": 20.0, 
       "name": "Barb\u00e8s-Rochechouart", 
+      "latitude": 2.34973719426844, 
+      "key": "BARBES ROCHECHOUART", 
+      "trafic": 9323474.0, 
       "lines": [
         2, 
         4
       ], 
-      "longitude": 48.8836207315381, 
-      "trafic": 9323474.0, 
-      "rank": 20.0, 
-      "key": "BARBES ROCHECHOUART", 
-      "latitude": 2.34973719426844, 
-      "connexion": {}
+      "longitude": 48.8836207315381
     }, 
-    "CHATEAU ROUGE": {
-      "name": "Ch\u00e2teau Rouge", 
+    "PONT DE SEVRES": {
+      "connexion": {}, 
+      "rank": 108.0, 
+      "name": "Pont de S\u00e8vres", 
+      "latitude": 2.23025364790437, 
+      "key": "PONT DE SEVRES", 
+      "trafic": 4352829.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8295929841028
+    }, 
+    "SAINT PAUL": {
+      "connexion": {}, 
+      "rank": 53.0, 
+      "name": "Saint-Paul (Le Marais)", 
+      "latitude": 2.36065335403361, 
+      "key": "SAINT PAUL", 
+      "trafic": 6265848.0, 
+      "lines": [
+        1
+      ], 
+      "longitude": 48.8551436006388
+    }, 
+    "BASILIQUE DE SAINT DENIS": {
+      "connexion": {}, 
+      "rank": 73.0, 
+      "name": "Basilique de Saint-Denis", 
+      "latitude": 2.35941471750625, 
+      "key": "BASILIQUE DE SAINT DENIS", 
+      "trafic": 5415515.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.9366033097107
+    }, 
+    "BERCY": {
+      "connexion": {}, 
+      "rank": 68.0, 
+      "name": "Bercy", 
+      "latitude": 2.37958296880394, 
+      "key": "BERCY", 
+      "trafic": 5565249.0, 
+      "lines": [
+        6, 
+        14
+      ], 
+      "longitude": 48.8404280893475
+    }, 
+    "CITE": {
+      "connexion": {}, 
+      "rank": 227.0, 
+      "name": "Cit\u00e9", 
+      "latitude": 2.3467203742446, 
+      "key": "CITE", 
+      "trafic": 2364993.0, 
       "lines": [
         4
       ], 
-      "longitude": 48.8871760670966, 
-      "trafic": 6798017.0, 
-      "rank": 45.0, 
-      "key": "CHATEAU ROUGE", 
-      "latitude": 2.34982663344309, 
-      "connexion": {}
+      "longitude": 48.8551005857888
     }, 
-    "MARX DORMOY": {
-      "name": "Marx-Dormoy", 
+    "NOTRE DAME DES CHAMPS": {
+      "connexion": {}, 
+      "rank": 244.0, 
+      "name": "Notre-Dame des Champs", 
+      "latitude": 2.32885296806704, 
+      "key": "NOTRE DAME DES CHAMPS", 
+      "trafic": 2030493.0, 
       "lines": [
         12
       ], 
-      "longitude": 48.8903020649568, 
-      "trafic": 3586107.0, 
-      "rank": 143.0, 
-      "key": "MARX DORMOY", 
-      "latitude": 2.36020584275635, 
-      "connexion": {}
+      "longitude": 48.8449178498434
     }, 
-    "PONT DE LEVALLOIS BECON": {
-      "name": "Pont de Levallois-B\u00e9con", 
-      "lines": [
-        3
-      ], 
-      "longitude": 48.8971187551468, 
-      "trafic": 5085695.0, 
-      "rank": 82.0, 
-      "key": "PONT DE LEVALLOIS BECON", 
-      "latitude": 2.28048941733931, 
-      "connexion": {}
-    }, 
-    "COMMERCE": {
-      "name": "Commerce", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.844811191807, 
-      "trafic": 2700300.0, 
-      "rank": 195.0, 
-      "key": "COMMERCE", 
-      "latitude": 2.29335345012085, 
-      "connexion": {}
-    }, 
-    "DUPLEIX": {
-      "name": "Dupleix", 
+    "PICPUS": {
+      "connexion": {}, 
+      "rank": 276.0, 
+      "name": "Picpus", 
+      "latitude": 2.40125516453104, 
+      "key": "PICPUS", 
+      "trafic": 1496432.0, 
       "lines": [
         6
       ], 
-      "longitude": 48.8508056365633, 
-      "trafic": 3855503.0, 
-      "rank": 130.0, 
-      "key": "DUPLEIX", 
-      "latitude": 2.29276958714394, 
-      "connexion": {}
+      "longitude": 48.8452604478542
     }, 
-    "SAINT PLACIDE": {
-      "name": "Saint-Placide", 
+    "ECOLE MILITAIRE": {
+      "connexion": {}, 
+      "rank": 105.0, 
+      "name": "Ecole Militaire", 
+      "latitude": 2.30554381620113, 
+      "key": "ECOLE MILITAIRE", 
+      "trafic": 4403029.0, 
       "lines": [
-        4
+        8
       ], 
-      "longitude": 48.8465803886283, 
-      "trafic": 3404889.0, 
-      "rank": 151.0, 
-      "key": "SAINT PLACIDE", 
-      "latitude": 2.32693263560201, 
-      "connexion": {}
+      "longitude": 48.8545185491092
     }, 
-    "LA FOURCHE": {
-      "name": "La Fourche", 
+    "RICHELIEU DROUOT": {
+      "connexion": {}, 
+      "rank": 77.0, 
+      "name": "Richelieu-Drouot", 
+      "latitude": 2.33908809938486, 
+      "key": "RICHELIEU DROUOT", 
+      "trafic": 5297670.0, 
+      "lines": [
+        8, 
+        9
+      ], 
+      "longitude": 48.8720139167525
+    }, 
+    "LES GOBELINS": {
+      "connexion": {}, 
+      "rank": 132.0, 
+      "name": "Les Gobelins", 
+      "latitude": 2.35164217355525, 
+      "key": "LES GOBELINS", 
+      "trafic": 3830231.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8366105352574
+    }, 
+    "COURONNES": {
+      "connexion": {}, 
+      "rank": 158.0, 
+      "name": "Couronnes", 
+      "latitude": 2.379868518699, 
+      "key": "COURONNES", 
+      "trafic": 3324335.0, 
+      "lines": [
+        2
+      ], 
+      "longitude": 48.8689698757764
+    }, 
+    "BOBIGNY RAYMOND QUENEAU": {
+      "connexion": {}, 
+      "rank": 229.0, 
+      "name": "Bobigny-Pantin (Raymond Queneau)", 
+      "latitude": 2.42480187771966, 
+      "key": "BOBIGNY RAYMOND QUENEAU", 
+      "trafic": 2251347.0, 
+      "lines": [
+        5
+      ], 
+      "longitude": 48.8952689905167
+    }, 
+    "LES AGNETTES": {
+      "connexion": {}, 
+      "rank": 226.0, 
+      "name": "Les Agnettes", 
+      "latitude": 2.28582751788663, 
+      "key": "LES AGNETTES", 
+      "trafic": 2367677.0, 
       "lines": [
         13
       ], 
-      "longitude": 48.8873918956469, 
-      "trafic": 2975434.0, 
-      "rank": 179.0, 
-      "key": "LA FOURCHE", 
-      "latitude": 2.32603867708385, 
-      "connexion": {}
+      "longitude": 48.9229162320519
     }, 
-    "PYRENEES": {
-      "name": "Pyrenees", 
+    "REUILLY DIDEROT": {
+      "connexion": {}, 
+      "rank": 70.0, 
+      "name": "Reuilly-Diderot", 
+      "latitude": 2.38611818658013, 
+      "key": "REUILLY DIDEROT", 
+      "trafic": 5451933.0, 
       "lines": [
-        11
+        1, 
+        8
       ], 
-      "longitude": 48.8738907818268, 
-      "trafic": 3279317.0, 
-      "rank": 160.0, 
-      "key": "PYRENEES", 
-      "latitude": 2.38488983901602, 
-      "connexion": {}
+      "longitude": 48.8472381327386
     }, 
-    "SAINT MAUR": {
-      "name": "Rue Saint-Maur", 
+    "FALGUIERE": {
+      "connexion": {}, 
+      "rank": 292.0, 
+      "name": "Falgui\u00e8re", 
+      "latitude": 2.31749646866691, 
+      "key": "FALGUIERE", 
+      "trafic": 926922.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.844637894177
+    }, 
+    "PONT DE NEUILLY": {
+      "connexion": {}, 
+      "rank": 46.0, 
+      "name": "Pont de Neuilly", 
+      "latitude": 2.25989172465632, 
+      "key": "PONT DE NEUILLY", 
+      "trafic": 6794402.0, 
+      "lines": [
+        1
+      ], 
+      "longitude": 48.8845093796136
+    }, 
+    "BONNE NOUVELLE": {
+      "connexion": {}, 
+      "rank": 80.0, 
+      "name": "Bonne Nouvelle", 
+      "latitude": 2.34867956971335, 
+      "key": "BONNE NOUVELLE", 
+      "trafic": 5196140.0, 
+      "lines": [
+        8, 
+        9
+      ], 
+      "longitude": 48.8705587205312
+    }, 
+    "CHEMIN VERT": {
+      "connexion": {}, 
+      "rank": 278.0, 
+      "name": "Chemin Vert", 
+      "latitude": 2.36793452563335, 
+      "key": "CHEMIN VERT", 
+      "trafic": 1448436.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.8575640614859
+    }, 
+    "CHEVALERET": {
+      "connexion": {}, 
+      "rank": 175.0, 
+      "name": "Chevaleret", 
+      "latitude": 2.36716524071823, 
+      "key": "CHEVALERET", 
+      "trafic": 2999174.0, 
+      "lines": [
+        6
+      ], 
+      "longitude": 48.8344079354527
+    }, 
+    "PORTE DE BAGNOLET": {
+      "connexion": {}, 
+      "rank": 91.0, 
+      "name": "Porte de Bagnolet", 
+      "latitude": 2.40799995272687, 
+      "key": "PORTE DE BAGNOLET", 
+      "trafic": 4751655.0, 
       "lines": [
         3
       ], 
-      "longitude": 48.8639878082439, 
-      "trafic": 2846171.0, 
-      "rank": 186.0, 
-      "key": "SAINT MAUR", 
-      "latitude": 2.38007329534159, 
-      "connexion": {}
+      "longitude": 48.8643963044636
     }, 
-    "EXELMANS": {
-      "name": "Exelmans", 
+    "GARE D AUSTERLITZ": {
+      "connexion": {}, 
+      "rank": 23.0, 
+      "name": "Gare d'Austerlitz", 
+      "latitude": 2.36431304821499, 
+      "key": "GARE D AUSTERLITZ", 
+      "trafic": 9063260.0, 
       "lines": [
-        9
+        5, 
+        10
       ], 
-      "longitude": 48.8424273379119, 
-      "trafic": 1985640.0, 
-      "rank": 246.0, 
-      "key": "EXELMANS", 
-      "latitude": 2.25973661579821, 
-      "connexion": {}
+      "longitude": 48.8431055835176
     }, 
-    "CHARONNE": {
-      "name": "Charonne", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8547662368488, 
-      "trafic": 3924516.0, 
-      "rank": 123.0, 
-      "key": "CHARONNE", 
-      "latitude": 2.38527064781972, 
-      "connexion": {}
-    }, 
-    "PLAISANCE": {
-      "name": "Plaisance", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.8317625860832, 
-      "trafic": 4645997.0, 
-      "rank": 95.0, 
-      "key": "PLAISANCE", 
-      "latitude": 2.31406734480211, 
-      "connexion": {}
-    }, 
-    "BOLIVAR": {
-      "name": "Bolivar", 
+    "BUTTES CHAUMONT": {
+      "connexion": {}, 
+      "rank": 297.0, 
+      "name": "Buttes-Chaumont", 
+      "latitude": 2.38112931956877, 
+      "key": "BUTTES CHAUMONT", 
+      "trafic": 575182.0, 
       "lines": [
         "7bis"
       ], 
-      "longitude": 48.8805834299155, 
-      "trafic": 582328.0, 
-      "rank": 296.0, 
-      "key": "BOLIVAR", 
-      "latitude": 2.37397783298056, 
-      "connexion": {}
+      "longitude": 48.8777769835483
+    }, 
+    "STALINGRAD": {
+      "connexion": {}, 
+      "rank": 40.0, 
+      "name": "Stalingrad", 
+      "latitude": 2.3670850145355, 
+      "key": "STALINGRAD", 
+      "trafic": 6906194.0, 
+      "lines": [
+        2, 
+        5, 
+        7
+      ], 
+      "longitude": 48.88430478953
+    }, 
+    "CAMBRONNE": {
+      "connexion": {}, 
+      "rank": 167.0, 
+      "name": "Cambronne", 
+      "latitude": 2.30180780419231, 
+      "key": "CAMBRONNE", 
+      "trafic": 3155480.0, 
+      "lines": [
+        6
+      ], 
+      "longitude": 48.8474563362776
+    }, 
+    "OURCQ": {
+      "connexion": {}, 
+      "rank": 128.0, 
+      "name": "Ourcq", 
+      "latitude": 2.38602958795485, 
+      "key": "OURCQ", 
+      "trafic": 3887042.0, 
+      "lines": [
+        5
+      ], 
+      "longitude": 48.8869750227319
+    }, 
+    "SOLFERINO": {
+      "connexion": {}, 
+      "rank": 219.0, 
+      "name": "Solf\u00e9rino", 
+      "latitude": 2.32268062216292, 
+      "key": "SOLFERINO", 
+      "trafic": 2449915.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.8585512442859
+    }, 
+    "ESPLANADE DE LA DEFENSE": {
+      "connexion": {}, 
+      "rank": 27.0, 
+      "name": "Esplanade de la D\u00e9fense", 
+      "latitude": 2.25044232471862, 
+      "key": "ESPLANADE DE LA DEFENSE", 
+      "trafic": 8721277.0, 
+      "lines": [
+        1
+      ], 
+      "longitude": 48.887843122138
+    }, 
+    "ROME": {
+      "connexion": {}, 
+      "rank": 193.0, 
+      "name": "Rome", 
+      "latitude": 2.32098414419979, 
+      "key": "ROME", 
+      "trafic": 2747395.0, 
+      "lines": [
+        2
+      ], 
+      "longitude": 48.8825292240735
+    }, 
+    "MICHEL ANGE MOLITOR": {
+      "connexion": {}, 
+      "rank": 248.0, 
+      "name": "Michel-Ange-Molitor", 
+      "latitude": 2.26204786419272, 
+      "key": "MICHEL ANGE MOLITOR", 
+      "trafic": 1939507.0, 
+      "lines": [
+        9, 
+        10
+      ], 
+      "longitude": 48.844867436543
+    }, 
+    "BOISSIERE": {
+      "connexion": {}, 
+      "rank": 237.0, 
+      "name": "Boissi\u00e8re", 
+      "latitude": 2.29047384540453, 
+      "key": "BOISSIERE", 
+      "trafic": 2145714.0, 
+      "lines": [
+        6
+      ], 
+      "longitude": 48.8670270457182
+    }, 
+    "MOUTON DUVERNET": {
+      "connexion": {}, 
+      "rank": 262.0, 
+      "name": "Mouton-Duvernet", 
+      "latitude": 2.32942693483694, 
+      "key": "MOUTON DUVERNET", 
+      "trafic": 1690457.0, 
+      "lines": [
+        4
+      ], 
+      "longitude": 48.8313196995984
+    }, 
+    "PYRENEES": {
+      "connexion": {}, 
+      "rank": 160.0, 
+      "name": "Pyrenees", 
+      "latitude": 2.38488983901602, 
+      "key": "PYRENEES", 
+      "trafic": 3279317.0, 
+      "lines": [
+        11
+      ], 
+      "longitude": 48.8738907818268
+    }, 
+    "PONT MARIE": {
+      "connexion": {}, 
+      "rank": 272.0, 
+      "name": "Pont Marie (Cit\u00e9 des Arts)", 
+      "latitude": 2.35745881597611, 
+      "key": "PONT MARIE", 
+      "trafic": 1595098.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8533107454827
+    }, 
+    "VILLEJUIF PAUL VAILLANT COUTURIER": {
+      "connexion": {}, 
+      "rank": 238.0, 
+      "name": "Villejuif-Paul Vaillant Couturier (H\u00f4pital Paul Brousse)", 
+      "latitude": 2.3679661373898, 
+      "key": "VILLEJUIF PAUL VAILLANT COUTURIER", 
+      "trafic": 2118126.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.7959447270881
+    }, 
+    "SULLY MORLAND": {
+      "connexion": {}, 
+      "rank": 269.0, 
+      "name": "Sully-Morland", 
+      "latitude": 2.36186696356924, 
+      "key": "SULLY MORLAND", 
+      "trafic": 1606960.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8510338403896
+    }, 
+    "BLANCHE": {
+      "connexion": {}, 
+      "rank": 113.0, 
+      "name": "Blanche", 
+      "latitude": 2.33166752315741, 
+      "key": "BLANCHE", 
+      "trafic": 4252071.0, 
+      "lines": [
+        2
+      ], 
+      "longitude": 48.8836536085134
+    }, 
+    "LOUISE MICHEL": {
+      "connexion": {}, 
+      "rank": 163.0, 
+      "name": "Louise Michel", 
+      "latitude": 2.28813731087893, 
+      "key": "LOUISE MICHEL", 
+      "trafic": 3240270.0, 
+      "lines": [
+        3
+      ], 
+      "longitude": 48.8888292427619
+    }, 
+    "CHARONNE": {
+      "connexion": {}, 
+      "rank": 123.0, 
+      "name": "Charonne", 
+      "latitude": 2.38527064781972, 
+      "key": "CHARONNE", 
+      "trafic": 3924516.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8547662368488
+    }, 
+    "RASPAIL": {
+      "connexion": {}, 
+      "rank": 259.0, 
+      "name": "Raspail", 
+      "latitude": 2.33058309684112, 
+      "key": "RASPAIL", 
+      "trafic": 1785546.0, 
+      "lines": [
+        4, 
+        6
+      ], 
+      "longitude": 48.8389637143162
+    }, 
+    "SAINT FRANCOIS XAVIER": {
+      "connexion": {}, 
+      "rank": 255.0, 
+      "name": "Saint-Francois-Xavier", 
+      "latitude": 2.31403452688812, 
+      "key": "SAINT FRANCOIS XAVIER", 
+      "trafic": 1850407.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.8518632147979
+    }, 
+    "CORVISART": {
+      "connexion": {}, 
+      "rank": 205.0, 
+      "name": "Corvisart", 
+      "latitude": 2.34943832730731, 
+      "key": "CORVISART", 
+      "trafic": 2604292.0, 
+      "lines": [
+        6
+      ], 
+      "longitude": 48.8296116848646
+    }, 
+    "MONTGALLET": {
+      "connexion": {}, 
+      "rank": 258.0, 
+      "name": "Montgallet", 
+      "latitude": 2.38980213751236, 
+      "key": "MONTGALLET", 
+      "trafic": 1793225.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.8442504626131
+    }, 
+    "GALLIENI": {
+      "connexion": {}, 
+      "rank": 50.0, 
+      "name": "Gallieni (Parc de Bagnolet)", 
+      "latitude": 2.41568260426712, 
+      "key": "GALLIENI", 
+      "trafic": 6314009.0, 
+      "lines": [
+        3
+      ], 
+      "longitude": 48.8633345779424
+    }, 
+    "LIBERTE": {
+      "connexion": {}, 
+      "rank": 204.0, 
+      "name": "Libert\u00e9", 
+      "latitude": 2.40692557755493, 
+      "key": "LIBERTE", 
+      "trafic": 2607263.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.8258380800419
+    }, 
+    "NATION": {
+      "connexion": {}, 
+      "rank": 19.0, 
+      "name": "Nation", 
+      "latitude": 2.39590574456544, 
+      "key": "NATION", 
+      "trafic": 9481963.0, 
+      "lines": [
+        1, 
+        2, 
+        6, 
+        9
+      ], 
+      "longitude": 48.8484657505532
+    }, 
+    "PIERRE CURIE": {
+      "connexion": {}, 
+      "rank": 279.0, 
+      "name": "Pierre et Marie Curie", 
+      "latitude": 2.3772866229916, 
+      "key": "PIERRE CURIE", 
+      "trafic": 1416989.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8156836605119
+    }, 
+    "CADET": {
+      "connexion": {}, 
+      "rank": 139.0, 
+      "name": "Cadet", 
+      "latitude": 2.34305895381275, 
+      "key": "CADET", 
+      "trafic": 3650405.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.875475187116
+    }, 
+    "ARTS ET METIERS": {
+      "connexion": {}, 
+      "rank": 129.0, 
+      "name": "Arts-et-M\u00e9tiers", 
+      "latitude": 2.35637778086357, 
+      "key": "ARTS ET METIERS", 
+      "trafic": 3859066.0, 
+      "lines": [
+        3, 
+        11
+      ], 
+      "longitude": 48.8652929436681
+    }, 
+    "RENNES": {
+      "connexion": {}, 
+      "rank": 281.0, 
+      "name": "Rennes", 
+      "latitude": 2.32808305123987, 
+      "key": "RENNES", 
+      "trafic": 1307167.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.8480544328681
+    }, 
+    "LES HALLES": {
+      "connexion": {}, 
+      "rank": 10.0, 
+      "name": "Les Halles", 
+      "latitude": 2.34583626729201, 
+      "key": "LES HALLES", 
+      "trafic": 13113834.0, 
+      "lines": [
+        4
+      ], 
+      "longitude": 48.862194721152
+    }, 
+    "BOURSE": {
+      "connexion": {}, 
+      "rank": 157.0, 
+      "name": "Bourse", 
+      "latitude": 2.34123268333609, 
+      "key": "BOURSE", 
+      "trafic": 3350796.0, 
+      "lines": [
+        3
+      ], 
+      "longitude": 48.8687976838596
+    }, 
+    "PORTE DE LA VILLETTE": {
+      "connexion": {}, 
+      "rank": 166.0, 
+      "name": "Porte de la Villette", 
+      "latitude": 2.38580611263705, 
+      "key": "PORTE DE LA VILLETTE", 
+      "trafic": 3209252.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8978102190581
+    }, 
+    "TERNES": {
+      "connexion": {}, 
+      "rank": 121.0, 
+      "name": "Ternes", 
+      "latitude": 2.29803071264819, 
+      "key": "TERNES", 
+      "trafic": 3930362.0, 
+      "lines": [
+        2
+      ], 
+      "longitude": 48.8780661989513
+    }, 
+    "VARENNE": {
+      "connexion": {}, 
+      "rank": 275.0, 
+      "name": "Varenne", 
+      "latitude": 2.31553023354222, 
+      "key": "VARENNE", 
+      "trafic": 1517830.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.8575166012889
+    }, 
+    "LA TOUR MAUBOURG": {
+      "connexion": {}, 
+      "rank": 243.0, 
+      "name": "La Tour-Maubourg", 
+      "latitude": 2.30959864479432, 
+      "key": "LA TOUR MAUBOURG", 
+      "trafic": 2055583.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.8573850541664
+    }, 
+    "VOLTAIRE": {
+      "connexion": {}, 
+      "rank": 78.0, 
+      "name": "Voltaire (L\u00e9on Blum)", 
+      "latitude": 2.37988391957515, 
+      "key": "VOLTAIRE", 
+      "trafic": 5273953.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8578758428685
+    }, 
+    "BALARD": {
+      "connexion": {}, 
+      "rank": 112.0, 
+      "name": "Balard", 
+      "latitude": 2.27821832700082, 
+      "key": "BALARD", 
+      "trafic": 4263152.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.8362754634973
+    }, 
+    "SAINT MICHEL": {
+      "connexion": {}, 
+      "rank": 22.0, 
+      "name": "Saint-Michel", 
+      "latitude": 2.34346845196892, 
+      "key": "SAINT MICHEL", 
+      "trafic": 9159024.0, 
+      "lines": [
+        4
+      ], 
+      "longitude": 48.8532875817267
+    }, 
+    "SAINT GEORGES": {
+      "connexion": {}, 
+      "rank": 283.0, 
+      "name": "Saint-Georges", 
+      "latitude": 2.33758851215148, 
+      "key": "SAINT GEORGES", 
+      "trafic": 1254251.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.8785085363002
+    }, 
+    "BILLANCOURT": {
+      "connexion": {}, 
+      "rank": 201.0, 
+      "name": "Billancourt", 
+      "latitude": 2.23810999708736, 
+      "key": "BILLANCOURT", 
+      "trafic": 2643194.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8319437593265
+    }, 
+    "PYRAMIDES": {
+      "connexion": {}, 
+      "rank": 83.0, 
+      "name": "Pyramides", 
+      "latitude": 2.33366506577888, 
+      "key": "PYRAMIDES", 
+      "trafic": 5084082.0, 
+      "lines": [
+        7, 
+        14
+      ], 
+      "longitude": 48.8669463020695
+    }, 
+    "LEDRU ROLLIN": {
+      "connexion": {}, 
+      "rank": 133.0, 
+      "name": "Ledru-Rollin", 
+      "latitude": 2.37594535235887, 
+      "key": "LEDRU ROLLIN", 
+      "trafic": 3829461.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.8511941201646
+    }, 
+    "SEGUR": {
+      "connexion": {}, 
+      "rank": 267.0, 
+      "name": "S\u00e9gur", 
+      "latitude": 2.30782041849586, 
+      "key": "SEGUR", 
+      "trafic": 1627318.0, 
+      "lines": [
+        10
+      ], 
+      "longitude": 48.8467524550776
+    }, 
+    "LES COURTILLES": {
+      "connexion": {}, 
+      "rank": 154.0, 
+      "name": "Asnieres-Gennevilliers Les Courtilles", 
+      "latitude": 2.28407447167184, 
+      "key": "LES COURTILLES", 
+      "trafic": 3377106.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.9301634125573
+    }, 
+    "MALAKOFF ETIENNE DOLET": {
+      "connexion": {}, 
+      "rank": 256.0, 
+      "name": "Malakoff-Rue Etienne Dolet", 
+      "latitude": 2.29699896350216, 
+      "key": "MALAKOFF ETIENNE DOLET", 
+      "trafic": 1846661.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.8146679725106
+    }, 
+    "ECOLE VETERINAIRE DE MAISONS ALFORT": {
+      "connexion": {}, 
+      "rank": 155.0, 
+      "name": "Ecole V\u00e9t\u00e9rinaire de Maisons-Alfort", 
+      "latitude": 2.42075635931134, 
+      "key": "ECOLE VETERINAIRE DE MAISONS ALFORT", 
+      "trafic": 3371386.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.8151517942859
+    }, 
+    "ALMA MARCEAU": {
+      "connexion": {}, 
+      "rank": 119.0, 
+      "name": "Alma-Marceau", 
+      "latitude": 2.30088336611718, 
+      "key": "ALMA MARCEAU", 
+      "trafic": 4080301.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8646460306735
+    }, 
+    "PORTE D ITALIE": {
+      "connexion": {}, 
+      "rank": 209.0, 
+      "name": "Porte d'Italie", 
+      "latitude": 2.35985580265649, 
+      "key": "PORTE D ITALIE", 
+      "trafic": 2562120.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8189346110715
+    }, 
+    "WAGRAM": {
+      "connexion": {}, 
+      "rank": 207.0, 
+      "name": "Wagram", 
+      "latitude": 2.30465144209881, 
+      "key": "WAGRAM", 
+      "trafic": 2575735.0, 
+      "lines": [
+        3
+      ], 
+      "longitude": 48.8838739610152
+    }, 
+    "PERE LACHAISE": {
+      "connexion": {}, 
+      "rank": 86.0, 
+      "name": "P\u00e8re-Lachaise", 
+      "latitude": 2.38672181193918, 
+      "key": "PERE LACHAISE", 
+      "trafic": 4880201.0, 
+      "lines": [
+        2, 
+        3
+      ], 
+      "longitude": 48.8626131584417
+    }, 
+    "ARGENTINE": {
+      "connexion": {}, 
+      "rank": 189.0, 
+      "name": "Argentine", 
+      "latitude": 2.2893216639617, 
+      "key": "ARGENTINE", 
+      "trafic": 2820883.0, 
+      "lines": [
+        1
+      ], 
+      "longitude": 48.875533092935
+    }, 
+    "MAIRIE DE SAINT OUEN": {
+      "connexion": {}, 
+      "rank": 137.0, 
+      "name": "Mairie de Saint-Ouen", 
+      "latitude": 2.334163015407, 
+      "key": "MAIRIE DE SAINT OUEN", 
+      "trafic": 3732408.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.9120620157054
+    }, 
+    "PARMENTIER": {
+      "connexion": {}, 
+      "rank": 156.0, 
+      "name": "Parmentier", 
+      "latitude": 2.37584679468414, 
+      "key": "PARMENTIER", 
+      "trafic": 3357432.0, 
+      "lines": [
+        3
+      ], 
+      "longitude": 48.8651606067898
+    }, 
+    "JACQUES BONSERGENT": {
+      "connexion": {}, 
+      "rank": 203.0, 
+      "name": "Jacques-Bonsergent", 
+      "latitude": 2.36053788394075, 
+      "key": "JACQUES BONSERGENT", 
+      "trafic": 2622801.0, 
+      "lines": [
+        5
+      ], 
+      "longitude": 48.8709749040173
+    }, 
+    "SEVRES BABYLONE": {
+      "connexion": {}, 
+      "rank": 67.0, 
+      "name": "S\u00e8vres-Babylone", 
+      "latitude": 2.32587286292213, 
+      "key": "SEVRES BABYLONE", 
+      "trafic": 5618445.0, 
+      "lines": [
+        10, 
+        12
+      ], 
+      "longitude": 48.8512043552606
+    }, 
+    "FUNICULAIRE": {
+      "connexion": {}, 
+      "rank": 147.0, 
+      "name": "Funiculaire Gare haute", 
+      "latitude": 2.34334627251386, 
+      "key": "FUNICULAIRE", 
+      "trafic": 3488052.0, 
+      "lines": [
+        2
+      ], 
+      "longitude": 48.8856217864643
+    }, 
+    "ROBESPIERRE": {
+      "connexion": {}, 
+      "rank": 110.0, 
+      "name": "Robespierre", 
+      "latitude": 2.42355673885079, 
+      "key": "ROBESPIERRE", 
+      "trafic": 4317097.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.85556400483
+    }, 
+    "NOTRE DAME DE LORETTE": {
+      "connexion": {}, 
+      "rank": 185.0, 
+      "name": "Notre-Dame de Lorette", 
+      "latitude": 2.33845371043763, 
+      "key": "NOTRE DAME DE LORETTE", 
+      "trafic": 2849349.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.8766256956919
+    }, 
+    "PLACE CLICHY": {
+      "connexion": {}, 
+      "rank": 21.0, 
+      "name": "Place de Clichy", 
+      "latitude": 2.32730682210246, 
+      "key": "PLACE CLICHY", 
+      "trafic": 9255747.0, 
+      "lines": [
+        2, 
+        13
+      ], 
+      "longitude": 48.8836233671973
+    }, 
+    "MAIRIE DE CLICHY": {
+      "connexion": {}, 
+      "rank": 42.0, 
+      "name": "Mairie de Clichy", 
+      "latitude": 2.30556600125528, 
+      "key": "MAIRIE DE CLICHY", 
+      "trafic": 6892451.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.9036594416322
+    }, 
+    "PASSY": {
+      "connexion": {}, 
+      "rank": 124.0, 
+      "name": "Passy", 
+      "latitude": 2.28586501138629, 
+      "key": "PASSY", 
+      "trafic": 3918954.0, 
+      "lines": [
+        6
+      ], 
+      "longitude": 48.8576333212361
+    }, 
+    "REAUMUR SEBASTOPOL": {
+      "connexion": {}, 
+      "rank": 61.0, 
+      "name": "R\u00e9aumur-S\u00e9bastopol", 
+      "latitude": 2.35203525525425, 
+      "key": "REAUMUR SEBASTOPOL", 
+      "trafic": 5860077.0, 
+      "lines": [
+        3, 
+        4
+      ], 
+      "longitude": 48.8663118301881
+    }, 
+    "TELEGRAPHE": {
+      "connexion": {}, 
+      "rank": 235.0, 
+      "name": "Telegraphe", 
+      "latitude": 2.3985900637686, 
+      "key": "TELEGRAPHE", 
+      "trafic": 2160412.0, 
+      "lines": [
+        11
+      ], 
+      "longitude": 48.8753936353787
+    }, 
+    "SENTIER": {
+      "connexion": {}, 
+      "rank": 159.0, 
+      "name": "Sentier", 
+      "latitude": 2.3466136387446, 
+      "key": "SENTIER", 
+      "trafic": 3318660.0, 
+      "lines": [
+        3
+      ], 
+      "longitude": 48.8674133308826
+    }, 
+    "CROIX DE CHAVAUX": {
+      "connexion": {}, 
+      "rank": 84.0, 
+      "name": "Croix-de-Chavaux (Jacques Duclos)", 
+      "latitude": 2.43609830308268, 
+      "key": "CROIX DE CHAVAUX", 
+      "trafic": 4978787.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8579269412394
+    }, 
+    "DUPLEIX": {
+      "connexion": {}, 
+      "rank": 130.0, 
+      "name": "Dupleix", 
+      "latitude": 2.29276958714394, 
+      "key": "DUPLEIX", 
+      "trafic": 3855503.0, 
+      "lines": [
+        6
+      ], 
+      "longitude": 48.8508056365633
+    }, 
+    "LAUMIERE": {
+      "connexion": {}, 
+      "rank": 100.0, 
+      "name": "Laumi\u00e8re", 
+      "latitude": 2.3795955531979, 
+      "key": "LAUMIERE", 
+      "trafic": 4518075.0, 
+      "lines": [
+        5
+      ], 
+      "longitude": 48.8850422338428
+    }, 
+    "CORENTIN CARIOU": {
+      "connexion": {}, 
+      "rank": 170.0, 
+      "name": "Corentin-Cariou", 
+      "latitude": 2.38244550268222, 
+      "key": "CORENTIN CARIOU", 
+      "trafic": 3090833.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8949061258374
+    }, 
+    "CHATEAU DE VINCENNES": {
+      "connexion": {}, 
+      "rank": 88.0, 
+      "name": "Ch\u00e2teau de Vincennes", 
+      "latitude": 2.43950970545674, 
+      "key": "CHATEAU DE VINCENNES", 
+      "trafic": 4858849.0, 
+      "lines": [
+        1
+      ], 
+      "longitude": 48.8445363116503
+    }, 
+    "OLYMPIADES": {
+      "connexion": {}, 
+      "rank": 37.0, 
+      "name": "Olympiades", 
+      "latitude": 2.36729701204889, 
+      "key": "OLYMPIADES", 
+      "trafic": 7245724.0, 
+      "lines": [
+        14
+      ], 
+      "longitude": 48.8268582996999
+    }, 
+    "CHATEAU D EAU": {
+      "connexion": {}, 
+      "rank": 89.0, 
+      "name": "Ch\u00e2teau d'Eau", 
+      "latitude": 2.35547036877069, 
+      "key": "CHATEAU D EAU", 
+      "trafic": 4842822.0, 
+      "lines": [
+        4
+      ], 
+      "longitude": 48.8725890109106
+    }, 
+    "ETIENNE MARCEL": {
+      "connexion": {}, 
+      "rank": 200.0, 
+      "name": "Etienne Marcel", 
+      "latitude": 2.34866984004444, 
+      "key": "ETIENNE MARCEL", 
+      "trafic": 2661074.0, 
+      "lines": [
+        4
+      ], 
+      "longitude": 48.8634946589771
+    }, 
+    "BROCHANT": {
+      "connexion": {}, 
+      "rank": 152.0, 
+      "name": "Brochant", 
+      "latitude": 2.32002765158099, 
+      "key": "BROCHANT", 
+      "trafic": 3401859.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.8903794211931
+    }, 
+    "BOULOGNE JEAN JAURES": {
+      "connexion": {}, 
+      "rank": 136.0, 
+      "name": "Boulogne-Jean-Jaur\u00e8s", 
+      "latitude": 2.23883585019659, 
+      "key": "BOULOGNE JEAN JAURES", 
+      "trafic": 3748047.0, 
+      "lines": [
+        10
+      ], 
+      "longitude": 48.8422216612984
+    }, 
+    "SAINT DENIS PORTE DE PARIS": {
+      "connexion": {}, 
+      "rank": 146.0, 
+      "name": "Saint-Denis-Porte de Paris", 
+      "latitude": 2.35741016429387, 
+      "key": "SAINT DENIS PORTE DE PARIS", 
+      "trafic": 3517853.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.9296276098426
+    }, 
+    "PONT DE LEVALLOIS BECON": {
+      "connexion": {}, 
+      "rank": 82.0, 
+      "name": "Pont de Levallois-B\u00e9con", 
+      "latitude": 2.28048941733931, 
+      "key": "PONT DE LEVALLOIS BECON", 
+      "trafic": 5085695.0, 
+      "lines": [
+        3
+      ], 
+      "longitude": 48.8971187551468
+    }, 
+    "GABRIEL PERI": {
+      "connexion": {}, 
+      "rank": 74.0, 
+      "name": "Gabriel-P\u00e9ri", 
+      "latitude": 2.29492376422254, 
+      "key": "GABRIEL PERI", 
+      "trafic": 5377830.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.9162335021232
+    }, 
+    "PELLEPORT": {
+      "connexion": {}, 
+      "rank": 300.0, 
+      "name": "Pelleport", 
+      "latitude": 2.40135199013901, 
+      "key": "PELLEPORT", 
+      "trafic": 364642.0, 
+      "lines": [
+        "3bis"
+      ], 
+      "longitude": 48.868519874537
+    }, 
+    "PORTE MAILLOT": {
+      "connexion": {}, 
+      "rank": 26.0, 
+      "name": "Porte Maillot", 
+      "latitude": 2.28183617255428, 
+      "key": "PORTE MAILLOT", 
+      "trafic": 8852329.0, 
+      "lines": [
+        1
+      ], 
+      "longitude": 48.877964502968
+    }, 
+    "SAINT FARGEAU": {
+      "connexion": {}, 
+      "rank": 289.0, 
+      "name": "Saint-Fargeau", 
+      "latitude": 2.40485763553065, 
+      "key": "SAINT FARGEAU", 
+      "trafic": 979912.0, 
+      "lines": [
+        "3bis"
+      ], 
+      "longitude": 48.871951099492
+    }, 
+    "ANVERS": {
+      "connexion": {}, 
+      "rank": 48.0, 
+      "name": "Anvers", 
+      "latitude": 2.34397282520569, 
+      "key": "ANVERS", 
+      "trafic": 6667509.0, 
+      "lines": [
+        2
+      ], 
+      "longitude": 48.8831322902739
+    }, 
+    "EGLISE DE": {
+      "connexion": {}, 
+      "rank": 141.0, 
+      "name": "Eglise de Pantin", 
+      "latitude": 2.41328568033304, 
+      "key": "EGLISE DE", 
+      "trafic": 3632300.0, 
+      "lines": [
+        5
+      ], 
+      "longitude": 48.893113981741
+    }, 
+    "MALAKOFF PLATEAU DE VANVES": {
+      "connexion": {}, 
+      "rank": 125.0, 
+      "name": "Malakoff-Plateau de Vanves", 
+      "latitude": 2.29701508516275, 
+      "key": "MALAKOFF PLATEAU DE VANVES", 
+      "trafic": 3912036.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.8231314024501
+    }, 
+    "PLAISANCE": {
+      "connexion": {}, 
+      "rank": 95.0, 
+      "name": "Plaisance", 
+      "latitude": 2.31406734480211, 
+      "key": "PLAISANCE", 
+      "trafic": 4645997.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.8317625860832
+    }, 
+    "SAINT DENIS UNIVERSITE": {
+      "connexion": {}, 
+      "rank": 75.0, 
+      "name": "Saint-Denis-Universite", 
+      "latitude": 2.36235875823436, 
+      "key": "SAINT DENIS UNIVERSITE", 
+      "trafic": 5365746.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.9456254805762
+    }, 
+    "LOUVRE": {
+      "connexion": {}, 
+      "rank": 206.0, 
+      "name": "Louvre-Rivoli", 
+      "latitude": 2.34100049025543, 
+      "key": "LOUVRE", 
+      "trafic": 2582023.0, 
+      "lines": [
+        1
+      ], 
+      "longitude": 48.8605382946574
+    }, 
+    "LA FOURCHE": {
+      "connexion": {}, 
+      "rank": 179.0, 
+      "name": "La Fourche", 
+      "latitude": 2.32603867708385, 
+      "key": "LA FOURCHE", 
+      "trafic": 2975434.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.8873918956469
+    }, 
+    "PERNETY": {
+      "connexion": {}, 
+      "rank": 161.0, 
+      "name": "Pern\u00e9ty", 
+      "latitude": 2.31766395823272, 
+      "key": "PERNETY", 
+      "trafic": 3275971.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.8338169001883
+    }, 
+    "MICHEL ANGE AUTEUIL": {
+      "connexion": {}, 
+      "rank": 233.0, 
+      "name": "Michel-Ange-Auteuil", 
+      "latitude": 2.2642974417474, 
+      "key": "MICHEL ANGE AUTEUIL", 
+      "trafic": 2206285.0, 
+      "lines": [
+        9, 
+        10
+      ], 
+      "longitude": 48.8477403459598
+    }, 
+    "POINTE DU LAC": {
+      "connexion": {}, 
+      "rank": 299.0, 
+      "name": "Pointe du Lac", 
+      "latitude": 2.46598982922341, 
+      "key": "POINTE DU LAC", 
+      "trafic": 389235.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.7679578710506
+    }, 
+    "BUZENVAL": {
+      "connexion": {}, 
+      "rank": 254.0, 
+      "name": "Buzenval", 
+      "latitude": 2.40102482535231, 
+      "key": "BUZENVAL", 
+      "trafic": 1853733.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8517360615634
     }, 
     "CHATELET": {
+      "connexion": {}, 
+      "rank": 8.0, 
       "name": "Ch\u00e2telet", 
+      "latitude": 2.34711940104793, 
+      "key": "CHATELET", 
+      "trafic": 14440964.0, 
       "lines": [
         1, 
         4, 
@@ -399,1748 +1638,2029 @@
         11, 
         14
       ], 
-      "longitude": 48.8585195224421, 
-      "trafic": 14440964.0, 
-      "rank": 8.0, 
-      "key": "CHATELET", 
-      "latitude": 2.34711940104793, 
-      "connexion": {}
-    }, 
-    "QUATRE SEPTEMBRE": {
-      "name": "Quatre Septembre", 
-      "lines": [
-        3
-      ], 
-      "longitude": 48.8693729306069, 
-      "trafic": 1751431.0, 
-      "rank": 260.0, 
-      "key": "QUATRE SEPTEMBRE", 
-      "latitude": 2.33574247484458, 
-      "connexion": {}
-    }, 
-    "RICHELIEU DROUOT": {
-      "name": "Richelieu-Drouot", 
-      "lines": [
-        8, 
-        9
-      ], 
-      "longitude": 48.8720139167525, 
-      "trafic": 5297670.0, 
-      "rank": 77.0, 
-      "key": "RICHELIEU DROUOT", 
-      "latitude": 2.33908809938486, 
-      "connexion": {}
-    }, 
-    "PERE LACHAISE": {
-      "name": "P\u00e8re-Lachaise", 
-      "lines": [
-        2, 
-        3
-      ], 
-      "longitude": 48.8626131584417, 
-      "trafic": 4880201.0, 
-      "rank": 86.0, 
-      "key": "PERE LACHAISE", 
-      "latitude": 2.38672181193918, 
-      "connexion": {}
-    }, 
-    "BERAULT": {
-      "name": "B\u00e9rault", 
-      "lines": [
-        1
-      ], 
-      "longitude": 48.8453342425325, 
-      "trafic": 2531531.0, 
-      "rank": 214.0, 
-      "key": "BERAULT", 
-      "latitude": 2.42923849792977, 
-      "connexion": {}
-    }, 
-    "MIROMESNIL": {
-      "name": "Miromesnil", 
-      "lines": [
-        9, 
-        13
-      ], 
-      "longitude": 48.8737063841262, 
-      "trafic": 5769023.0, 
-      "rank": 64.0, 
-      "key": "MIROMESNIL", 
-      "latitude": 2.31519918493339, 
-      "connexion": {}
-    }, 
-    "JASMIN": {
-      "name": "Jasmin", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8523396005309, 
-      "trafic": 2065058.0, 
-      "rank": 242.0, 
-      "key": "JASMIN", 
-      "latitude": 2.26790681383725, 
-      "connexion": {}
-    }, 
-    "CAMBRONNE": {
-      "name": "Cambronne", 
-      "lines": [
-        6
-      ], 
-      "longitude": 48.8474563362776, 
-      "trafic": 3155480.0, 
-      "rank": 167.0, 
-      "key": "CAMBRONNE", 
-      "latitude": 2.30180780419231, 
-      "connexion": {}
-    }, 
-    "ABBESSES": {
-      "name": "Abbesses", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.8844176451841, 
-      "trafic": 2545127.0, 
-      "rank": 213.0, 
-      "key": "ABBESSES", 
-      "latitude": 2.33871281165883, 
-      "connexion": {}
-    }, 
-    "UNIVERSITE": {
-      "name": "Cr\u00e9teil-Universit\u00e9", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.7893506910917, 
-      "trafic": 3116625.0, 
-      "rank": 169.0, 
-      "key": "UNIVERSITE", 
-      "latitude": 2.45144739751129, 
-      "connexion": {}
-    }, 
-    "OPERA": {
-      "name": "Op\u00e9ra", 
-      "lines": [
-        3, 
-        7, 
-        8
-      ], 
-      "longitude": 48.8707029411588, 
-      "trafic": 12389715.0, 
-      "rank": 14.0, 
-      "key": "OPERA", 
-      "latitude": 2.33180515640395, 
-      "connexion": {}
-    }, 
-    "GONCOURT": {
-      "name": "Goncourt (H\u00f4pital Saint-Louis)", 
-      "lines": [
-        11
-      ], 
-      "longitude": 48.8696803933807, 
-      "trafic": 3648533.0, 
-      "rank": 140.0, 
-      "key": "GONCOURT", 
-      "latitude": 2.3712726500969, 
-      "connexion": {}
-    }, 
-    "MONCEAU": {
-      "name": "Monceau", 
-      "lines": [
-        2
-      ], 
-      "longitude": 48.8806306676395, 
-      "trafic": 1605664.0, 
-      "rank": 270.0, 
-      "key": "MONCEAU", 
-      "latitude": 2.30896624223491, 
-      "connexion": {}
-    }, 
-    "GEORGE V": {
-      "name": "George V", 
-      "lines": [
-        1
-      ], 
-      "longitude": 48.8719825731694, 
-      "trafic": 6192199.0, 
-      "rank": 56.0, 
-      "key": "GEORGE V", 
-      "latitude": 2.30046268343343, 
-      "connexion": {}
-    }, 
-    "MAISON BLANCHE": {
-      "name": "Maison Blanche", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8226203194274, 
-      "trafic": 2155971.0, 
-      "rank": 236.0, 
-      "key": "MAISON BLANCHE", 
-      "latitude": 2.35818867672494, 
-      "connexion": {}
-    }, 
-    "PERNETY": {
-      "name": "Pern\u00e9ty", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.8338169001883, 
-      "trafic": 3275971.0, 
-      "rank": 161.0, 
-      "key": "PERNETY", 
-      "latitude": 2.31766395823272, 
-      "connexion": {}
-    }, 
-    "TRINITE D ESTIENNE D ORVES": {
-      "name": "Trinit\u00e9-d'Estienne d'Orves", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.87650879316, 
-      "trafic": 2192391.0, 
-      "rank": 234.0, 
-      "key": "TRINITE D ESTIENNE D ORVES", 
-      "latitude": 2.33305807671909, 
-      "connexion": {}
-    }, 
-    "MAIRIE DE MONTREUIL": {
-      "name": "Mairie de Montreuil", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8623601850863, 
-      "trafic": 6300355.0, 
-      "rank": 51.0, 
-      "key": "MAIRIE DE MONTREUIL", 
-      "latitude": 2.44165620310216, 
-      "connexion": {}
-    }, 
-    "PREFECTURE": {
-      "name": "Cr\u00e9teil-Pr\u00e9fecture (H\u00f4tel de Ville)", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.7797484034104, 
-      "trafic": 4865573.0, 
-      "rank": 87.0, 
-      "key": "PREFECTURE", 
-      "latitude": 2.45914426746537, 
-      "connexion": {}
-    }, 
-    "BASTILLE": {
-      "name": "Bastille", 
-      "lines": [
-        1, 
-        5, 
-        8
-      ], 
-      "longitude": 48.8528417309667, 
-      "trafic": 12517181.0, 
-      "rank": 13.0, 
-      "key": "BASTILLE", 
-      "latitude": 2.36918060506559, 
-      "connexion": {}
-    }, 
-    "PYRAMIDES": {
-      "name": "Pyramides", 
-      "lines": [
-        7, 
-        14
-      ], 
-      "longitude": 48.8669463020695, 
-      "trafic": 5084082.0, 
-      "rank": 83.0, 
-      "key": "PYRAMIDES", 
-      "latitude": 2.33366506577888, 
-      "connexion": {}
-    }, 
-    "PORTE DE MONTREUIL": {
-      "name": "Porte de Montreuil", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8534495044418, 
-      "trafic": 4822893.0, 
-      "rank": 90.0, 
-      "key": "PORTE DE MONTREUIL", 
-      "latitude": 2.41043444867178, 
-      "connexion": {}
-    }, 
-    "VILLEJUIF LEO LAGRANGE": {
-      "name": "Villejuif-L\u00e9o Lagrange", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8041740664156, 
-      "trafic": 2392154.0, 
-      "rank": 224.0, 
-      "key": "VILLEJUIF LEO LAGRANGE", 
-      "latitude": 2.36394352657996, 
-      "connexion": {}
-    }, 
-    "PORTE DOREE": {
-      "name": "Porte Dor\u00e9e", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.8354388891914, 
-      "trafic": 2675992.0, 
-      "rank": 198.0, 
-      "key": "PORTE DOREE", 
-      "latitude": 2.40601835314784, 
-      "connexion": {}
-    }, 
-    "SAINT SULPICE": {
-      "name": "Saint-Sulpice", 
-      "lines": [
-        4
-      ], 
-      "longitude": 48.8508047851976, 
-      "trafic": 2432022.0, 
-      "rank": 222.0, 
-      "key": "SAINT SULPICE", 
-      "latitude": 2.33086756439724, 
-      "connexion": {}
-    }, 
-    "CHARLES DE GAULLE ETOILE": {
-      "name": "Charles de Gaulle-Etoile", 
-      "lines": [
-        1, 
-        2, 
-        6
-      ], 
-      "longitude": 48.8744076036607, 
-      "trafic": 8980015.0, 
-      "rank": 25.0, 
-      "key": "CHARLES DE GAULLE ETOILE", 
-      "latitude": 2.29576268465124, 
-      "connexion": {}
-    }, 
-    "SAINT MANDE": {
-      "name": "Saint-Mand\u00e9", 
-      "lines": [
-        1
-      ], 
-      "longitude": 48.8462977572576, 
-      "trafic": 5973612.0, 
-      "rank": 60.0, 
-      "key": "SAINT MANDE", 
-      "latitude": 2.41867310093048, 
-      "connexion": {}
-    }, 
-    "BLANCHE": {
-      "name": "Blanche", 
-      "lines": [
-        2
-      ], 
-      "longitude": 48.8836536085134, 
-      "trafic": 4252071.0, 
-      "rank": 113.0, 
-      "key": "BLANCHE", 
-      "latitude": 2.33166752315741, 
-      "connexion": {}
-    }, 
-    "NOTRE DAME DES CHAMPS": {
-      "name": "Notre-Dame des Champs", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.8449178498434, 
-      "trafic": 2030493.0, 
-      "rank": 244.0, 
-      "key": "NOTRE DAME DES CHAMPS", 
-      "latitude": 2.32885296806704, 
-      "connexion": {}
-    }, 
-    "BASILIQUE DE SAINT DENIS": {
-      "name": "Basilique de Saint-Denis", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.9366033097107, 
-      "trafic": 5415515.0, 
-      "rank": 73.0, 
-      "key": "BASILIQUE DE SAINT DENIS", 
-      "latitude": 2.35941471750625, 
-      "connexion": {}
-    }, 
-    "TOLBIAC": {
-      "name": "Tolbiac", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8265068988465, 
-      "trafic": 3612890.0, 
-      "rank": 142.0, 
-      "key": "TOLBIAC", 
-      "latitude": 2.35724192740466, 
-      "connexion": {}
-    }, 
-    "PORTE D ORLEANS": {
-      "name": "Porte d'Orl\u00e9ans (G\u00e9n\u00e9ral Leclerc)", 
-      "lines": [
-        4
-      ], 
-      "longitude": 48.8226012875276, 
-      "trafic": 9598097.0, 
-      "rank": 17.0, 
-      "key": "PORTE D ORLEANS", 
-      "latitude": 2.3248055530705, 
-      "connexion": {}
-    }, 
-    "PORTE D IVRY": {
-      "name": "Porte d'Ivry", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8212704974684, 
-      "trafic": 1903789.0, 
-      "rank": 253.0, 
-      "key": "PORTE D IVRY", 
-      "latitude": 2.36909494347048, 
-      "connexion": {}
-    }, 
-    "SAINT MICHEL": {
-      "name": "Saint-Michel", 
-      "lines": [
-        4
-      ], 
-      "longitude": 48.8532875817267, 
-      "trafic": 9159024.0, 
-      "rank": 22.0, 
-      "key": "SAINT MICHEL", 
-      "latitude": 2.34346845196892, 
-      "connexion": {}
-    }, 
-    "SEGUR": {
-      "name": "S\u00e9gur", 
-      "lines": [
-        10
-      ], 
-      "longitude": 48.8467524550776, 
-      "trafic": 1627318.0, 
-      "rank": 267.0, 
-      "key": "SEGUR", 
-      "latitude": 2.30782041849586, 
-      "connexion": {}
-    }, 
-    "MALAKOFF PLATEAU DE VANVES": {
-      "name": "Malakoff-Plateau de Vanves", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.8231314024501, 
-      "trafic": 3912036.0, 
-      "rank": 125.0, 
-      "key": "MALAKOFF PLATEAU DE VANVES", 
-      "latitude": 2.29701508516275, 
-      "connexion": {}
-    }, 
-    "VOLONTAIRES": {
-      "name": "Volontaires", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.8416970273909, 
-      "trafic": 2547550.0, 
-      "rank": 211.0, 
-      "key": "VOLONTAIRES", 
-      "latitude": 2.30804114557479, 
-      "connexion": {}
-    }, 
-    "CAMPO FORMIO": {
-      "name": "Campo-Formio", 
-      "lines": [
-        5
-      ], 
-      "longitude": 48.8357759721732, 
-      "trafic": 1234237.0, 
-      "rank": 284.0, 
-      "key": "CAMPO FORMIO", 
-      "latitude": 2.35815314107711, 
-      "connexion": {}
-    }, 
-    "SENTIER": {
-      "name": "Sentier", 
-      "lines": [
-        3
-      ], 
-      "longitude": 48.8674133308826, 
-      "trafic": 3318660.0, 
-      "rank": 159.0, 
-      "key": "SENTIER", 
-      "latitude": 2.3466136387446, 
-      "connexion": {}
-    }, 
-    "MARCADET POISSONNIERS": {
-      "name": "Marcadet-Poissonniers", 
-      "lines": [
-        4, 
-        12
-      ], 
-      "longitude": 48.8908769929214, 
-      "trafic": 6064992.0, 
-      "rank": 58.0, 
-      "key": "MARCADET POISSONNIERS", 
-      "latitude": 2.34983707163005, 
-      "connexion": {}
-    }, 
-    "LAMARCK CAULAINCOURT": {
-      "name": "Lamarck-Caulaincourt", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.8897560451806, 
-      "trafic": 3054528.0, 
-      "rank": 174.0, 
-      "key": "LAMARCK CAULAINCOURT", 
-      "latitude": 2.33889013654466, 
-      "connexion": {}
-    }, 
-    "CARDINAL LEMOINE": {
-      "name": "Cardinal-Lemoine", 
-      "lines": [
-        10
-      ], 
-      "longitude": 48.8463912485782, 
-      "trafic": 1661863.0, 
-      "rank": 265.0, 
-      "key": "CARDINAL LEMOINE", 
-      "latitude": 2.35147807315592, 
-      "connexion": {}
-    }, 
-    "LES AGNETTES": {
-      "name": "Les Agnettes", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.9229162320519, 
-      "trafic": 2367677.0, 
-      "rank": 226.0, 
-      "key": "LES AGNETTES", 
-      "latitude": 2.28582751788663, 
-      "connexion": {}
-    }, 
-    "LOUIS BLANC": {
-      "name": "Louis Blanc", 
-      "lines": [
-        7, 
-        "7bis"
-      ], 
-      "longitude": 48.8810261029957, 
-      "trafic": 2523039.0, 
-      "rank": 215.0, 
-      "key": "LOUIS BLANC", 
-      "latitude": 2.3655569576092, 
-      "connexion": {}
-    }, 
-    "PORTE DE BAGNOLET": {
-      "name": "Porte de Bagnolet", 
-      "lines": [
-        3
-      ], 
-      "longitude": 48.8643963044636, 
-      "trafic": 4751655.0, 
-      "rank": 91.0, 
-      "key": "PORTE DE BAGNOLET", 
-      "latitude": 2.40799995272687, 
-      "connexion": {}
-    }, 
-    "BEL AIR": {
-      "name": "Bel-Air", 
-      "lines": [
-        6
-      ], 
-      "longitude": 48.8418961424237, 
-      "trafic": 2369793.0, 
-      "rank": 225.0, 
-      "key": "BEL AIR", 
-      "latitude": 2.40120562705964, 
-      "connexion": {}
-    }, 
-    "LES HALLES": {
-      "name": "Les Halles", 
-      "lines": [
-        4
-      ], 
-      "longitude": 48.862194721152, 
-      "trafic": 13113834.0, 
-      "rank": 10.0, 
-      "key": "LES HALLES", 
-      "latitude": 2.34583626729201, 
-      "connexion": {}
-    }, 
-    "PORTE DE CLIGNANCOURT": {
-      "name": "Porte de Clignancourt", 
-      "lines": [
-        4
-      ], 
-      "longitude": 48.8972870603971, 
-      "trafic": 9000298.0, 
-      "rank": 24.0, 
-      "key": "PORTE DE CLIGNANCOURT", 
-      "latitude": 2.34477887737988, 
-      "connexion": {}
-    }, 
-    "COURONNES": {
-      "name": "Couronnes", 
-      "lines": [
-        2
-      ], 
-      "longitude": 48.8689698757764, 
-      "trafic": 3324335.0, 
-      "rank": 158.0, 
-      "key": "COURONNES", 
-      "latitude": 2.379868518699, 
-      "connexion": {}
-    }, 
-    "GABRIEL PERI": {
-      "name": "Gabriel-P\u00e9ri", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.9162335021232, 
-      "trafic": 5377830.0, 
-      "rank": 74.0, 
-      "key": "GABRIEL PERI", 
-      "latitude": 2.29492376422254, 
-      "connexion": {}
-    }, 
-    "STALINGRAD": {
-      "name": "Stalingrad", 
-      "lines": [
-        2, 
-        5, 
-        7
-      ], 
-      "longitude": 48.88430478953, 
-      "trafic": 6906194.0, 
-      "rank": 40.0, 
-      "key": "STALINGRAD", 
-      "latitude": 2.3670850145355, 
-      "connexion": {}
-    }, 
-    "MENILMONTANT": {
-      "name": "M\u00e9nilmontant", 
-      "lines": [
-        2
-      ], 
-      "longitude": 48.8659488111593, 
-      "trafic": 4294888.0, 
-      "rank": 111.0, 
-      "key": "MENILMONTANT", 
-      "latitude": 2.38339427851543, 
-      "connexion": {}
-    }, 
-    "TROCADERO": {
-      "name": "Trocad\u00e9ro", 
-      "lines": [
-        6, 
-        9
-      ], 
-      "longitude": 48.8629708358403, 
-      "trafic": 8455619.0, 
-      "rank": 28.0, 
-      "key": "TROCADERO", 
-      "latitude": 2.2870198439694, 
-      "connexion": {}
-    }, 
-    "GRANDS BOULEVARDS": {
-      "name": "Grands Boulevards", 
-      "lines": [
-        8, 
-        9
-      ], 
-      "longitude": 48.8714189081641, 
-      "trafic": 6826718.0, 
-      "rank": 44.0, 
-      "key": "GRANDS BOULEVARDS", 
-      "latitude": 2.34319701067138, 
-      "connexion": {}
+      "longitude": 48.8585195224421
     }, 
     "RAMBUTEAU": {
+      "connexion": {}, 
+      "rank": 103.0, 
       "name": "Rambuteau", 
+      "latitude": 2.35350496222254, 
+      "key": "RAMBUTEAU", 
+      "trafic": 4491306.0, 
       "lines": [
         11
       ], 
-      "longitude": 48.8614000355035, 
-      "trafic": 4491306.0, 
-      "rank": 103.0, 
-      "key": "RAMBUTEAU", 
-      "latitude": 2.35350496222254, 
-      "connexion": {}
+      "longitude": 48.8614000355035
     }, 
-    "CADET": {
-      "name": "Cadet", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.875475187116, 
-      "trafic": 3650405.0, 
-      "rank": 139.0, 
-      "key": "CADET", 
-      "latitude": 2.34305895381275, 
-      "connexion": {}
-    }, 
-    "PIERRE CURIE": {
-      "name": "Pierre et Marie Curie", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8156836605119, 
-      "trafic": 1416989.0, 
-      "rank": 279.0, 
-      "key": "PIERRE CURIE", 
-      "latitude": 2.3772866229916, 
-      "connexion": {}
-    }, 
-    "QUATRE CHEMINS": {
-      "name": "Aubervilliers Pantin (4 Chemins)", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.9038299162483, 
-      "trafic": 7356008.0, 
-      "rank": 35.0, 
-      "key": "QUATRE CHEMINS", 
-      "latitude": 2.3920219501423, 
-      "connexion": {}
-    }, 
-    "SAINT AUGUSTIN": {
-      "name": "Saint-Augustin", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8746742716311, 
-      "trafic": 2923768.0, 
-      "rank": 183.0, 
-      "key": "SAINT AUGUSTIN", 
-      "latitude": 2.32043139650991, 
-      "connexion": {}
-    }, 
-    "MOUTON DUVERNET": {
-      "name": "Mouton-Duvernet", 
-      "lines": [
-        4
-      ], 
-      "longitude": 48.8313196995984, 
-      "trafic": 1690457.0, 
-      "rank": 262.0, 
-      "key": "MOUTON DUVERNET", 
-      "latitude": 2.32942693483694, 
-      "connexion": {}
-    }, 
-    "SAINT PAUL": {
-      "name": "Saint-Paul (Le Marais)", 
-      "lines": [
-        1
-      ], 
-      "longitude": 48.8551436006388, 
-      "trafic": 6265848.0, 
-      "rank": 53.0, 
-      "key": "SAINT PAUL", 
-      "latitude": 2.36065335403361, 
-      "connexion": {}
-    }, 
-    "BERCY": {
-      "name": "Bercy", 
+    "TROCADERO": {
+      "connexion": {}, 
+      "rank": 28.0, 
+      "name": "Trocad\u00e9ro", 
+      "latitude": 2.2870198439694, 
+      "key": "TROCADERO", 
+      "trafic": 8455619.0, 
       "lines": [
         6, 
-        14
+        9
       ], 
-      "longitude": 48.8404280893475, 
-      "trafic": 5565249.0, 
-      "rank": 68.0, 
-      "key": "BERCY", 
-      "latitude": 2.37958296880394, 
-      "connexion": {}
-    }, 
-    "PORTE DE VERSAILLES": {
-      "name": "Porte de Versailles", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.8324619819728, 
-      "trafic": 6275922.0, 
-      "rank": 52.0, 
-      "key": "PORTE DE VERSAILLES", 
-      "latitude": 2.28800279639373, 
-      "connexion": {}
+      "longitude": 48.8629708358403
     }, 
     "MARCEL SEMBAT": {
+      "connexion": {}, 
+      "rank": 62.0, 
       "name": "Marcel Sembat", 
+      "latitude": 2.24408138825371, 
+      "key": "MARCEL SEMBAT", 
+      "trafic": 5816044.0, 
       "lines": [
         9
       ], 
-      "longitude": 48.8339143013551, 
-      "trafic": 5816044.0, 
-      "rank": 62.0, 
-      "key": "MARCEL SEMBAT", 
-      "latitude": 2.24408138825371, 
-      "connexion": {}
+      "longitude": 48.8339143013551
     }, 
-    "PALAIS ROYAL": {
-      "name": "Palais-Royal (Mus\u00e9e du Louvre)", 
+    "QUAI DE LA GARE": {
+      "connexion": {}, 
+      "rank": 172.0, 
+      "name": "Quai de la Gare", 
+      "latitude": 2.37378388489769, 
+      "key": "QUAI DE LA GARE", 
+      "trafic": 3085406.0, 
+      "lines": [
+        6
+      ], 
+      "longitude": 48.8373989542089
+    }, 
+    "CHAMPS ELYSEES CLEMENCEAU": {
+      "connexion": {}, 
+      "rank": 101.0, 
+      "name": "Champs-Elys\u00e9es-Cl\u00e9menceau", 
+      "latitude": 2.31395945009909, 
+      "key": "CHAMPS ELYSEES CLEMENCEAU", 
+      "trafic": 4502691.0, 
       "lines": [
         1, 
+        13
+      ], 
+      "longitude": 48.8674114214171
+    }, 
+    "RIQUET": {
+      "connexion": {}, 
+      "rank": 216.0, 
+      "name": "Riquet", 
+      "latitude": 2.37448742568144, 
+      "key": "RIQUET", 
+      "trafic": 2519241.0, 
+      "lines": [
         7
       ], 
-      "longitude": 48.8628468213553, 
-      "trafic": 9559535.0, 
-      "rank": 18.0, 
-      "key": "PALAIS ROYAL", 
-      "latitude": 2.33581661194832, 
-      "connexion": {}
+      "longitude": 48.8881235581407
     }, 
-    "AVRON": {
-      "name": "Avron", 
+    "MENILMONTANT": {
+      "connexion": {}, 
+      "rank": 111.0, 
+      "name": "M\u00e9nilmontant", 
+      "latitude": 2.38339427851543, 
+      "key": "MENILMONTANT", 
+      "trafic": 4294888.0, 
       "lines": [
         2
       ], 
-      "longitude": 48.8509782113622, 
-      "trafic": 1922250.0, 
-      "rank": 251.0, 
-      "key": "AVRON", 
-      "latitude": 2.39798013009568, 
-      "connexion": {}
+      "longitude": 48.8659488111593
     }, 
-    "PONT NEUF": {
-      "name": "Pont Neuf", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8584022524727, 
-      "trafic": 1612517.0, 
-      "rank": 268.0, 
-      "key": "PONT NEUF", 
-      "latitude": 2.34194923634659, 
-      "connexion": {}
-    }, 
-    "DANUBE": {
-      "name": "Danube", 
-      "lines": [
-        "7bis"
-      ], 
-      "longitude": 48.8820231366362, 
-      "trafic": 679746.0, 
-      "rank": 294.0, 
-      "key": "DANUBE", 
-      "latitude": 2.39270205235331, 
-      "connexion": {}
-    }, 
-    "CONVENTION": {
-      "name": "Convention", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.8374696207371, 
-      "trafic": 5780845.0, 
-      "rank": 63.0, 
-      "key": "CONVENTION", 
-      "latitude": 2.29689958279762, 
-      "connexion": {}
-    }, 
-    "TELEGRAPHE": {
-      "name": "Telegraphe", 
-      "lines": [
-        11
-      ], 
-      "longitude": 48.8753936353787, 
-      "trafic": 2160412.0, 
-      "rank": 235.0, 
-      "key": "TELEGRAPHE", 
-      "latitude": 2.3985900637686, 
-      "connexion": {}
-    }, 
-    "IENA": {
-      "name": "I\u00e9na", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8644728974464, 
-      "trafic": 2115003.0, 
-      "rank": 239.0, 
-      "key": "IENA", 
-      "latitude": 2.2937999591139, 
-      "connexion": {}
-    }, 
-    "BUTTES CHAUMONT": {
-      "name": "Buttes-Chaumont", 
-      "lines": [
-        "7bis"
-      ], 
-      "longitude": 48.8777769835483, 
-      "trafic": 575182.0, 
-      "rank": 297.0, 
-      "key": "BUTTES CHAUMONT", 
-      "latitude": 2.38112931956877, 
-      "connexion": {}
-    }, 
-    "TEMPLE": {
-      "name": "Temple", 
-      "lines": [
-        3
-      ], 
-      "longitude": 48.8663687823143, 
-      "trafic": 1268036.0, 
-      "rank": 282.0, 
-      "key": "TEMPLE", 
-      "latitude": 2.36108072227889, 
-      "connexion": {}
-    }, 
-    "MICHEL BIZOT": {
-      "name": "Michel Bizot", 
+    "SAINT SEBASTIEN FROISSART": {
+      "connexion": {}, 
+      "rank": 263.0, 
+      "name": "Saint-S\u00e9bastien-Froissart", 
+      "latitude": 2.36702409525746, 
+      "key": "SAINT SEBASTIEN FROISSART", 
+      "trafic": 1680231.0, 
       "lines": [
         8
       ], 
-      "longitude": 48.8367033669766, 
-      "trafic": 2111494.0, 
-      "rank": 240.0, 
-      "key": "MICHEL BIZOT", 
-      "latitude": 2.40296916119538, 
-      "connexion": {}
+      "longitude": 48.8612805878047
     }, 
-    "GARIBALDI": {
-      "name": "Garibaldi", 
+    "GLACIERE": {
+      "connexion": {}, 
+      "rank": 92.0, 
+      "name": "Glaci\u00e8re", 
+      "latitude": 2.34393889430969, 
+      "key": "GLACIERE", 
+      "trafic": 4739497.0, 
       "lines": [
-        13
+        6
       ], 
-      "longitude": 48.9060316197727, 
-      "trafic": 3088530.0, 
-      "rank": 171.0, 
-      "key": "GARIBALDI", 
-      "latitude": 2.33173327604333, 
-      "connexion": {}
+      "longitude": 48.8313647071449
     }, 
-    "RICHARD LENOIR": {
-      "name": "Richard-Lenoir", 
+    "PLACES FETES": {
+      "connexion": {}, 
+      "rank": 162.0, 
+      "name": "Place des F\u00eates", 
+      "latitude": 2.39347313514395, 
+      "key": "PLACES FETES", 
+      "trafic": 3265485.0, 
+      "lines": [
+        "7bis", 
+        11
+      ], 
+      "longitude": 48.8768191471423
+    }, 
+    "FORT D": {
+      "connexion": {}, 
+      "rank": 148.0, 
+      "name": "Fort d'Aubervilliers", 
+      "latitude": 2.40417710143886, 
+      "key": "FORT D", 
+      "trafic": 3455421.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.9146921997335
+    }, 
+    "DUGOMMIER": {
+      "connexion": {}, 
+      "rank": 196.0, 
+      "name": "Dugommier", 
+      "latitude": 2.38895257216093, 
+      "key": "DUGOMMIER", 
+      "trafic": 2694014.0, 
+      "lines": [
+        6
+      ], 
+      "longitude": 48.8389122332307
+    }, 
+    "LA MOTTE PICQUET": {
+      "connexion": {}, 
+      "rank": 30.0, 
+      "name": "La Motte-Picquet-Grenelle", 
+      "latitude": 2.29794929910712, 
+      "key": "LA MOTTE PICQUET", 
+      "trafic": 8099346.0, 
+      "lines": [
+        6, 
+        8, 
+        10
+      ], 
+      "longitude": 48.8491605024288
+    }, 
+    "SAINT MARCEL": {
+      "connexion": {}, 
+      "rank": 245.0, 
+      "name": "Saint-Marcel", 
+      "latitude": 2.36140877914038, 
+      "key": "SAINT MARCEL", 
+      "trafic": 2023002.0, 
       "lines": [
         5
       ], 
-      "longitude": 48.8608927535125, 
-      "trafic": 1640016.0, 
-      "rank": 266.0, 
-      "key": "RICHARD LENOIR", 
-      "latitude": 2.3720977804711, 
-      "connexion": {}
+      "longitude": 48.8395141857768
     }, 
-    "BOTZARIS": {
-      "name": "Botzaris", 
+    "VAVIN": {
+      "connexion": {}, 
+      "rank": 230.0, 
+      "name": "Vavin", 
+      "latitude": 2.32900321886739, 
+      "key": "VAVIN", 
+      "trafic": 2242491.0, 
       "lines": [
-        "7bis"
+        4
       ], 
-      "longitude": 48.8793377265439, 
-      "trafic": 1096111.0, 
-      "rank": 287.0, 
-      "key": "BOTZARIS", 
-      "latitude": 2.38873399145736, 
-      "connexion": {}
+      "longitude": 48.8420036541946
     }, 
-    "LA DEFENSE": {
-      "name": "La D\u00e9fense (Grande Arche)", 
+    "MICHEL BIZOT": {
+      "connexion": {}, 
+      "rank": 240.0, 
+      "name": "Michel Bizot", 
+      "latitude": 2.40296916119538, 
+      "key": "MICHEL BIZOT", 
+      "trafic": 2111494.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.8367033669766
+    }, 
+    "HAVRE CAUMARTIN": {
+      "connexion": {}, 
+      "rank": 29.0, 
+      "name": "Havre-Caumartin", 
+      "latitude": 2.3285077502868, 
+      "key": "HAVRE CAUMARTIN", 
+      "trafic": 8343415.0, 
+      "lines": [
+        3, 
+        9
+      ], 
+      "longitude": 48.8733427700542
+    }, 
+    "CRIMEE": {
+      "connexion": {}, 
+      "rank": 38.0, 
+      "name": "Crim\u00e9e", 
+      "latitude": 2.37681528947191, 
+      "key": "CRIMEE", 
+      "trafic": 7183997.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8906811628606
+    }, 
+    "POISSONNIERE": {
+      "connexion": {}, 
+      "rank": 144.0, 
+      "name": "Poissonni\u00e8re", 
+      "latitude": 2.34960623902438, 
+      "key": "POISSONNIERE", 
+      "trafic": 3570062.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8773395505122
+    }, 
+    "PORTE DE SAINT OUEN": {
+      "connexion": {}, 
+      "rank": 134.0, 
+      "name": "Porte de Saint-Ouen", 
+      "latitude": 2.32883766969025, 
+      "key": "PORTE DE SAINT OUEN", 
+      "trafic": 3814464.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.8972510523147
+    }, 
+    "MAISONS ALFORT LES JUILLIOTTES": {
+      "connexion": {}, 
+      "rank": 247.0, 
+      "name": "Maisons-Alfort-Les Juilliottes", 
+      "latitude": 2.44499102669377, 
+      "key": "MAISONS ALFORT LES JUILLIOTTES", 
+      "trafic": 1976516.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.8031418697523
+    }, 
+    "INVALIDES": {
+      "connexion": {}, 
+      "rank": 39.0, 
+      "name": "Invalides", 
+      "latitude": 2.31435704324728, 
+      "key": "INVALIDES", 
+      "trafic": 6931062.0, 
+      "lines": [
+        8, 
+        13
+      ], 
+      "longitude": 48.8616865404563
+    }, 
+    "MIROMESNIL": {
+      "connexion": {}, 
+      "rank": 64.0, 
+      "name": "Miromesnil", 
+      "latitude": 2.31519918493339, 
+      "key": "MIROMESNIL", 
+      "trafic": 5769023.0, 
+      "lines": [
+        9, 
+        13
+      ], 
+      "longitude": 48.8737063841262
+    }, 
+    "PHILIPPE AUGUSTE": {
+      "connexion": {}, 
+      "rank": 257.0, 
+      "name": "Philippe Auguste", 
+      "latitude": 2.38938739145325, 
+      "key": "PHILIPPE AUGUSTE", 
+      "trafic": 1813811.0, 
+      "lines": [
+        2
+      ], 
+      "longitude": 48.8583654720925
+    }, 
+    "JULES JOFFRIN": {
+      "connexion": {}, 
+      "rank": 106.0, 
+      "name": "Jules Joffrin", 
+      "latitude": 2.34446469630622, 
+      "key": "JULES JOFFRIN", 
+      "trafic": 4384318.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.8924519921638
+    }, 
+    "KLEBER": {
+      "connexion": {}, 
+      "rank": 286.0, 
+      "name": "Kl\u00e9ber", 
+      "latitude": 2.29307915421584, 
+      "key": "KLEBER", 
+      "trafic": 1150016.0, 
+      "lines": [
+        6
+      ], 
+      "longitude": 48.8710948130145
+    }, 
+    "GONCOURT": {
+      "connexion": {}, 
+      "rank": 140.0, 
+      "name": "Goncourt (H\u00f4pital Saint-Louis)", 
+      "latitude": 2.3712726500969, 
+      "key": "GONCOURT", 
+      "trafic": 3648533.0, 
+      "lines": [
+        11
+      ], 
+      "longitude": 48.8696803933807
+    }, 
+    "LIEGE": {
+      "connexion": {}, 
+      "rank": 261.0, 
+      "name": "Li\u00e8ge", 
+      "latitude": 2.32651728518985, 
+      "key": "LIEGE", 
+      "trafic": 1731063.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.8795640572124
+    }, 
+    "PORTE DE VANVES": {
+      "connexion": {}, 
+      "rank": 93.0, 
+      "name": "Porte de Vanves", 
+      "latitude": 2.30534014881766, 
+      "key": "PORTE DE VANVES", 
+      "trafic": 4715395.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.8276756893336
+    }, 
+    "BASTILLE": {
+      "connexion": {}, 
+      "rank": 13.0, 
+      "name": "Bastille", 
+      "latitude": 2.36918060506559, 
+      "key": "BASTILLE", 
+      "trafic": 12517181.0, 
+      "lines": [
+        1, 
+        5, 
+        8
+      ], 
+      "longitude": 48.8528417309667
+    }, 
+    "PLACE MONGE": {
+      "connexion": {}, 
+      "rank": 182.0, 
+      "name": "Place Monge (Jardin des Plantes)", 
+      "latitude": 2.35217845099659, 
+      "key": "PLACE MONGE", 
+      "trafic": 2927184.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8431960998294
+    }, 
+    "GARE DU NORD": {
+      "connexion": {}, 
+      "rank": 1.0, 
+      "name": "Gare du Nord", 
+      "latitude": 2.35470307836603, 
+      "key": "GARE DU NORD", 
+      "trafic": 48146629.0, 
+      "lines": [
+        4, 
+        5
+      ], 
+      "longitude": 48.8799654432891
+    }, 
+    "LA CHAPELLE": {
+      "connexion": {}, 
+      "rank": 41.0, 
+      "name": "La Chapelle", 
+      "latitude": 2.35849962591676, 
+      "key": "LA CHAPELLE", 
+      "trafic": 6903632.0, 
+      "lines": [
+        2
+      ], 
+      "longitude": 48.8839663987791
+    }, 
+    "MAISONS ALFORT STADE": {
+      "connexion": {}, 
+      "rank": 274.0, 
+      "name": "Maisons-Alfort-Stade", 
+      "latitude": 2.43558220356454, 
+      "key": "MAISONS ALFORT STADE", 
+      "trafic": 1523038.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.8084176209203
+    }, 
+    "BERAULT": {
+      "connexion": {}, 
+      "rank": 214.0, 
+      "name": "B\u00e9rault", 
+      "latitude": 2.42923849792977, 
+      "key": "BERAULT", 
+      "trafic": 2531531.0, 
       "lines": [
         1
       ], 
-      "longitude": 48.8919344692345, 
-      "trafic": 13853216.0, 
-      "rank": 9.0, 
-      "key": "LA DEFENSE", 
-      "latitude": 2.23788279833084, 
-      "connexion": {}
+      "longitude": 48.8453342425325
     }, 
-    "DE LA POMPE": {
-      "name": "Rue de la Pompe (Avenue Georges Mandel)", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8641004131629, 
-      "trafic": 3081914.0, 
-      "rank": 173.0, 
-      "key": "DE LA POMPE", 
-      "latitude": 2.27762632988678, 
-      "connexion": {}
-    }, 
-    "PARMENTIER": {
-      "name": "Parmentier", 
-      "lines": [
-        3
-      ], 
-      "longitude": 48.8651606067898, 
-      "trafic": 3357432.0, 
-      "rank": 156.0, 
-      "key": "PARMENTIER", 
-      "latitude": 2.37584679468414, 
-      "connexion": {}
-    }, 
-    "FALGUIERE": {
-      "name": "Falgui\u00e8re", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.844637894177, 
-      "trafic": 926922.0, 
-      "rank": 292.0, 
-      "key": "FALGUIERE", 
-      "latitude": 2.31749646866691, 
-      "connexion": {}
-    }, 
-    "CHAMPS ELYSEES CLEMENCEAU": {
-      "name": "Champs-Elys\u00e9es-Cl\u00e9menceau", 
-      "lines": [
-        1, 
-        13
-      ], 
-      "longitude": 48.8674114214171, 
-      "trafic": 4502691.0, 
-      "rank": 101.0, 
-      "key": "CHAMPS ELYSEES CLEMENCEAU", 
-      "latitude": 2.31395945009909, 
-      "connexion": {}
-    }, 
-    "CARREFOUR PLEYEL": {
-      "name": "Carrefour-Pleyel", 
+    "GUY MOQUET": {
+      "connexion": {}, 
+      "rank": 99.0, 
+      "name": "Guy-M\u00f4quet", 
+      "latitude": 2.32722675495985, 
+      "key": "GUY MOQUET", 
+      "trafic": 4524101.0, 
       "lines": [
         13
       ], 
-      "longitude": 48.9194552102366, 
-      "trafic": 2754091.0, 
-      "rank": 192.0, 
-      "key": "CARREFOUR PLEYEL", 
-      "latitude": 2.34320024908898, 
-      "connexion": {}
+      "longitude": 48.8924675161233
     }, 
-    "CHATEAU D EAU": {
-      "name": "Ch\u00e2teau d'Eau", 
-      "lines": [
-        4
-      ], 
-      "longitude": 48.8725890109106, 
-      "trafic": 4842822.0, 
-      "rank": 89.0, 
-      "key": "CHATEAU D EAU", 
-      "latitude": 2.35547036877069, 
-      "connexion": {}
-    }, 
-    "CROIX DE CHAVAUX": {
-      "name": "Croix-de-Chavaux (Jacques Duclos)", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8579269412394, 
-      "trafic": 4978787.0, 
-      "rank": 84.0, 
-      "key": "CROIX DE CHAVAUX", 
-      "latitude": 2.43609830308268, 
-      "connexion": {}
-    }, 
-    "PONT MARIE": {
-      "name": "Pont Marie (Cit\u00e9 des Arts)", 
+    "CHATEAU LANDON": {
+      "connexion": {}, 
+      "rank": 271.0, 
+      "name": "Ch\u00e2teau Landon", 
+      "latitude": 2.36229890860251, 
+      "key": "CHATEAU LANDON", 
+      "trafic": 1600022.0, 
       "lines": [
         7
       ], 
-      "longitude": 48.8533107454827, 
-      "trafic": 1595098.0, 
-      "rank": 272.0, 
-      "key": "PONT MARIE", 
-      "latitude": 2.35745881597611, 
-      "connexion": {}
+      "longitude": 48.8783126784077
     }, 
-    "BONNE NOUVELLE": {
-      "name": "Bonne Nouvelle", 
-      "lines": [
-        8, 
-        9
-      ], 
-      "longitude": 48.8705587205312, 
-      "trafic": 5196140.0, 
-      "rank": 80.0, 
-      "key": "BONNE NOUVELLE", 
-      "latitude": 2.34867956971335, 
-      "connexion": {}
-    }, 
-    "ALMA MARCEAU": {
-      "name": "Alma-Marceau", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8646460306735, 
-      "trafic": 4080301.0, 
-      "rank": 119.0, 
-      "key": "ALMA MARCEAU", 
-      "latitude": 2.30088336611718, 
-      "connexion": {}
-    }, 
-    "PORTE DE CHARENTON": {
-      "name": "Porte de Charenton", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.8325258939597, 
-      "trafic": 957771.0, 
-      "rank": 290.0, 
-      "key": "PORTE DE CHARENTON", 
-      "latitude": 2.39970109937032, 
-      "connexion": {}
-    }, 
-    "BOBIGNY RAYMOND QUENEAU": {
-      "name": "Bobigny-Pantin (Raymond Queneau)", 
-      "lines": [
-        5
-      ], 
-      "longitude": 48.8952689905167, 
-      "trafic": 2251347.0, 
-      "rank": 229.0, 
-      "key": "BOBIGNY RAYMOND QUENEAU", 
-      "latitude": 2.42480187771966, 
-      "connexion": {}
-    }, 
-    "LIBERTE": {
-      "name": "Libert\u00e9", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.8258380800419, 
-      "trafic": 2607263.0, 
-      "rank": 204.0, 
-      "key": "LIBERTE", 
-      "latitude": 2.40692557755493, 
-      "connexion": {}
-    }, 
-    "OURCQ": {
-      "name": "Ourcq", 
-      "lines": [
-        5
-      ], 
-      "longitude": 48.8869750227319, 
-      "trafic": 3887042.0, 
-      "rank": 128.0, 
-      "key": "OURCQ", 
-      "latitude": 2.38602958795485, 
-      "connexion": {}
-    }, 
-    "QUAI DE LA RAPEE": {
-      "name": "Quai de la Rap\u00e9e", 
-      "lines": [
-        5
-      ], 
-      "longitude": 48.8457951983436, 
-      "trafic": 1201924.0, 
-      "rank": 285.0, 
-      "key": "QUAI DE LA RAPEE", 
-      "latitude": 2.36703563413483, 
-      "connexion": {}
-    }, 
-    "PLACE D ITALIE": {
-      "name": "Place d'Italie", 
-      "lines": [
-        5, 
-        6, 
-        7
-      ], 
-      "longitude": 48.8314061535553, 
-      "trafic": 12168442.0, 
-      "rank": 15.0, 
-      "key": "PLACE D ITALIE", 
-      "latitude": 2.35572137338498, 
-      "connexion": {}
-    }, 
-    "MICHEL ANGE MOLITOR": {
-      "name": "Michel-Ange-Molitor", 
-      "lines": [
-        9, 
-        10
-      ], 
-      "longitude": 48.844867436543, 
-      "trafic": 1939507.0, 
-      "rank": 248.0, 
-      "key": "MICHEL ANGE MOLITOR", 
-      "latitude": 2.26204786419272, 
-      "connexion": {}
-    }, 
-    "NATION": {
-      "name": "Nation", 
-      "lines": [
-        1, 
-        2, 
-        6, 
-        9
-      ], 
-      "longitude": 48.8484657505532, 
-      "trafic": 9481963.0, 
-      "rank": 19.0, 
-      "key": "NATION", 
-      "latitude": 2.39590574456544, 
-      "connexion": {}
-    }, 
-    "ECOLE VETERINAIRE DE MAISONS ALFORT": {
-      "name": "Ecole V\u00e9t\u00e9rinaire de Maisons-Alfort", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.8151517942859, 
-      "trafic": 3371386.0, 
-      "rank": 155.0, 
-      "key": "ECOLE VETERINAIRE DE MAISONS ALFORT", 
-      "latitude": 2.42075635931134, 
-      "connexion": {}
-    }, 
-    "PEREIRE": {
-      "name": "P\u00e9reire", 
-      "lines": [
-        3
-      ], 
-      "longitude": 48.8845503317922, 
-      "trafic": 4678888.0, 
-      "rank": 94.0, 
-      "key": "PEREIRE", 
-      "latitude": 2.29751704870328, 
-      "connexion": {}
-    }, 
-    "LA CHAPELLE": {
-      "name": "La Chapelle", 
-      "lines": [
-        2
-      ], 
-      "longitude": 48.8839663987791, 
-      "trafic": 6903632.0, 
-      "rank": 41.0, 
-      "key": "LA CHAPELLE", 
-      "latitude": 2.35849962591676, 
-      "connexion": {}
-    }, 
-    "CHATILLON MONTROUGE": {
-      "name": "Ch\u00e2tillon Montrouge", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.8103147675511, 
-      "trafic": 6540563.0, 
-      "rank": 49.0, 
-      "key": "CHATILLON MONTROUGE", 
-      "latitude": 2.30124802198432, 
-      "connexion": {}
-    }, 
-    "QUAI DE LA GARE": {
-      "name": "Quai de la Gare", 
+    "BIR HAKEIM": {
+      "connexion": {}, 
+      "rank": 31.0, 
+      "name": "Bir-Hakeim (Grenelle)", 
+      "latitude": 2.28878285580103, 
+      "key": "BIR HAKEIM", 
+      "trafic": 7825821.0, 
       "lines": [
         6
       ], 
-      "longitude": 48.8373989542089, 
-      "trafic": 3085406.0, 
-      "rank": 172.0, 
-      "key": "QUAI DE LA GARE", 
-      "latitude": 2.37378388489769, 
-      "connexion": {}
+      "longitude": 48.8543331586284
     }, 
-    "MONTGALLET": {
-      "name": "Montgallet", 
+    "JUSSIEU": {
+      "connexion": {}, 
+      "rank": 118.0, 
+      "name": "Jussieu", 
+      "latitude": 2.35469159842714, 
+      "key": "JUSSIEU", 
+      "trafic": 4080680.0, 
       "lines": [
-        8
-      ], 
-      "longitude": 48.8442504626131, 
-      "trafic": 1793225.0, 
-      "rank": 258.0, 
-      "key": "MONTGALLET", 
-      "latitude": 2.38980213751236, 
-      "connexion": {}
-    }, 
-    "PLACE MONGE": {
-      "name": "Place Monge (Jardin des Plantes)", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8431960998294, 
-      "trafic": 2927184.0, 
-      "rank": 182.0, 
-      "key": "PLACE MONGE", 
-      "latitude": 2.35217845099659, 
-      "connexion": {}
-    }, 
-    "GAMBETTA": {
-      "name": "Gambetta", 
-      "lines": [
-        3, 
-        "3bis"
-      ], 
-      "longitude": 48.8648347782704, 
-      "trafic": 7576845.0, 
-      "rank": 33.0, 
-      "key": "GAMBETTA", 
-      "latitude": 2.39846223866212, 
-      "connexion": {}
-    }, 
-    "JOURDAIN": {
-      "name": "Jourdain", 
-      "lines": [
-        11
-      ], 
-      "longitude": 48.8751674276782, 
-      "trafic": 3418732.0, 
-      "rank": 150.0, 
-      "key": "JOURDAIN", 
-      "latitude": 2.38919309981893, 
-      "connexion": {}
-    }, 
-    "STRASBOURG SAINT DENIS": {
-      "name": "Strasbourg-Saint-Denis", 
-      "lines": [
-        4, 
-        8, 
-        9
-      ], 
-      "longitude": 48.8691997057755, 
-      "trafic": 7346063.0, 
-      "rank": 36.0, 
-      "key": "STRASBOURG SAINT DENIS", 
-      "latitude": 2.35409710573389, 
-      "connexion": {}
-    }, 
-    "LA MOTTE PICQUET": {
-      "name": "La Motte-Picquet-Grenelle", 
-      "lines": [
-        6, 
-        8, 
+        7, 
         10
       ], 
-      "longitude": 48.8491605024288, 
-      "trafic": 8099346.0, 
-      "rank": 30.0, 
-      "key": "LA MOTTE PICQUET", 
-      "latitude": 2.29794929910712, 
-      "connexion": {}
+      "longitude": 48.8458380895278
     }, 
-    "SOLFERINO": {
-      "name": "Solf\u00e9rino", 
+    "MABILLON": {
+      "connexion": {}, 
+      "rank": 252.0, 
+      "name": "Mabillon", 
+      "latitude": 2.33540928887416, 
+      "key": "MABILLON", 
+      "trafic": 1915829.0, 
       "lines": [
-        12
+        10
       ], 
-      "longitude": 48.8585512442859, 
-      "trafic": 2449915.0, 
-      "rank": 219.0, 
-      "key": "SOLFERINO", 
-      "latitude": 2.32268062216292, 
-      "connexion": {}
+      "longitude": 48.8528181349058
     }, 
-    "EDGAR QUINET": {
-      "name": "Edgar-Quinet", 
-      "lines": [
-        6
-      ], 
-      "longitude": 48.8403339877984, 
-      "trafic": 2224650.0, 
-      "rank": 232.0, 
-      "key": "EDGAR QUINET", 
-      "latitude": 2.3261713916465, 
-      "connexion": {}
-    }, 
-    "PORTE DES LILAS": {
-      "name": "Porte des Lilas", 
-      "lines": [
-        "3bis", 
-        11
-      ], 
-      "longitude": 48.8770699912197, 
-      "trafic": 3899020.0, 
-      "rank": 126.0, 
-      "key": "PORTE DES LILAS", 
-      "latitude": 2.40638582344912, 
-      "connexion": {}
-    }, 
-    "VAVIN": {
-      "name": "Vavin", 
+    "PORTE D ORLEANS": {
+      "connexion": {}, 
+      "rank": 17.0, 
+      "name": "Porte d'Orl\u00e9ans (G\u00e9n\u00e9ral Leclerc)", 
+      "latitude": 2.3248055530705, 
+      "key": "PORTE D ORLEANS", 
+      "trafic": 9598097.0, 
       "lines": [
         4
       ], 
-      "longitude": 48.8420036541946, 
-      "trafic": 2242491.0, 
-      "rank": 230.0, 
-      "key": "VAVIN", 
-      "latitude": 2.32900321886739, 
-      "connexion": {}
+      "longitude": 48.8226012875276
     }, 
-    "PORTE DAUPHINE": {
-      "name": "Porte Dauphine (Mar\u00e9chal de Lattre de Tassigny)", 
+    "RANELAGH": {
+      "connexion": {}, 
+      "rank": 228.0, 
+      "name": "Ranelagh", 
+      "latitude": 2.26997975035107, 
+      "key": "RANELAGH", 
+      "trafic": 2315446.0, 
       "lines": [
-        2
+        9
       ], 
-      "longitude": 48.8716448024995, 
-      "trafic": 2840152.0, 
-      "rank": 187.0, 
-      "key": "PORTE DAUPHINE", 
-      "latitude": 2.2766480745793, 
-      "connexion": {}
+      "longitude": 48.8553920307943
+    }, 
+    "QUATRE SEPTEMBRE": {
+      "connexion": {}, 
+      "rank": 260.0, 
+      "name": "Quatre Septembre", 
+      "latitude": 2.33574247484458, 
+      "key": "QUATRE SEPTEMBRE", 
+      "trafic": 1751431.0, 
+      "lines": [
+        3
+      ], 
+      "longitude": 48.8693729306069
+    }, 
+    "MARAICHERS": {
+      "connexion": {}, 
+      "rank": 177.0, 
+      "name": "Maraichers", 
+      "latitude": 2.40623072117296, 
+      "key": "MARAICHERS", 
+      "trafic": 2986282.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8526633633247
+    }, 
+    "PORTE DOREE": {
+      "connexion": {}, 
+      "rank": 198.0, 
+      "name": "Porte Dor\u00e9e", 
+      "latitude": 2.40601835314784, 
+      "key": "PORTE DOREE", 
+      "trafic": 2675992.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.8354388891914
+    }, 
+    "SIMPLON": {
+      "connexion": {}, 
+      "rank": 176.0, 
+      "name": "Simplon", 
+      "latitude": 2.34709106533484, 
+      "key": "SIMPLON", 
+      "trafic": 2996051.0, 
+      "lines": [
+        4
+      ], 
+      "longitude": 48.8946326891969
+    }, 
+    "CARDINAL LEMOINE": {
+      "connexion": {}, 
+      "rank": 265.0, 
+      "name": "Cardinal-Lemoine", 
+      "latitude": 2.35147807315592, 
+      "key": "CARDINAL LEMOINE", 
+      "trafic": 1661863.0, 
+      "lines": [
+        10
+      ], 
+      "longitude": 48.8463912485782
     }, 
     "MONTPARNASSE BIENVENUE": {
+      "connexion": {}, 
+      "rank": 4.0, 
       "name": "Montparnasse-Bienvenue", 
+      "latitude": 2.32263505064878, 
+      "key": "MONTPARNASSE BIENVENUE", 
+      "trafic": 31152275.0, 
       "lines": [
         4, 
         6, 
         12, 
         13
       ], 
-      "longitude": 48.8430428502558, 
-      "trafic": 31152275.0, 
-      "rank": 4.0, 
-      "key": "MONTPARNASSE BIENVENUE", 
-      "latitude": 2.32263505064878, 
-      "connexion": {}
+      "longitude": 48.8430428502558
     }, 
-    "SAINT JACQUES": {
-      "name": "Saint-Jacques", 
+    "DE LA POMPE": {
+      "connexion": {}, 
+      "rank": 173.0, 
+      "name": "Rue de la Pompe (Avenue Georges Mandel)", 
+      "latitude": 2.27762632988678, 
+      "key": "DE LA POMPE", 
+      "trafic": 3081914.0, 
       "lines": [
-        6
+        9
       ], 
-      "longitude": 48.8332522883745, 
-      "trafic": 1937457.0, 
-      "rank": 249.0, 
-      "key": "SAINT JACQUES", 
-      "latitude": 2.33622001540028, 
-      "connexion": {}
+      "longitude": 48.8641004131629
     }, 
-    "MALESHERBES": {
-      "name": "Malesherbes", 
+    "QUATRE CHEMINS": {
+      "connexion": {}, 
+      "rank": 35.0, 
+      "name": "Aubervilliers Pantin (4 Chemins)", 
+      "latitude": 2.3920219501423, 
+      "key": "QUATRE CHEMINS", 
+      "trafic": 7356008.0, 
       "lines": [
-        3
+        7
       ], 
-      "longitude": 48.8828147397743, 
-      "trafic": 2546859.0, 
-      "rank": 212.0, 
-      "key": "MALESHERBES", 
-      "latitude": 2.30969409432085, 
-      "connexion": {}
+      "longitude": 48.9038299162483
     }, 
-    "FAIDHERBE CHALIGNY": {
-      "name": "Faidherbe-Chaligny", 
+    "LOURMEL": {
+      "connexion": {}, 
+      "rank": 221.0, 
+      "name": "Lourmel", 
+      "latitude": 2.28175852328733, 
+      "key": "LOURMEL", 
+      "trafic": 2441226.0, 
       "lines": [
         8
       ], 
-      "longitude": 48.8502384503521, 
-      "trafic": 2974641.0, 
-      "rank": 180.0, 
-      "key": "FAIDHERBE CHALIGNY", 
-      "latitude": 2.38427458098634, 
-      "connexion": {}
+      "longitude": 48.8384881095778
     }, 
-    "VANEAU": {
-      "name": "Vaneau", 
+    "GAMBETTA": {
+      "connexion": {}, 
+      "rank": 33.0, 
+      "name": "Gambetta", 
+      "latitude": 2.39846223866212, 
+      "key": "GAMBETTA", 
+      "trafic": 7576845.0, 
+      "lines": [
+        3, 
+        "3bis"
+      ], 
+      "longitude": 48.8648347782704
+    }, 
+    "COMMERCE": {
+      "connexion": {}, 
+      "rank": 195.0, 
+      "name": "Commerce", 
+      "latitude": 2.29335345012085, 
+      "key": "COMMERCE", 
+      "trafic": 2700300.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.844811191807
+    }, 
+    "PREFECTURE": {
+      "connexion": {}, 
+      "rank": 87.0, 
+      "name": "Cr\u00e9teil-Pr\u00e9fecture (H\u00f4tel de Ville)", 
+      "latitude": 2.45914426746537, 
+      "key": "PREFECTURE", 
+      "trafic": 4865573.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.7797484034104
+    }, 
+    "BOUCICAUT": {
+      "connexion": {}, 
+      "rank": 188.0, 
+      "name": "Boucicaut", 
+      "latitude": 2.28763431751091, 
+      "key": "BOUCICAUT", 
+      "trafic": 2826775.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.8412408953716
+    }, 
+    "CAMPO FORMIO": {
+      "connexion": {}, 
+      "rank": 284.0, 
+      "name": "Campo-Formio", 
+      "latitude": 2.35815314107711, 
+      "key": "CAMPO FORMIO", 
+      "trafic": 1234237.0, 
+      "lines": [
+        5
+      ], 
+      "longitude": 48.8357759721732
+    }, 
+    "CHATILLON MONTROUGE": {
+      "connexion": {}, 
+      "rank": 49.0, 
+      "name": "Ch\u00e2tillon Montrouge", 
+      "latitude": 2.30124802198432, 
+      "key": "CHATILLON MONTROUGE", 
+      "trafic": 6540563.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.8103147675511
+    }, 
+    "DU BAC": {
+      "connexion": {}, 
+      "rank": 208.0, 
+      "name": "Rue du Bac", 
+      "latitude": 2.32556882179391, 
+      "key": "DU BAC", 
+      "trafic": 2563169.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.8557564721823
+    }, 
+    "BELLEVILLE": {
+      "connexion": {}, 
+      "rank": 16.0, 
+      "name": "Belleville", 
+      "latitude": 2.37680560769084, 
+      "key": "BELLEVILLE", 
+      "trafic": 11794952.0, 
+      "lines": [
+        2, 
+        11
+      ], 
+      "longitude": 48.8720416041714
+    }, 
+    "PORTE DE SAINT CLOUD": {
+      "connexion": {}, 
+      "rank": 85.0, 
+      "name": "Porte de Saint-Cloud", 
+      "latitude": 2.25680251499702, 
+      "key": "PORTE DE SAINT CLOUD", 
+      "trafic": 4932701.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8378883866228
+    }, 
+    "PORTE DE CHARENTON": {
+      "connexion": {}, 
+      "rank": 290.0, 
+      "name": "Porte de Charenton", 
+      "latitude": 2.39970109937032, 
+      "key": "PORTE DE CHARENTON", 
+      "trafic": 957771.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.8325258939597
+    }, 
+    "VILLEJUIF LEO LAGRANGE": {
+      "connexion": {}, 
+      "rank": 224.0, 
+      "name": "Villejuif-L\u00e9o Lagrange", 
+      "latitude": 2.36394352657996, 
+      "key": "VILLEJUIF LEO LAGRANGE", 
+      "trafic": 2392154.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8041740664156
+    }, 
+    "BREGUET SABIN": {
+      "connexion": {}, 
+      "rank": 220.0, 
+      "name": "Br\u00e9guet-Sabin", 
+      "latitude": 2.3709371333348, 
+      "key": "BREGUET SABIN", 
+      "trafic": 2448167.0, 
+      "lines": [
+        5
+      ], 
+      "longitude": 48.8565162145681
+    }, 
+    "SAINT MAUR": {
+      "connexion": {}, 
+      "rank": 186.0, 
+      "name": "Rue Saint-Maur", 
+      "latitude": 2.38007329534159, 
+      "key": "SAINT MAUR", 
+      "trafic": 2846171.0, 
+      "lines": [
+        3
+      ], 
+      "longitude": 48.8639878082439
+    }, 
+    "LE KREMLIN BICETRE": {
+      "connexion": {}, 
+      "rank": 102.0, 
+      "name": "Le Kremlin-Bic\u00eatre", 
+      "latitude": 2.36161295005801, 
+      "key": "LE KREMLIN BICETRE", 
+      "trafic": 4492364.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8103806352167
+    }, 
+    "SAINT AUGUSTIN": {
+      "connexion": {}, 
+      "rank": 183.0, 
+      "name": "Saint-Augustin", 
+      "latitude": 2.32043139650991, 
+      "key": "SAINT AUGUSTIN", 
+      "trafic": 2923768.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8746742716311
+    }, 
+    "MIRABEAU": {
+      "connexion": {}, 
+      "rank": 280.0, 
+      "name": "Mirabeau", 
+      "latitude": 2.27340595925819, 
+      "key": "MIRABEAU", 
+      "trafic": 1387272.0, 
       "lines": [
         10
       ], 
-      "longitude": 48.848871662506, 
-      "trafic": 928476.0, 
-      "rank": 291.0, 
-      "key": "VANEAU", 
-      "latitude": 2.32193434751113, 
-      "connexion": {}
+      "longitude": 48.8473396417237
     }, 
     "CHAUSSEE D ANTIN LA FAYETTE": {
+      "connexion": {}, 
+      "rank": 32.0, 
       "name": "Chauss\u00e9e d'Antin (La Fayette)", 
+      "latitude": 2.33350116136944, 
+      "key": "CHAUSSEE D ANTIN LA FAYETTE", 
+      "trafic": 7778782.0, 
       "lines": [
         7, 
         9
       ], 
-      "longitude": 48.8728970365659, 
-      "trafic": 7778782.0, 
-      "rank": 32.0, 
-      "key": "CHAUSSEE D ANTIN LA FAYETTE", 
-      "latitude": 2.33350116136944, 
-      "connexion": {}
+      "longitude": 48.8728970365659
     }, 
-    "BIR HAKEIM": {
-      "name": "Bir-Hakeim (Grenelle)", 
-      "lines": [
-        6
-      ], 
-      "longitude": 48.8543331586284, 
-      "trafic": 7825821.0, 
-      "rank": 31.0, 
-      "key": "BIR HAKEIM", 
-      "latitude": 2.28878285580103, 
-      "connexion": {}
-    }, 
-    "DAUMESNIL": {
-      "name": "Daumesnil (F\u00e9lix Ebou\u00e9)", 
-      "lines": [
-        6, 
-        8
-      ], 
-      "longitude": 48.8393629125482, 
-      "trafic": 5435445.0, 
-      "rank": 71.0, 
-      "key": "DAUMESNIL", 
-      "latitude": 2.39584590805199, 
-      "connexion": {}
-    }, 
-    "SAINT GERMAIN DES PRES": {
-      "name": "Saint-Germain des Pr\u00e9s", 
-      "lines": [
-        4
-      ], 
-      "longitude": 48.8536134867907, 
-      "trafic": 4548167.0, 
-      "rank": 98.0, 
-      "key": "SAINT GERMAIN DES PRES", 
-      "latitude": 2.33372046538119, 
-      "connexion": {}
-    }, 
-    "ETIENNE MARCEL": {
-      "name": "Etienne Marcel", 
-      "lines": [
-        4
-      ], 
-      "longitude": 48.8634946589771, 
-      "trafic": 2661074.0, 
-      "rank": 200.0, 
-      "key": "ETIENNE MARCEL", 
-      "latitude": 2.34866984004444, 
-      "connexion": {}
-    }, 
-    "ANATOLE FRANCE": {
-      "name": "Anatole-France", 
-      "lines": [
-        3
-      ], 
-      "longitude": 48.8924723754181, 
-      "trafic": 3702732.0, 
-      "rank": 138.0, 
-      "key": "ANATOLE FRANCE", 
-      "latitude": 2.285373878396, 
-      "connexion": {}
-    }, 
-    "NATIONALE": {
-      "name": "Nationale", 
-      "lines": [
-        6
-      ], 
-      "longitude": 48.8327104551183, 
-      "trafic": 2626967.0, 
-      "rank": 202.0, 
-      "key": "NATIONALE", 
-      "latitude": 2.36204546183122, 
-      "connexion": {}
-    }, 
-    "LA MUETTE": {
-      "name": "La Muette", 
+    "SAINT PHILIPPE DU ROULE": {
+      "connexion": {}, 
+      "rank": 190.0, 
+      "name": "Saint-Philippe du Roule", 
+      "latitude": 2.30982009380661, 
+      "key": "SAINT PHILIPPE DU ROULE", 
+      "trafic": 2813350.0, 
       "lines": [
         9
       ], 
-      "longitude": 48.8579377398982, 
-      "trafic": 4112862.0, 
-      "rank": 117.0, 
-      "key": "LA MUETTE", 
-      "latitude": 2.27411706697758, 
-      "connexion": {}
+      "longitude": 48.8721798206485
     }, 
-    "BOULOGNE PONT DE SAINT CLOUD": {
-      "name": "Boulogne Pont de Saint-Cloud", 
+    "LAMARCK CAULAINCOURT": {
+      "connexion": {}, 
+      "rank": 174.0, 
+      "name": "Lamarck-Caulaincourt", 
+      "latitude": 2.33889013654466, 
+      "key": "LAMARCK CAULAINCOURT", 
+      "trafic": 3054528.0, 
       "lines": [
-        10
+        12
       ], 
-      "longitude": 48.8407983651067, 
-      "trafic": 2900015.0, 
-      "rank": 184.0, 
-      "key": "BOULOGNE PONT DE SAINT CLOUD", 
-      "latitude": 2.22821129036639, 
-      "connexion": {}
+      "longitude": 48.8897560451806
     }, 
     "OBERKAMPF": {
+      "connexion": {}, 
+      "rank": 114.0, 
       "name": "Oberkampf", 
+      "latitude": 2.36867423637139, 
+      "key": "OBERKAMPF", 
+      "trafic": 4198870.0, 
       "lines": [
         5, 
         9
       ], 
-      "longitude": 48.8645156235565, 
-      "trafic": 4198870.0, 
-      "rank": 114.0, 
-      "key": "OBERKAMPF", 
-      "latitude": 2.36867423637139, 
-      "connexion": {}
+      "longitude": 48.8645156235565
     }, 
-    "SEVRES BABYLONE": {
-      "name": "S\u00e8vres-Babylone", 
+    "MALESHERBES": {
+      "connexion": {}, 
+      "rank": 212.0, 
+      "name": "Malesherbes", 
+      "latitude": 2.30969409432085, 
+      "key": "MALESHERBES", 
+      "trafic": 2546859.0, 
       "lines": [
-        10, 
+        3
+      ], 
+      "longitude": 48.8828147397743
+    }, 
+    "SAINT JACQUES": {
+      "connexion": {}, 
+      "rank": 249.0, 
+      "name": "Saint-Jacques", 
+      "latitude": 2.33622001540028, 
+      "key": "SAINT JACQUES", 
+      "trafic": 1937457.0, 
+      "lines": [
+        6
+      ], 
+      "longitude": 48.8332522883745
+    }, 
+    "PALAIS ROYAL": {
+      "connexion": {}, 
+      "rank": 18.0, 
+      "name": "Palais-Royal (Mus\u00e9e du Louvre)", 
+      "latitude": 2.33581661194832, 
+      "key": "PALAIS ROYAL", 
+      "trafic": 9559535.0, 
+      "lines": [
+        1, 
+        7
+      ], 
+      "longitude": 48.8628468213553
+    }, 
+    "TUILERIES": {
+      "connexion": {}, 
+      "rank": 217.0, 
+      "name": "Tuileries", 
+      "latitude": 2.33031418026416, 
+      "key": "TUILERIES", 
+      "trafic": 2473945.0, 
+      "lines": [
+        1
+      ], 
+      "longitude": 48.8644970966975
+    }, 
+    "PORTE DE": {
+      "connexion": {}, 
+      "rank": 104.0, 
+      "name": "Porte de Pantin", 
+      "latitude": 2.39146861403051, 
+      "key": "PORTE DE", 
+      "trafic": 4477959.0, 
+      "lines": [
+        5
+      ], 
+      "longitude": 48.8883327364608
+    }, 
+    "VANEAU": {
+      "connexion": {}, 
+      "rank": 291.0, 
+      "name": "Vaneau", 
+      "latitude": 2.32193434751113, 
+      "key": "VANEAU", 
+      "trafic": 928476.0, 
+      "lines": [
+        10
+      ], 
+      "longitude": 48.848871662506
+    }, 
+    "DAUMESNIL": {
+      "connexion": {}, 
+      "rank": 71.0, 
+      "name": "Daumesnil (F\u00e9lix Ebou\u00e9)", 
+      "latitude": 2.39584590805199, 
+      "key": "DAUMESNIL", 
+      "trafic": 5435445.0, 
+      "lines": [
+        6, 
+        8
+      ], 
+      "longitude": 48.8393629125482
+    }, 
+    "VILLIERS": {
+      "connexion": {}, 
+      "rank": 55.0, 
+      "name": "Villiers", 
+      "latitude": 2.31527055095629, 
+      "key": "VILLIERS", 
+      "trafic": 6193182.0, 
+      "lines": [
+        2, 
+        3
+      ], 
+      "longitude": 48.8810543983372
+    }, 
+    "COUR SAINT EMILION": {
+      "connexion": {}, 
+      "rank": 69.0, 
+      "name": "Cour Saint-Emilion", 
+      "latitude": 2.38761298844824, 
+      "key": "COUR SAINT EMILION", 
+      "trafic": 5550822.0, 
+      "lines": [
+        14
+      ], 
+      "longitude": 48.8334843071503
+    }, 
+    "CHARDON LAGACHE": {
+      "connexion": {}, 
+      "rank": 295.0, 
+      "name": "Chardon-Lagache", 
+      "latitude": 2.26654168725371, 
+      "key": "CHARDON LAGACHE", 
+      "trafic": 636141.0, 
+      "lines": [
+        10
+      ], 
+      "longitude": 48.8447174018404
+    }, 
+    "PORTE DE CHOISY": {
+      "connexion": {}, 
+      "rank": 168.0, 
+      "name": "Porte de Choisy", 
+      "latitude": 2.36434644526859, 
+      "key": "PORTE DE CHOISY", 
+      "trafic": 3116890.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8201452157747
+    }, 
+    "AVRON": {
+      "connexion": {}, 
+      "rank": 251.0, 
+      "name": "Avron", 
+      "latitude": 2.39798013009568, 
+      "key": "AVRON", 
+      "trafic": 1922250.0, 
+      "lines": [
+        2
+      ], 
+      "longitude": 48.8509782113622
+    }, 
+    "PORTE DE VINCENNES": {
+      "connexion": {}, 
+      "rank": 107.0, 
+      "name": "Porte de Vincennes", 
+      "latitude": 2.40888352534985, 
+      "key": "PORTE DE VINCENNES", 
+      "trafic": 4363767.0, 
+      "lines": [
+        1
+      ], 
+      "longitude": 48.8472657113718
+    }, 
+    "FILLES DU CALVAIRE": {
+      "connexion": {}, 
+      "rank": 264.0, 
+      "name": "Filles du Calvaire", 
+      "latitude": 2.36645313804373, 
+      "key": "FILLES DU CALVAIRE", 
+      "trafic": 1663111.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.8633028923386
+    }, 
+    "BEL AIR": {
+      "connexion": {}, 
+      "rank": 225.0, 
+      "name": "Bel-Air", 
+      "latitude": 2.40120562705964, 
+      "key": "BEL AIR", 
+      "trafic": 2369793.0, 
+      "lines": [
+        6
+      ], 
+      "longitude": 48.8418961424237
+    }, 
+    "CHARENTON ECOLES": {
+      "connexion": {}, 
+      "rank": 178.0, 
+      "name": "Charenton-Ecoles", 
+      "latitude": 2.41407434683562, 
+      "key": "CHARENTON ECOLES", 
+      "trafic": 2975899.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.8213638104296
+    }, 
+    "BIBLIOTHEQUE": {
+      "connexion": {}, 
+      "rank": 7.0, 
+      "name": "Bibliotheque-Francois Mitterrand", 
+      "latitude": 2.3760926116913, 
+      "key": "BIBLIOTHEQUE", 
+      "trafic": 15826727.0, 
+      "lines": [
+        14
+      ], 
+      "longitude": 48.8296059726948
+    }, 
+    "PORTE D AUTEUIL": {
+      "connexion": {}, 
+      "rank": 293.0, 
+      "name": "Porte d'Auteuil", 
+      "latitude": 2.25864782764785, 
+      "key": "PORTE D AUTEUIL", 
+      "trafic": 721009.0, 
+      "lines": [
+        10
+      ], 
+      "longitude": 48.8480737822692
+    }, 
+    "CONCORDE": {
+      "connexion": {}, 
+      "rank": 43.0, 
+      "name": "Concorde", 
+      "latitude": 2.32329987859148, 
+      "key": "CONCORDE", 
+      "trafic": 6866631.0, 
+      "lines": [
+        1, 
+        8, 
         12
       ], 
-      "longitude": 48.8512043552606, 
-      "trafic": 5618445.0, 
-      "rank": 67.0, 
-      "key": "SEVRES BABYLONE", 
-      "latitude": 2.32587286292213, 
-      "connexion": {}
+      "longitude": 48.8661829956315
+    }, 
+    "JASMIN": {
+      "connexion": {}, 
+      "rank": 242.0, 
+      "name": "Jasmin", 
+      "latitude": 2.26790681383725, 
+      "key": "JASMIN", 
+      "trafic": 2065058.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8523396005309
+    }, 
+    "BOBIGNY PABLO PICASSO": {
+      "connexion": {}, 
+      "rank": 47.0, 
+      "name": "Bobigny-Pablo-Picasso", 
+      "latitude": 2.44962071744096, 
+      "key": "BOBIGNY PABLO PICASSO", 
+      "trafic": 6722182.0, 
+      "lines": [
+        5
+      ], 
+      "longitude": 48.9069699442981
+    }, 
+    "PRE SAINT GERVAIS": {
+      "connexion": {}, 
+      "rank": 298.0, 
+      "name": "Pr\u00e9-Saint-Gervais", 
+      "latitude": 2.39907689689178, 
+      "key": "PRE SAINT GERVAIS", 
+      "trafic": 451729.0, 
+      "lines": [
+        "7bis"
+      ], 
+      "longitude": 48.8799349564117
+    }, 
+    "CORENTIN CELTON": {
+      "connexion": {}, 
+      "rank": 153.0, 
+      "name": "Corentin-Celton", 
+      "latitude": 2.27930670368976, 
+      "key": "CORENTIN CELTON", 
+      "trafic": 3385005.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.8272434444069
+    }, 
+    "CLUNY LA SORBONNE": {
+      "connexion": {}, 
+      "rank": 194.0, 
+      "name": "Cluny-La Sorbonne", 
+      "latitude": 2.34522158237992, 
+      "key": "CLUNY LA SORBONNE", 
+      "trafic": 2744528.0, 
+      "lines": [
+        10
+      ], 
+      "longitude": 48.8510383641319
+    }, 
+    "RICHARD LENOIR": {
+      "connexion": {}, 
+      "rank": 266.0, 
+      "name": "Richard-Lenoir", 
+      "latitude": 2.3720977804711, 
+      "key": "RICHARD LENOIR", 
+      "trafic": 1640016.0, 
+      "lines": [
+        5
+      ], 
+      "longitude": 48.8608927535125
+    }, 
+    "MARX DORMOY": {
+      "connexion": {}, 
+      "rank": 143.0, 
+      "name": "Marx-Dormoy", 
+      "latitude": 2.36020584275635, 
+      "key": "MARX DORMOY", 
+      "trafic": 3586107.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.8903020649568
+    }, 
+    "GAITE": {
+      "connexion": {}, 
+      "rank": 164.0, 
+      "name": "Gait\u00e9", 
+      "latitude": 2.32258277982791, 
+      "key": "GAITE", 
+      "trafic": 3223366.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.8384911503461
+    }, 
+    "CONVENTION": {
+      "connexion": {}, 
+      "rank": 63.0, 
+      "name": "Convention", 
+      "latitude": 2.29689958279762, 
+      "key": "CONVENTION", 
+      "trafic": 5780845.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.8374696207371
+    }, 
+    "HOTEL DE VILLE": {
+      "connexion": {}, 
+      "rank": 11.0, 
+      "name": "H\u00f4tel de Ville", 
+      "latitude": 2.35149453979435, 
+      "key": "HOTEL DE VILLE", 
+      "trafic": 12760823.0, 
+      "lines": [
+        1, 
+        11
+      ], 
+      "longitude": 48.8567695272423
+    }, 
+    "JAVEL ANDRE CITROEN": {
+      "connexion": {}, 
+      "rank": 218.0, 
+      "name": "Javel-Andr\u00e9-Citroen", 
+      "latitude": 2.27845497841475, 
+      "key": "JAVEL ANDRE CITROEN", 
+      "trafic": 2473278.0, 
+      "lines": [
+        10
+      ], 
+      "longitude": 48.8461034637876
+    }, 
+    "REPUBLIQUE": {
+      "connexion": {}, 
+      "rank": 6.0, 
+      "name": "R\u00e9publique", 
+      "latitude": 2.36366959820676, 
+      "key": "REPUBLIQUE", 
+      "trafic": 17095806.0, 
+      "lines": [
+        3, 
+        5, 
+        8, 
+        9, 
+        11
+      ], 
+      "longitude": 48.8674860390566
+    }, 
+    "PORTE D IVRY": {
+      "connexion": {}, 
+      "rank": 253.0, 
+      "name": "Porte d'Ivry", 
+      "latitude": 2.36909494347048, 
+      "key": "PORTE D IVRY", 
+      "trafic": 1903789.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8212704974684
+    }, 
+    "ALEXANDRE DUMAS": {
+      "connexion": {}, 
+      "rank": 122.0, 
+      "name": "Alexandre-Dumas", 
+      "latitude": 2.3949898158233, 
+      "key": "ALEXANDRE DUMAS", 
+      "trafic": 3926266.0, 
+      "lines": [
+        2
+      ], 
+      "longitude": 48.8561744489676
+    }, 
+    "FAIDHERBE CHALIGNY": {
+      "connexion": {}, 
+      "rank": 180.0, 
+      "name": "Faidherbe-Chaligny", 
+      "latitude": 2.38427458098634, 
+      "key": "FAIDHERBE CHALIGNY", 
+      "trafic": 2974641.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.8502384503521
+    }, 
+    "DANUBE": {
+      "connexion": {}, 
+      "rank": 294.0, 
+      "name": "Danube", 
+      "latitude": 2.39270205235331, 
+      "key": "DANUBE", 
+      "trafic": 679746.0, 
+      "lines": [
+        "7bis"
+      ], 
+      "longitude": 48.8820231366362
+    }, 
+    "PORTE DE CHAMPERRET": {
+      "connexion": {}, 
+      "rank": 145.0, 
+      "name": "Porte de Champerret", 
+      "latitude": 2.29274204135011, 
+      "key": "PORTE DE CHAMPERRET", 
+      "trafic": 3559682.0, 
+      "lines": [
+        3
+      ], 
+      "longitude": 48.8855507197363
+    }, 
+    "EUROPE": {
+      "connexion": {}, 
+      "rank": 273.0, 
+      "name": "Europe", 
+      "latitude": 2.32282484061213, 
+      "key": "EUROPE", 
+      "trafic": 1536565.0, 
+      "lines": [
+        3
+      ], 
+      "longitude": 48.8787098768874
+    }, 
+    "PORTE DE CLIGNANCOURT": {
+      "connexion": {}, 
+      "rank": 24.0, 
+      "name": "Porte de Clignancourt", 
+      "latitude": 2.34477887737988, 
+      "key": "PORTE DE CLIGNANCOURT", 
+      "trafic": 9000298.0, 
+      "lines": [
+        4
+      ], 
+      "longitude": 48.8972870603971
+    }, 
+    "VAUGIRARD": {
+      "connexion": {}, 
+      "rank": 131.0, 
+      "name": "Vaugirard (Adolphe Ch\u00e9rioux)", 
+      "latitude": 2.30098263992519, 
+      "key": "VAUGIRARD", 
+      "trafic": 3853128.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.839568032804
+    }, 
+    "MAUBERT MUTUALITE": {
+      "connexion": {}, 
+      "rank": 210.0, 
+      "name": "Maubert-Mutualit\u00e9", 
+      "latitude": 2.34850342965795, 
+      "key": "MAUBERT MUTUALITE", 
+      "trafic": 2549853.0, 
+      "lines": [
+        10
+      ], 
+      "longitude": 48.8499086726722
+    }, 
+    "DUROC": {
+      "connexion": {}, 
+      "rank": 165.0, 
+      "name": "Duroc", 
+      "latitude": 2.31672285703746, 
+      "key": "DUROC", 
+      "trafic": 3218029.0, 
+      "lines": [
+        10, 
+        13
+      ], 
+      "longitude": 48.8467835319339
+    }, 
+    "PASTEUR": {
+      "connexion": {}, 
+      "rank": 81.0, 
+      "name": "Pasteur", 
+      "latitude": 2.31265644504969, 
+      "key": "PASTEUR", 
+      "trafic": 5089504.0, 
+      "lines": [
+        6, 
+        12
+      ], 
+      "longitude": 48.8429383503106
+    }, 
+    "SEVRES LECOURBE": {
+      "connexion": {}, 
+      "rank": 223.0, 
+      "name": "S\u00e8vres-Lecourbe", 
+      "latitude": 2.31018390371145, 
+      "key": "SEVRES LECOURBE", 
+      "trafic": 2416242.0, 
+      "lines": [
+        6
+      ], 
+      "longitude": 48.8451307700065
+    }, 
+    "LA COURNEUVE MAI QUATRE": {
+      "connexion": {}, 
+      "rank": 65.0, 
+      "name": "La Courneuve-8-Mai-1945", 
+      "latitude": 2.41045542691904, 
+      "key": "LA COURNEUVE MAI QUATRE", 
+      "trafic": 5707118.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.9209043594324
+    }, 
+    "LE PELETIER": {
+      "connexion": {}, 
+      "rank": 231.0, 
+      "name": "Le Peletier", 
+      "latitude": 2.33980253815072, 
+      "key": "LE PELETIER", 
+      "trafic": 2235088.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8749360634737
+    }, 
+    "VILLEJUIF LOUIS ARAGON": {
+      "connexion": {}, 
+      "rank": 66.0, 
+      "name": "Villejuif-Louis Aragon", 
+      "latitude": 2.36697471484243, 
+      "key": "VILLEJUIF LOUIS ARAGON", 
+      "trafic": 5650185.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.7870020157205
+    }, 
+    "BOULOGNE PONT DE SAINT CLOUD": {
+      "connexion": {}, 
+      "rank": 184.0, 
+      "name": "Boulogne Pont de Saint-Cloud", 
+      "latitude": 2.22821129036639, 
+      "key": "BOULOGNE PONT DE SAINT CLOUD", 
+      "trafic": 2900015.0, 
+      "lines": [
+        10
+      ], 
+      "longitude": 48.8407983651067
+    }, 
+    "STRASBOURG SAINT DENIS": {
+      "connexion": {}, 
+      "rank": 36.0, 
+      "name": "Strasbourg-Saint-Denis", 
+      "latitude": 2.35409710573389, 
+      "key": "STRASBOURG SAINT DENIS", 
+      "trafic": 7346063.0, 
+      "lines": [
+        4, 
+        8, 
+        9
+      ], 
+      "longitude": 48.8691997057755
+    }, 
+    "CHARLES DE GAULLE ETOILE": {
+      "connexion": {}, 
+      "rank": 25.0, 
+      "name": "Charles de Gaulle-Etoile", 
+      "latitude": 2.29576268465124, 
+      "key": "CHARLES DE GAULLE ETOILE", 
+      "trafic": 8980015.0, 
+      "lines": [
+        1, 
+        2, 
+        6
+      ], 
+      "longitude": 48.8744076036607
+    }, 
+    "ODEON": {
+      "connexion": {}, 
+      "rank": 54.0, 
+      "name": "Od\u00e9on", 
+      "latitude": 2.33855755868422, 
+      "key": "ODEON", 
+      "trafic": 6239672.0, 
+      "lines": [
+        4, 
+        10
+      ], 
+      "longitude": 48.8522489363668
+    }, 
+    "VICTOR HUGO": {
+      "connexion": {}, 
+      "rank": 120.0, 
+      "name": "Victor Hugo", 
+      "latitude": 2.28526726839526, 
+      "key": "VICTOR HUGO", 
+      "trafic": 3966843.0, 
+      "lines": [
+        2
+      ], 
+      "longitude": 48.8696716618644
+    }, 
+    "EGLISE D AUTEUIL": {
+      "connexion": {}, 
+      "rank": 301.0, 
+      "name": "Eglise d'Auteuil", 
+      "latitude": 2.26890098784783, 
+      "key": "EGLISE D AUTEUIL", 
+      "trafic": 178152.0, 
+      "lines": [
+        10
+      ], 
+      "longitude": 48.8471813581933
+    }, 
+    "DES BOULETS": {
+      "connexion": {}, 
+      "rank": 199.0, 
+      "name": "Rue des Boulets", 
+      "latitude": 2.38914280457034, 
+      "key": "DES BOULETS", 
+      "trafic": 2669336.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8521417733756
+    }, 
+    "ANATOLE FRANCE": {
+      "connexion": {}, 
+      "rank": 138.0, 
+      "name": "Anatole-France", 
+      "latitude": 2.285373878396, 
+      "key": "ANATOLE FRANCE", 
+      "trafic": 3702732.0, 
+      "lines": [
+        3
+      ], 
+      "longitude": 48.8924723754181
+    }, 
+    "IENA": {
+      "connexion": {}, 
+      "rank": 239.0, 
+      "name": "I\u00e9na", 
+      "latitude": 2.2937999591139, 
+      "key": "IENA", 
+      "trafic": 2115003.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8644728974464
+    }, 
+    "CENSIER DAUBENTON": {
+      "connexion": {}, 
+      "rank": 135.0, 
+      "name": "Censier-Daubenton", 
+      "latitude": 2.35142881208972, 
+      "key": "CENSIER DAUBENTON", 
+      "trafic": 3766777.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8405358795008
+    }, 
+    "SAINT AMBROISE": {
+      "connexion": {}, 
+      "rank": 191.0, 
+      "name": "Saint-Ambroise", 
+      "latitude": 2.37409760383489, 
+      "key": "SAINT AMBROISE", 
+      "trafic": 2758716.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8612121032505
     }, 
     "FRANKLIN ROOSEVELT": {
+      "connexion": {}, 
+      "rank": 12.0, 
       "name": "Franklin-Roosevelt", 
+      "latitude": 2.30830876451203, 
+      "key": "FRANKLIN ROOSEVELT", 
+      "trafic": 12640577.0, 
       "lines": [
         1, 
         9
       ], 
-      "longitude": 48.8693052286485, 
-      "trafic": 12640577.0, 
-      "rank": 12.0, 
-      "key": "FRANKLIN ROOSEVELT", 
-      "latitude": 2.30830876451203, 
-      "connexion": {}
+      "longitude": 48.8693052286485
     }, 
-    "VILLEJUIF PAUL VAILLANT COUTURIER": {
-      "name": "Villejuif-Paul Vaillant Couturier (H\u00f4pital Paul Brousse)", 
+    "BOTZARIS": {
+      "connexion": {}, 
+      "rank": 287.0, 
+      "name": "Botzaris", 
+      "latitude": 2.38873399145736, 
+      "key": "BOTZARIS", 
+      "trafic": 1096111.0, 
       "lines": [
-        7
+        "7bis"
       ], 
-      "longitude": 48.7959447270881, 
-      "trafic": 2118126.0, 
-      "rank": 238.0, 
-      "key": "VILLEJUIF PAUL VAILLANT COUTURIER", 
-      "latitude": 2.3679661373898, 
-      "connexion": {}
+      "longitude": 48.8793377265439
     }, 
-    "ROBESPIERRE": {
-      "name": "Robespierre", 
+    "CHARLES MICHELS": {
+      "connexion": {}, 
+      "rank": 127.0, 
+      "name": "Charles Michels", 
+      "latitude": 2.28633238561987, 
+      "key": "CHARLES MICHELS", 
+      "trafic": 3892728.0, 
       "lines": [
-        9
+        10
       ], 
-      "longitude": 48.85556400483, 
-      "trafic": 4317097.0, 
-      "rank": 110.0, 
-      "key": "ROBESPIERRE", 
-      "latitude": 2.42355673885079, 
-      "connexion": {}
+      "longitude": 48.8463362741362
     }, 
-    "SAINT MARCEL": {
-      "name": "Saint-Marcel", 
+    "LA DEFENSE": {
+      "connexion": {}, 
+      "rank": 9.0, 
+      "name": "La D\u00e9fense (Grande Arche)", 
+      "latitude": 2.23788279833084, 
+      "key": "LA DEFENSE", 
+      "trafic": 13853216.0, 
       "lines": [
-        5
+        1
       ], 
-      "longitude": 48.8395141857768, 
-      "trafic": 2023002.0, 
-      "rank": 245.0, 
-      "key": "SAINT MARCEL", 
-      "latitude": 2.36140877914038, 
-      "connexion": {}
+      "longitude": 48.8919344692345
     }, 
-    "RASPAIL": {
-      "name": "Raspail", 
+    "DENFERT ROCHEREAU": {
+      "connexion": {}, 
+      "rank": 109.0, 
+      "name": "Denfert-Rochereau", 
+      "latitude": 2.33189346001924, 
+      "key": "DENFERT ROCHEREAU", 
+      "trafic": 4335086.0, 
       "lines": [
         4, 
         6
       ], 
-      "longitude": 48.8389637143162, 
-      "trafic": 1785546.0, 
-      "rank": 259.0, 
-      "key": "RASPAIL", 
-      "latitude": 2.33058309684112, 
-      "connexion": {}
+      "longitude": 48.8335919035577
     }, 
-    "ASSEMBLEE NATIONALE": {
-      "name": "Assembl\u00e9e Nationale", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.8608996856827, 
-      "trafic": 1085710.0, 
-      "rank": 288.0, 
-      "key": "ASSEMBLEE NATIONALE", 
-      "latitude": 2.32063223779825, 
-      "connexion": {}
-    }, 
-    "WAGRAM": {
-      "name": "Wagram", 
-      "lines": [
-        3
-      ], 
-      "longitude": 48.8838739610152, 
-      "trafic": 2575735.0, 
-      "rank": 207.0, 
-      "key": "WAGRAM", 
-      "latitude": 2.30465144209881, 
-      "connexion": {}
-    }, 
-    "SAINT SEBASTIEN FROISSART": {
-      "name": "Saint-S\u00e9bastien-Froissart", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.8612805878047, 
-      "trafic": 1680231.0, 
-      "rank": 263.0, 
-      "key": "SAINT SEBASTIEN FROISSART", 
-      "latitude": 2.36702409525746, 
-      "connexion": {}
-    }, 
-    "JULES JOFFRIN": {
-      "name": "Jules Joffrin", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.8924519921638, 
-      "trafic": 4384318.0, 
-      "rank": 106.0, 
-      "key": "JULES JOFFRIN", 
-      "latitude": 2.34446469630622, 
-      "connexion": {}
-    }, 
-    "JACQUES BONSERGENT": {
-      "name": "Jacques-Bonsergent", 
-      "lines": [
-        5
-      ], 
-      "longitude": 48.8709749040173, 
-      "trafic": 2622801.0, 
-      "rank": 203.0, 
-      "key": "JACQUES BONSERGENT", 
-      "latitude": 2.36053788394075, 
-      "connexion": {}
-    }, 
-    "OLYMPIADES": {
-      "name": "Olympiades", 
-      "lines": [
-        14
-      ], 
-      "longitude": 48.8268582996999, 
-      "trafic": 7245724.0, 
-      "rank": 37.0, 
-      "key": "OLYMPIADES", 
-      "latitude": 2.36729701204889, 
-      "connexion": {}
-    }, 
-    "ANVERS": {
-      "name": "Anvers", 
+    "COLONEL FABIEN": {
+      "connexion": {}, 
+      "rank": 97.0, 
+      "name": "Colonel Fabien", 
+      "latitude": 2.37014713779616, 
+      "key": "COLONEL FABIEN", 
+      "trafic": 4554566.0, 
       "lines": [
         2
       ], 
-      "longitude": 48.8831322902739, 
-      "trafic": 6667509.0, 
-      "rank": 48.0, 
-      "key": "ANVERS", 
-      "latitude": 2.34397282520569, 
-      "connexion": {}
+      "longitude": 48.8779422921331
     }, 
-    "PORTE DE VANVES": {
-      "name": "Porte de Vanves", 
+    "CARREFOUR PLEYEL": {
+      "connexion": {}, 
+      "rank": 192.0, 
+      "name": "Carrefour-Pleyel", 
+      "latitude": 2.34320024908898, 
+      "key": "CARREFOUR PLEYEL", 
+      "trafic": 2754091.0, 
       "lines": [
         13
       ], 
-      "longitude": 48.8276756893336, 
-      "trafic": 4715395.0, 
-      "rank": 93.0, 
-      "key": "PORTE DE VANVES", 
-      "latitude": 2.30534014881766, 
-      "connexion": {}
+      "longitude": 48.9194552102366
+    }, 
+    "AVENUE EMILE ZOLA": {
+      "connexion": {}, 
+      "rank": 277.0, 
+      "name": "Avenue Emile-Zola", 
+      "latitude": 2.29493807524416, 
+      "key": "AVENUE EMILE ZOLA", 
+      "trafic": 1479756.0, 
+      "lines": [
+        10
+      ], 
+      "longitude": 48.8469642745973
+    }, 
+    "MAIRIE DE MONTREUIL": {
+      "connexion": {}, 
+      "rank": 51.0, 
+      "name": "Mairie de Montreuil", 
+      "latitude": 2.44165620310216, 
+      "key": "MAIRIE DE MONTREUIL", 
+      "trafic": 6300355.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8623601850863
     }, 
     "LES SABLONS": {
+      "connexion": {}, 
+      "rank": 72.0, 
       "name": "Les Sablons (Jardin d'acclimatation)", 
+      "latitude": 2.27253908542214, 
+      "key": "LES SABLONS", 
+      "trafic": 5430088.0, 
       "lines": [
         1
       ], 
-      "longitude": 48.880901799077, 
-      "trafic": 5430088.0, 
-      "rank": 72.0, 
-      "key": "LES SABLONS", 
-      "latitude": 2.27253908542214, 
-      "connexion": {}
+      "longitude": 48.880901799077
+    }, 
+    "SAINT PLACIDE": {
+      "connexion": {}, 
+      "rank": 151.0, 
+      "name": "Saint-Placide", 
+      "latitude": 2.32693263560201, 
+      "key": "SAINT PLACIDE", 
+      "trafic": 3404889.0, 
+      "lines": [
+        4
+      ], 
+      "longitude": 48.8465803886283
+    }, 
+    "OPERA": {
+      "connexion": {}, 
+      "rank": 14.0, 
+      "name": "Op\u00e9ra", 
+      "latitude": 2.33180515640395, 
+      "key": "OPERA", 
+      "trafic": 12389715.0, 
+      "lines": [
+        3, 
+        7, 
+        8
+      ], 
+      "longitude": 48.8707029411588
+    }, 
+    "EDGAR QUINET": {
+      "connexion": {}, 
+      "rank": 232.0, 
+      "name": "Edgar-Quinet", 
+      "latitude": 2.3261713916465, 
+      "key": "EDGAR QUINET", 
+      "trafic": 2224650.0, 
+      "lines": [
+        6
+      ], 
+      "longitude": 48.8403339877984
+    }, 
+    "SAINT SULPICE": {
+      "connexion": {}, 
+      "rank": 222.0, 
+      "name": "Saint-Sulpice", 
+      "latitude": 2.33086756439724, 
+      "key": "SAINT SULPICE", 
+      "trafic": 2432022.0, 
+      "lines": [
+        4
+      ], 
+      "longitude": 48.8508047851976
+    }, 
+    "LA MUETTE": {
+      "connexion": {}, 
+      "rank": 117.0, 
+      "name": "La Muette", 
+      "latitude": 2.27411706697758, 
+      "key": "LA MUETTE", 
+      "trafic": 4112862.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8579377398982
+    }, 
+    "LOUIS BLANC": {
+      "connexion": {}, 
+      "rank": 215.0, 
+      "name": "Louis Blanc", 
+      "latitude": 2.3655569576092, 
+      "key": "LOUIS BLANC", 
+      "trafic": 2523039.0, 
+      "lines": [
+        7, 
+        "7bis"
+      ], 
+      "longitude": 48.8810261029957
+    }, 
+    "CHATEAU ROUGE": {
+      "connexion": {}, 
+      "rank": 45.0, 
+      "name": "Ch\u00e2teau Rouge", 
+      "latitude": 2.34982663344309, 
+      "key": "CHATEAU ROUGE", 
+      "trafic": 6798017.0, 
+      "lines": [
+        4
+      ], 
+      "longitude": 48.8871760670966
+    }, 
+    "PORTE DE MONTREUIL": {
+      "connexion": {}, 
+      "rank": 90.0, 
+      "name": "Porte de Montreuil", 
+      "latitude": 2.41043444867178, 
+      "key": "PORTE DE MONTREUIL", 
+      "trafic": 4822893.0, 
+      "lines": [
+        9
+      ], 
+      "longitude": 48.8534495044418
+    }, 
+    "VOLONTAIRES": {
+      "connexion": {}, 
+      "rank": 211.0, 
+      "name": "Volontaires", 
+      "latitude": 2.30804114557479, 
+      "key": "VOLONTAIRES", 
+      "trafic": 2547550.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.8416970273909
+    }, 
+    "HOCHE": {
+      "connexion": {}, 
+      "rank": 79.0, 
+      "name": "Hoche", 
+      "latitude": 2.40319741378238, 
+      "key": "HOCHE", 
+      "trafic": 5217935.0, 
+      "lines": [
+        5
+      ], 
+      "longitude": 48.8913165639098
+    }, 
+    "SAINT MANDE": {
+      "connexion": {}, 
+      "rank": 60.0, 
+      "name": "Saint-Mand\u00e9", 
+      "latitude": 2.41867310093048, 
+      "key": "SAINT MANDE", 
+      "trafic": 5973612.0, 
+      "lines": [
+        1
+      ], 
+      "longitude": 48.8462977572576
+    }, 
+    "PLACE D ITALIE": {
+      "connexion": {}, 
+      "rank": 15.0, 
+      "name": "Place d'Italie", 
+      "latitude": 2.35572137338498, 
+      "key": "PLACE D ITALIE", 
+      "trafic": 12168442.0, 
+      "lines": [
+        5, 
+        6, 
+        7
+      ], 
+      "longitude": 48.8314061535553
+    }, 
+    "PONT NEUF": {
+      "connexion": {}, 
+      "rank": 268.0, 
+      "name": "Pont Neuf", 
+      "latitude": 2.34194923634659, 
+      "key": "PONT NEUF", 
+      "trafic": 1612517.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8584022524727
+    }, 
+    "PORTE DE VERSAILLES": {
+      "connexion": {}, 
+      "rank": 52.0, 
+      "name": "Porte de Versailles", 
+      "latitude": 2.28800279639373, 
+      "key": "PORTE DE VERSAILLES", 
+      "trafic": 6275922.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.8324619819728
+    }, 
+    "GEORGE V": {
+      "connexion": {}, 
+      "rank": 56.0, 
+      "name": "George V", 
+      "latitude": 2.30046268343343, 
+      "key": "GEORGE V", 
+      "trafic": 6192199.0, 
+      "lines": [
+        1
+      ], 
+      "longitude": 48.8719825731694
+    }, 
+    "NATIONALE": {
+      "connexion": {}, 
+      "rank": 202.0, 
+      "name": "Nationale", 
+      "latitude": 2.36204546183122, 
+      "key": "NATIONALE", 
+      "trafic": 2626967.0, 
+      "lines": [
+        6
+      ], 
+      "longitude": 48.8327104551183
+    }, 
+    "TOLBIAC": {
+      "connexion": {}, 
+      "rank": 142.0, 
+      "name": "Tolbiac", 
+      "latitude": 2.35724192740466, 
+      "key": "TOLBIAC", 
+      "trafic": 3612890.0, 
+      "lines": [
+        7
+      ], 
+      "longitude": 48.8265068988465
+    }, 
+    "GARIBALDI": {
+      "connexion": {}, 
+      "rank": 171.0, 
+      "name": "Garibaldi", 
+      "latitude": 2.33173327604333, 
+      "key": "GARIBALDI", 
+      "trafic": 3088530.0, 
+      "lines": [
+        13
+      ], 
+      "longitude": 48.9060316197727
+    }, 
+    "GRANDS BOULEVARDS": {
+      "connexion": {}, 
+      "rank": 44.0, 
+      "name": "Grands Boulevards", 
+      "latitude": 2.34319701067138, 
+      "key": "GRANDS BOULEVARDS", 
+      "trafic": 6826718.0, 
+      "lines": [
+        8, 
+        9
+      ], 
+      "longitude": 48.8714189081641
+    }, 
+    "ABBESSES": {
+      "connexion": {}, 
+      "rank": 213.0, 
+      "name": "Abbesses", 
+      "latitude": 2.33871281165883, 
+      "key": "ABBESSES", 
+      "trafic": 2545127.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.8844176451841
+    }, 
+    "UNIVERSITE": {
+      "connexion": {}, 
+      "rank": 169.0, 
+      "name": "Cr\u00e9teil-Universit\u00e9", 
+      "latitude": 2.45144739751129, 
+      "key": "UNIVERSITE", 
+      "trafic": 3116625.0, 
+      "lines": [
+        8
+      ], 
+      "longitude": 48.7893506910917
+    }, 
+    "MADELEINE": {
+      "connexion": {}, 
+      "rank": 34.0, 
+      "name": "Madeleine", 
+      "latitude": 2.32516370025939, 
+      "key": "MADELEINE", 
+      "trafic": 7412746.0, 
+      "lines": [
+        8, 
+        12, 
+        14
+      ], 
+      "longitude": 48.8700643517776
+    }, 
+    "PORTE DAUPHINE": {
+      "connexion": {}, 
+      "rank": 187.0, 
+      "name": "Porte Dauphine (Mar\u00e9chal de Lattre de Tassigny)", 
+      "latitude": 2.2766480745793, 
+      "key": "PORTE DAUPHINE", 
+      "trafic": 2840152.0, 
+      "lines": [
+        2
+      ], 
+      "longitude": 48.8716448024995
+    }, 
+    "TRINITE D ESTIENNE D ORVES": {
+      "connexion": {}, 
+      "rank": 234.0, 
+      "name": "Trinit\u00e9-d'Estienne d'Orves", 
+      "latitude": 2.33305807671909, 
+      "key": "TRINITE D ESTIENNE D ORVES", 
+      "trafic": 2192391.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.87650879316
+    }, 
+    "PORTE DE LA CHAPELLE": {
+      "connexion": {}, 
+      "rank": 149.0, 
+      "name": "Porte de la Chapelle", 
+      "latitude": 2.35909154194382, 
+      "key": "PORTE DE LA CHAPELLE", 
+      "trafic": 3431552.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.8980716716703
+    }, 
+    "MAIRIE D ISSY": {
+      "connexion": {}, 
+      "rank": 115.0, 
+      "name": "Mairie d'Issy", 
+      "latitude": 2.27350399984748, 
+      "key": "MAIRIE D ISSY", 
+      "trafic": 4194027.0, 
+      "lines": [
+        12
+      ], 
+      "longitude": 48.8248138108686
     }, 
     "SAINT LAZARE": {
+      "connexion": {}, 
+      "rank": 2.0, 
       "name": "Saint-Lazare", 
+      "latitude": 2.326185658552, 
+      "key": "SAINT LAZARE", 
+      "trafic": 46790941.0, 
       "lines": [
         3, 
         9, 
@@ -2148,1555 +3668,36 @@
         13, 
         14
       ], 
-      "longitude": 48.8755778691635, 
-      "trafic": 46790941.0, 
-      "rank": 2.0, 
-      "key": "SAINT LAZARE", 
-      "latitude": 2.326185658552, 
-      "connexion": {}
+      "longitude": 48.8755778691635
     }, 
-    "LES GOBELINS": {
-      "name": "Les Gobelins", 
+    "MONCEAU": {
+      "connexion": {}, 
+      "rank": 270.0, 
+      "name": "Monceau", 
+      "latitude": 2.30896624223491, 
+      "key": "MONCEAU", 
+      "trafic": 1605664.0, 
       "lines": [
-        7
+        2
       ], 
-      "longitude": 48.8366105352574, 
-      "trafic": 3830231.0, 
-      "rank": 132.0, 
-      "key": "LES GOBELINS", 
-      "latitude": 2.35164217355525, 
-      "connexion": {}
+      "longitude": 48.8806306676395
     }, 
-    "EGLISE DE": {
-      "name": "Eglise de Pantin", 
-      "lines": [
-        5
-      ], 
-      "longitude": 48.893113981741, 
-      "trafic": 3632300.0, 
-      "rank": 141.0, 
-      "key": "EGLISE DE", 
-      "latitude": 2.41328568033304, 
-      "connexion": {}
-    }, 
-    "LA TOUR MAUBOURG": {
-      "name": "La Tour-Maubourg", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.8573850541664, 
-      "trafic": 2055583.0, 
-      "rank": 243.0, 
-      "key": "LA TOUR MAUBOURG", 
-      "latitude": 2.30959864479432, 
-      "connexion": {}
-    }, 
-    "CHARLES MICHELS": {
-      "name": "Charles Michels", 
-      "lines": [
-        10
-      ], 
-      "longitude": 48.8463362741362, 
-      "trafic": 3892728.0, 
-      "rank": 127.0, 
-      "key": "CHARLES MICHELS", 
-      "latitude": 2.28633238561987, 
-      "connexion": {}
-    }, 
-    "CHARDON LAGACHE": {
-      "name": "Chardon-Lagache", 
-      "lines": [
-        10
-      ], 
-      "longitude": 48.8447174018404, 
-      "trafic": 636141.0, 
-      "rank": 295.0, 
-      "key": "CHARDON LAGACHE", 
-      "latitude": 2.26654168725371, 
-      "connexion": {}
-    }, 
-    "MAIRIE DE SAINT OUEN": {
-      "name": "Mairie de Saint-Ouen", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.9120620157054, 
-      "trafic": 3732408.0, 
-      "rank": 137.0, 
-      "key": "MAIRIE DE SAINT OUEN", 
-      "latitude": 2.334163015407, 
-      "connexion": {}
-    }, 
-    "PLACE CLICHY": {
-      "name": "Place de Clichy", 
-      "lines": [
-        2, 
-        13
-      ], 
-      "longitude": 48.8836233671973, 
-      "trafic": 9255747.0, 
-      "rank": 21.0, 
-      "key": "PLACE CLICHY", 
-      "latitude": 2.32730682210246, 
-      "connexion": {}
-    }, 
-    "CLUNY LA SORBONNE": {
-      "name": "Cluny-La Sorbonne", 
-      "lines": [
-        10
-      ], 
-      "longitude": 48.8510383641319, 
-      "trafic": 2744528.0, 
-      "rank": 194.0, 
-      "key": "CLUNY LA SORBONNE", 
-      "latitude": 2.34522158237992, 
-      "connexion": {}
-    }, 
-    "POINTE DU LAC": {
-      "name": "Pointe du Lac", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.7679578710506, 
-      "trafic": 389235.0, 
-      "rank": 299.0, 
-      "key": "POINTE DU LAC", 
-      "latitude": 2.46598982922341, 
-      "connexion": {}
-    }, 
-    "LE PELETIER": {
-      "name": "Le Peletier", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8749360634737, 
-      "trafic": 2235088.0, 
-      "rank": 231.0, 
-      "key": "LE PELETIER", 
-      "latitude": 2.33980253815072, 
-      "connexion": {}
-    }, 
-    "BROCHANT": {
-      "name": "Brochant", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.8903794211931, 
-      "trafic": 3401859.0, 
-      "rank": 152.0, 
-      "key": "BROCHANT", 
-      "latitude": 2.32002765158099, 
-      "connexion": {}
-    }, 
-    "LAUMIERE": {
-      "name": "Laumi\u00e8re", 
-      "lines": [
-        5
-      ], 
-      "longitude": 48.8850422338428, 
-      "trafic": 4518075.0, 
-      "rank": 100.0, 
-      "key": "LAUMIERE", 
-      "latitude": 2.3795955531979, 
-      "connexion": {}
-    }, 
-    "ARTS ET METIERS": {
-      "name": "Arts-et-M\u00e9tiers", 
-      "lines": [
-        3, 
-        11
-      ], 
-      "longitude": 48.8652929436681, 
-      "trafic": 3859066.0, 
-      "rank": 129.0, 
-      "key": "ARTS ET METIERS", 
-      "latitude": 2.35637778086357, 
-      "connexion": {}
-    }, 
-    "SAINT FRANCOIS XAVIER": {
-      "name": "Saint-Francois-Xavier", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.8518632147979, 
-      "trafic": 1850407.0, 
-      "rank": 255.0, 
-      "key": "SAINT FRANCOIS XAVIER", 
-      "latitude": 2.31403452688812, 
-      "connexion": {}
-    }, 
-    "PLACES FETES": {
-      "name": "Place des F\u00eates", 
-      "lines": [
-        "7bis", 
-        11
-      ], 
-      "longitude": 48.8768191471423, 
-      "trafic": 3265485.0, 
-      "rank": 162.0, 
-      "key": "PLACES FETES", 
-      "latitude": 2.39347313514395, 
-      "connexion": {}
-    }, 
-    "SAINT DENIS PORTE DE PARIS": {
-      "name": "Saint-Denis-Porte de Paris", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.9296276098426, 
-      "trafic": 3517853.0, 
-      "rank": 146.0, 
-      "key": "SAINT DENIS PORTE DE PARIS", 
-      "latitude": 2.35741016429387, 
-      "connexion": {}
-    }, 
-    "RIQUET": {
-      "name": "Riquet", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8881235581407, 
-      "trafic": 2519241.0, 
-      "rank": 216.0, 
-      "key": "RIQUET", 
-      "latitude": 2.37448742568144, 
-      "connexion": {}
-    }, 
-    "SAINT GEORGES": {
-      "name": "Saint-Georges", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.8785085363002, 
-      "trafic": 1254251.0, 
-      "rank": 283.0, 
-      "key": "SAINT GEORGES", 
-      "latitude": 2.33758851215148, 
-      "connexion": {}
-    }, 
-    "GUY MOQUET": {
-      "name": "Guy-M\u00f4quet", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.8924675161233, 
-      "trafic": 4524101.0, 
-      "rank": 99.0, 
-      "key": "GUY MOQUET", 
-      "latitude": 2.32722675495985, 
-      "connexion": {}
-    }, 
-    "GARE DU NORD": {
-      "name": "Gare du Nord", 
-      "lines": [
-        4, 
-        5
-      ], 
-      "longitude": 48.8799654432891, 
-      "trafic": 48146629.0, 
-      "rank": 1.0, 
-      "key": "GARE DU NORD", 
-      "latitude": 2.35470307836603, 
-      "connexion": {}
-    }, 
-    "POISSONNIERE": {
-      "name": "Poissonni\u00e8re", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8773395505122, 
-      "trafic": 3570062.0, 
-      "rank": 144.0, 
-      "key": "POISSONNIERE", 
-      "latitude": 2.34960623902438, 
-      "connexion": {}
-    }, 
-    "SIMPLON": {
-      "name": "Simplon", 
+    "SAINT GERMAIN DES PRES": {
+      "connexion": {}, 
+      "rank": 98.0, 
+      "name": "Saint-Germain des Pr\u00e9s", 
+      "latitude": 2.33372046538119, 
+      "key": "SAINT GERMAIN DES PRES", 
+      "trafic": 4548167.0, 
       "lines": [
         4
       ], 
-      "longitude": 48.8946326891969, 
-      "trafic": 2996051.0, 
-      "rank": 176.0, 
-      "key": "SIMPLON", 
-      "latitude": 2.34709106533484, 
-      "connexion": {}
-    }, 
-    "FELIX FAURE": {
-      "name": "F\u00e9lix Faure", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.8429772288922, 
-      "trafic": 1932459.0, 
-      "rank": 250.0, 
-      "key": "FELIX FAURE", 
-      "latitude": 2.29199788779218, 
-      "connexion": {}
-    }, 
-    "NOTRE DAME DE LORETTE": {
-      "name": "Notre-Dame de Lorette", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.8766256956919, 
-      "trafic": 2849349.0, 
-      "rank": 185.0, 
-      "key": "NOTRE DAME DE LORETTE", 
-      "latitude": 2.33845371043763, 
-      "connexion": {}
-    }, 
-    "DUROC": {
-      "name": "Duroc", 
-      "lines": [
-        10, 
-        13
-      ], 
-      "longitude": 48.8467835319339, 
-      "trafic": 3218029.0, 
-      "rank": 165.0, 
-      "key": "DUROC", 
-      "latitude": 2.31672285703746, 
-      "connexion": {}
-    }, 
-    "MARAICHERS": {
-      "name": "Maraichers", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8526633633247, 
-      "trafic": 2986282.0, 
-      "rank": 177.0, 
-      "key": "MARAICHERS", 
-      "latitude": 2.40623072117296, 
-      "connexion": {}
-    }, 
-    "PIGALLE": {
-      "name": "Pigalle", 
-      "lines": [
-        2, 
-        12
-      ], 
-      "longitude": 48.8824943850352, 
-      "trafic": 6172069.0, 
-      "rank": 57.0, 
-      "key": "PIGALLE", 
-      "latitude": 2.3376226051814, 
-      "connexion": {}
-    }, 
-    "DENFERT ROCHEREAU": {
-      "name": "Denfert-Rochereau", 
-      "lines": [
-        4, 
-        6
-      ], 
-      "longitude": 48.8335919035577, 
-      "trafic": 4335086.0, 
-      "rank": 109.0, 
-      "key": "DENFERT ROCHEREAU", 
-      "latitude": 2.33189346001924, 
-      "connexion": {}
-    }, 
-    "L ECHAT": {
-      "name": "Cr\u00e9teil-L'Echat (H\u00f4pital Henri Mondor)", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.7964623870188, 
-      "trafic": 2109885.0, 
-      "rank": 241.0, 
-      "key": "L ECHAT", 
-      "latitude": 2.44906187102647, 
-      "connexion": {}
-    }, 
-    "MAIRIE D ISSY": {
-      "name": "Mairie d'Issy", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.8248138108686, 
-      "trafic": 4194027.0, 
-      "rank": 115.0, 
-      "key": "MAIRIE D ISSY", 
-      "latitude": 2.27350399984748, 
-      "connexion": {}
-    }, 
-    "EGLISE D AUTEUIL": {
-      "name": "Eglise d'Auteuil", 
-      "lines": [
-        10
-      ], 
-      "longitude": 48.8471813581933, 
-      "trafic": 178152.0, 
-      "rank": 301.0, 
-      "key": "EGLISE D AUTEUIL", 
-      "latitude": 2.26890098784783, 
-      "connexion": {}
-    }, 
-    "MAUBERT MUTUALITE": {
-      "name": "Maubert-Mutualit\u00e9", 
-      "lines": [
-        10
-      ], 
-      "longitude": 48.8499086726722, 
-      "trafic": 2549853.0, 
-      "rank": 210.0, 
-      "key": "MAUBERT MUTUALITE", 
-      "latitude": 2.34850342965795, 
-      "connexion": {}
-    }, 
-    "VAUGIRARD": {
-      "name": "Vaugirard (Adolphe Ch\u00e9rioux)", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.839568032804, 
-      "trafic": 3853128.0, 
-      "rank": 131.0, 
-      "key": "VAUGIRARD", 
-      "latitude": 2.30098263992519, 
-      "connexion": {}
-    }, 
-    "REAUMUR SEBASTOPOL": {
-      "name": "R\u00e9aumur-S\u00e9bastopol", 
-      "lines": [
-        3, 
-        4
-      ], 
-      "longitude": 48.8663118301881, 
-      "trafic": 5860077.0, 
-      "rank": 61.0, 
-      "key": "REAUMUR SEBASTOPOL", 
-      "latitude": 2.35203525525425, 
-      "connexion": {}
-    }, 
-    "FUNICULAIRE": {
-      "name": "Funiculaire Gare haute", 
-      "lines": [
-        2
-      ], 
-      "longitude": 48.8856217864643, 
-      "trafic": 3488052.0, 
-      "rank": 147.0, 
-      "key": "FUNICULAIRE", 
-      "latitude": 2.34334627251386, 
-      "connexion": {}
-    }, 
-    "PORTE DE LA VILLETTE": {
-      "name": "Porte de la Villette", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8978102190581, 
-      "trafic": 3209252.0, 
-      "rank": 166.0, 
-      "key": "PORTE DE LA VILLETTE", 
-      "latitude": 2.38580611263705, 
-      "connexion": {}
-    }, 
-    "CRIMEE": {
-      "name": "Crim\u00e9e", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8906811628606, 
-      "trafic": 7183997.0, 
-      "rank": 38.0, 
-      "key": "CRIMEE", 
-      "latitude": 2.37681528947191, 
-      "connexion": {}
-    }, 
-    "ARGENTINE": {
-      "name": "Argentine", 
-      "lines": [
-        1
-      ], 
-      "longitude": 48.875533092935, 
-      "trafic": 2820883.0, 
-      "rank": 189.0, 
-      "key": "ARGENTINE", 
-      "latitude": 2.2893216639617, 
-      "connexion": {}
-    }, 
-    "BOISSIERE": {
-      "name": "Boissi\u00e8re", 
-      "lines": [
-        6
-      ], 
-      "longitude": 48.8670270457182, 
-      "trafic": 2145714.0, 
-      "rank": 237.0, 
-      "key": "BOISSIERE", 
-      "latitude": 2.29047384540453, 
-      "connexion": {}
-    }, 
-    "SAINT FARGEAU": {
-      "name": "Saint-Fargeau", 
-      "lines": [
-        "3bis"
-      ], 
-      "longitude": 48.871951099492, 
-      "trafic": 979912.0, 
-      "rank": 289.0, 
-      "key": "SAINT FARGEAU", 
-      "latitude": 2.40485763553065, 
-      "connexion": {}
-    }, 
-    "DUGOMMIER": {
-      "name": "Dugommier", 
-      "lines": [
-        6
-      ], 
-      "longitude": 48.8389122332307, 
-      "trafic": 2694014.0, 
-      "rank": 196.0, 
-      "key": "DUGOMMIER", 
-      "latitude": 2.38895257216093, 
-      "connexion": {}
-    }, 
-    "MALAKOFF ETIENNE DOLET": {
-      "name": "Malakoff-Rue Etienne Dolet", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.8146679725106, 
-      "trafic": 1846661.0, 
-      "rank": 256.0, 
-      "key": "MALAKOFF ETIENNE DOLET", 
-      "latitude": 2.29699896350216, 
-      "connexion": {}
-    }, 
-    "LEDRU ROLLIN": {
-      "name": "Ledru-Rollin", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.8511941201646, 
-      "trafic": 3829461.0, 
-      "rank": 133.0, 
-      "key": "LEDRU ROLLIN", 
-      "latitude": 2.37594535235887, 
-      "connexion": {}
-    }, 
-    "BALARD": {
-      "name": "Balard", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.8362754634973, 
-      "trafic": 4263152.0, 
-      "rank": 112.0, 
-      "key": "BALARD", 
-      "latitude": 2.27821832700082, 
-      "connexion": {}
-    }, 
-    "CONCORDE": {
-      "name": "Concorde", 
-      "lines": [
-        1, 
-        8, 
-        12
-      ], 
-      "longitude": 48.8661829956315, 
-      "trafic": 6866631.0, 
-      "rank": 43.0, 
-      "key": "CONCORDE", 
-      "latitude": 2.32329987859148, 
-      "connexion": {}
-    }, 
-    "PASTEUR": {
-      "name": "Pasteur", 
-      "lines": [
-        6, 
-        12
-      ], 
-      "longitude": 48.8429383503106, 
-      "trafic": 5089504.0, 
-      "rank": 81.0, 
-      "key": "PASTEUR", 
-      "latitude": 2.31265644504969, 
-      "connexion": {}
-    }, 
-    "GARE D AUSTERLITZ": {
-      "name": "Gare d'Austerlitz", 
-      "lines": [
-        5, 
-        10
-      ], 
-      "longitude": 48.8431055835176, 
-      "trafic": 9063260.0, 
-      "rank": 23.0, 
-      "key": "GARE D AUSTERLITZ", 
-      "latitude": 2.36431304821499, 
-      "connexion": {}
-    }, 
-    "PORTE DE CHOISY": {
-      "name": "Porte de Choisy", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8201452157747, 
-      "trafic": 3116890.0, 
-      "rank": 168.0, 
-      "key": "PORTE DE CHOISY", 
-      "latitude": 2.36434644526859, 
-      "connexion": {}
-    }, 
-    "PORTE MAILLOT": {
-      "name": "Porte Maillot", 
-      "lines": [
-        1
-      ], 
-      "longitude": 48.877964502968, 
-      "trafic": 8852329.0, 
-      "rank": 26.0, 
-      "key": "PORTE MAILLOT", 
-      "latitude": 2.28183617255428, 
-      "connexion": {}
-    }, 
-    "EUROPE": {
-      "name": "Europe", 
-      "lines": [
-        3
-      ], 
-      "longitude": 48.8787098768874, 
-      "trafic": 1536565.0, 
-      "rank": 273.0, 
-      "key": "EUROPE", 
-      "latitude": 2.32282484061213, 
-      "connexion": {}
-    }, 
-    "SAINT PHILIPPE DU ROULE": {
-      "name": "Saint-Philippe du Roule", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8721798206485, 
-      "trafic": 2813350.0, 
-      "rank": 190.0, 
-      "key": "SAINT PHILIPPE DU ROULE", 
-      "latitude": 2.30982009380661, 
-      "connexion": {}
-    }, 
-    "MAIRIE DE CLICHY": {
-      "name": "Mairie de Clichy", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.9036594416322, 
-      "trafic": 6892451.0, 
-      "rank": 42.0, 
-      "key": "MAIRIE DE CLICHY", 
-      "latitude": 2.30556600125528, 
-      "connexion": {}
-    }, 
-    "PORTE DE": {
-      "name": "Porte de Pantin", 
-      "lines": [
-        5
-      ], 
-      "longitude": 48.8883327364608, 
-      "trafic": 4477959.0, 
-      "rank": 104.0, 
-      "key": "PORTE DE", 
-      "latitude": 2.39146861403051, 
-      "connexion": {}
-    }, 
-    "JAURES": {
-      "name": "Jaur\u00e8s", 
-      "lines": [
-        2, 
-        5, 
-        "7bis"
-      ], 
-      "longitude": 48.8825437461168, 
-      "trafic": 6046012.0, 
-      "rank": 59.0, 
-      "key": "JAURES", 
-      "latitude": 2.37023181919226, 
-      "connexion": {}
-    }, 
-    "ECOLE MILITAIRE": {
-      "name": "Ecole Militaire", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.8545185491092, 
-      "trafic": 4403029.0, 
-      "rank": 105.0, 
-      "key": "ECOLE MILITAIRE", 
-      "latitude": 2.30554381620113, 
-      "connexion": {}
-    }, 
-    "CHARENTON ECOLES": {
-      "name": "Charenton-Ecoles", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.8213638104296, 
-      "trafic": 2975899.0, 
-      "rank": 178.0, 
-      "key": "CHARENTON ECOLES", 
-      "latitude": 2.41407434683562, 
-      "connexion": {}
-    }, 
-    "ROME": {
-      "name": "Rome", 
-      "lines": [
-        2
-      ], 
-      "longitude": 48.8825292240735, 
-      "trafic": 2747395.0, 
-      "rank": 193.0, 
-      "key": "ROME", 
-      "latitude": 2.32098414419979, 
-      "connexion": {}
-    }, 
-    "MAIRIE DES LILAS": {
-      "name": "Mairie des Lilas", 
-      "lines": [
-        11
-      ], 
-      "longitude": 48.8797989953663, 
-      "trafic": 4602681.0, 
-      "rank": 96.0, 
-      "key": "MAIRIE DES LILAS", 
-      "latitude": 2.41623893515656, 
-      "connexion": {}
-    }, 
-    "LES COURTILLES": {
-      "name": "Asnieres-Gennevilliers Les Courtilles", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.9301634125573, 
-      "trafic": 3377106.0, 
-      "rank": 154.0, 
-      "key": "LES COURTILLES", 
-      "latitude": 2.28407447167184, 
-      "connexion": {}
-    }, 
-    "CHATEAU DE VINCENNES": {
-      "name": "Ch\u00e2teau de Vincennes", 
-      "lines": [
-        1
-      ], 
-      "longitude": 48.8445363116503, 
-      "trafic": 4858849.0, 
-      "rank": 88.0, 
-      "key": "CHATEAU DE VINCENNES", 
-      "latitude": 2.43950970545674, 
-      "connexion": {}
-    }, 
-    "COUR SAINT EMILION": {
-      "name": "Cour Saint-Emilion", 
-      "lines": [
-        14
-      ], 
-      "longitude": 48.8334843071503, 
-      "trafic": 5550822.0, 
-      "rank": 69.0, 
-      "key": "COUR SAINT EMILION", 
-      "latitude": 2.38761298844824, 
-      "connexion": {}
-    }, 
-    "PRE SAINT GERVAIS": {
-      "name": "Pr\u00e9-Saint-Gervais", 
-      "lines": [
-        "7bis"
-      ], 
-      "longitude": 48.8799349564117, 
-      "trafic": 451729.0, 
-      "rank": 298.0, 
-      "key": "PRE SAINT GERVAIS", 
-      "latitude": 2.39907689689178, 
-      "connexion": {}
-    }, 
-    "VILLEJUIF LOUIS ARAGON": {
-      "name": "Villejuif-Louis Aragon", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.7870020157205, 
-      "trafic": 5650185.0, 
-      "rank": 66.0, 
-      "key": "VILLEJUIF LOUIS ARAGON", 
-      "latitude": 2.36697471484243, 
-      "connexion": {}
-    }, 
-    "CHEVALERET": {
-      "name": "Chevaleret", 
-      "lines": [
-        6
-      ], 
-      "longitude": 48.8344079354527, 
-      "trafic": 2999174.0, 
-      "rank": 175.0, 
-      "key": "CHEVALERET", 
-      "latitude": 2.36716524071823, 
-      "connexion": {}
-    }, 
-    "TUILERIES": {
-      "name": "Tuileries", 
-      "lines": [
-        1
-      ], 
-      "longitude": 48.8644970966975, 
-      "trafic": 2473945.0, 
-      "rank": 217.0, 
-      "key": "TUILERIES", 
-      "latitude": 2.33031418026416, 
-      "connexion": {}
-    }, 
-    "MADELEINE": {
-      "name": "Madeleine", 
-      "lines": [
-        8, 
-        12, 
-        14
-      ], 
-      "longitude": 48.8700643517776, 
-      "trafic": 7412746.0, 
-      "rank": 34.0, 
-      "key": "MADELEINE", 
-      "latitude": 2.32516370025939, 
-      "connexion": {}
-    }, 
-    "PELLEPORT": {
-      "name": "Pelleport", 
-      "lines": [
-        "3bis"
-      ], 
-      "longitude": 48.868519874537, 
-      "trafic": 364642.0, 
-      "rank": 300.0, 
-      "key": "PELLEPORT", 
-      "latitude": 2.40135199013901, 
-      "connexion": {}
-    }, 
-    "PONT DE NEUILLY": {
-      "name": "Pont de Neuilly", 
-      "lines": [
-        1
-      ], 
-      "longitude": 48.8845093796136, 
-      "trafic": 6794402.0, 
-      "rank": 46.0, 
-      "key": "PONT DE NEUILLY", 
-      "latitude": 2.25989172465632, 
-      "connexion": {}
-    }, 
-    "MIRABEAU": {
-      "name": "Mirabeau", 
-      "lines": [
-        10
-      ], 
-      "longitude": 48.8473396417237, 
-      "trafic": 1387272.0, 
-      "rank": 280.0, 
-      "key": "MIRABEAU", 
-      "latitude": 2.27340595925819, 
-      "connexion": {}
-    }, 
-    "PICPUS": {
-      "name": "Picpus", 
-      "lines": [
-        6
-      ], 
-      "longitude": 48.8452604478542, 
-      "trafic": 1496432.0, 
-      "rank": 276.0, 
-      "key": "PICPUS", 
-      "latitude": 2.40125516453104, 
-      "connexion": {}
-    }, 
-    "LE KREMLIN BICETRE": {
-      "name": "Le Kremlin-Bic\u00eatre", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8103806352167, 
-      "trafic": 4492364.0, 
-      "rank": 102.0, 
-      "key": "LE KREMLIN BICETRE", 
-      "latitude": 2.36161295005801, 
-      "connexion": {}
-    }, 
-    "HAVRE CAUMARTIN": {
-      "name": "Havre-Caumartin", 
-      "lines": [
-        3, 
-        9
-      ], 
-      "longitude": 48.8733427700542, 
-      "trafic": 8343415.0, 
-      "rank": 29.0, 
-      "key": "HAVRE CAUMARTIN", 
-      "latitude": 2.3285077502868, 
-      "connexion": {}
-    }, 
-    "BUZENVAL": {
-      "name": "Buzenval", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8517360615634, 
-      "trafic": 1853733.0, 
-      "rank": 254.0, 
-      "key": "BUZENVAL", 
-      "latitude": 2.40102482535231, 
-      "connexion": {}
-    }, 
-    "PORTE DE CHAMPERRET": {
-      "name": "Porte de Champerret", 
-      "lines": [
-        3
-      ], 
-      "longitude": 48.8855507197363, 
-      "trafic": 3559682.0, 
-      "rank": 145.0, 
-      "key": "PORTE DE CHAMPERRET", 
-      "latitude": 2.29274204135011, 
-      "connexion": {}
-    }, 
-    "MICHEL ANGE AUTEUIL": {
-      "name": "Michel-Ange-Auteuil", 
-      "lines": [
-        9, 
-        10
-      ], 
-      "longitude": 48.8477403459598, 
-      "trafic": 2206285.0, 
-      "rank": 233.0, 
-      "key": "MICHEL ANGE AUTEUIL", 
-      "latitude": 2.2642974417474, 
-      "connexion": {}
-    }, 
-    "CENSIER DAUBENTON": {
-      "name": "Censier-Daubenton", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8405358795008, 
-      "trafic": 3766777.0, 
-      "rank": 135.0, 
-      "key": "CENSIER DAUBENTON", 
-      "latitude": 2.35142881208972, 
-      "connexion": {}
-    }, 
-    "GALLIENI": {
-      "name": "Gallieni (Parc de Bagnolet)", 
-      "lines": [
-        3
-      ], 
-      "longitude": 48.8633345779424, 
-      "trafic": 6314009.0, 
-      "rank": 50.0, 
-      "key": "GALLIENI", 
-      "latitude": 2.41568260426712, 
-      "connexion": {}
-    }, 
-    "PORTE DE SAINT CLOUD": {
-      "name": "Porte de Saint-Cloud", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8378883866228, 
-      "trafic": 4932701.0, 
-      "rank": 85.0, 
-      "key": "PORTE DE SAINT CLOUD", 
-      "latitude": 2.25680251499702, 
-      "connexion": {}
-    }, 
-    "VOLTAIRE": {
-      "name": "Voltaire (L\u00e9on Blum)", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8578758428685, 
-      "trafic": 5273953.0, 
-      "rank": 78.0, 
-      "key": "VOLTAIRE", 
-      "latitude": 2.37988391957515, 
-      "connexion": {}
-    }, 
-    "CHATEAU LANDON": {
-      "name": "Ch\u00e2teau Landon", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8783126784077, 
-      "trafic": 1600022.0, 
-      "rank": 271.0, 
-      "key": "CHATEAU LANDON", 
-      "latitude": 2.36229890860251, 
-      "connexion": {}
-    }, 
-    "MAISONS ALFORT LES JUILLIOTTES": {
-      "name": "Maisons-Alfort-Les Juilliottes", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.8031418697523, 
-      "trafic": 1976516.0, 
-      "rank": 247.0, 
-      "key": "MAISONS ALFORT LES JUILLIOTTES", 
-      "latitude": 2.44499102669377, 
-      "connexion": {}
-    }, 
-    "RENNES": {
-      "name": "Rennes", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.8480544328681, 
-      "trafic": 1307167.0, 
-      "rank": 281.0, 
-      "key": "RENNES", 
-      "latitude": 2.32808305123987, 
-      "connexion": {}
-    }, 
-    "BILLANCOURT": {
-      "name": "Billancourt", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8319437593265, 
-      "trafic": 2643194.0, 
-      "rank": 201.0, 
-      "key": "BILLANCOURT", 
-      "latitude": 2.23810999708736, 
-      "connexion": {}
-    }, 
-    "BOURSE": {
-      "name": "Bourse", 
-      "lines": [
-        3
-      ], 
-      "longitude": 48.8687976838596, 
-      "trafic": 3350796.0, 
-      "rank": 157.0, 
-      "key": "BOURSE", 
-      "latitude": 2.34123268333609, 
-      "connexion": {}
-    }, 
-    "MAISONS ALFORT STADE": {
-      "name": "Maisons-Alfort-Stade", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.8084176209203, 
-      "trafic": 1523038.0, 
-      "rank": 274.0, 
-      "key": "MAISONS ALFORT STADE", 
-      "latitude": 2.43558220356454, 
-      "connexion": {}
-    }, 
-    "VILLIERS": {
-      "name": "Villiers", 
-      "lines": [
-        2, 
-        3
-      ], 
-      "longitude": 48.8810543983372, 
-      "trafic": 6193182.0, 
-      "rank": 55.0, 
-      "key": "VILLIERS", 
-      "latitude": 2.31527055095629, 
-      "connexion": {}
-    }, 
-    "CORENTIN CELTON": {
-      "name": "Corentin-Celton", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.8272434444069, 
-      "trafic": 3385005.0, 
-      "rank": 153.0, 
-      "key": "CORENTIN CELTON", 
-      "latitude": 2.27930670368976, 
-      "connexion": {}
-    }, 
-    "HOTEL DE VILLE": {
-      "name": "H\u00f4tel de Ville", 
-      "lines": [
-        1, 
-        11
-      ], 
-      "longitude": 48.8567695272423, 
-      "trafic": 12760823.0, 
-      "rank": 11.0, 
-      "key": "HOTEL DE VILLE", 
-      "latitude": 2.35149453979435, 
-      "connexion": {}
-    }, 
-    "ALESIA": {
-      "name": "Al\u00e9sia", 
-      "lines": [
-        4
-      ], 
-      "longitude": 48.828398514348, 
-      "trafic": 5317934.0, 
-      "rank": 76.0, 
-      "key": "ALESIA", 
-      "latitude": 2.32674567371924, 
-      "connexion": {}
-    }, 
-    "MABILLON": {
-      "name": "Mabillon", 
-      "lines": [
-        10
-      ], 
-      "longitude": 48.8528181349058, 
-      "trafic": 1915829.0, 
-      "rank": 252.0, 
-      "key": "MABILLON", 
-      "latitude": 2.33540928887416, 
-      "connexion": {}
-    }, 
-    "INVALIDES": {
-      "name": "Invalides", 
-      "lines": [
-        8, 
-        13
-      ], 
-      "longitude": 48.8616865404563, 
-      "trafic": 6931062.0, 
-      "rank": 39.0, 
-      "key": "INVALIDES", 
-      "latitude": 2.31435704324728, 
-      "connexion": {}
-    }, 
-    "LOUISE MICHEL": {
-      "name": "Louise Michel", 
-      "lines": [
-        3
-      ], 
-      "longitude": 48.8888292427619, 
-      "trafic": 3240270.0, 
-      "rank": 163.0, 
-      "key": "LOUISE MICHEL", 
-      "latitude": 2.28813731087893, 
-      "connexion": {}
-    }, 
-    "DES BOULETS": {
-      "name": "Rue des Boulets", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8521417733756, 
-      "trafic": 2669336.0, 
-      "rank": 199.0, 
-      "key": "DES BOULETS", 
-      "latitude": 2.38914280457034, 
-      "connexion": {}
-    }, 
-    "LIEGE": {
-      "name": "Li\u00e8ge", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.8795640572124, 
-      "trafic": 1731063.0, 
-      "rank": 261.0, 
-      "key": "LIEGE", 
-      "latitude": 2.32651728518985, 
-      "connexion": {}
-    }, 
-    "PORTE DE SAINT OUEN": {
-      "name": "Porte de Saint-Ouen", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.8972510523147, 
-      "trafic": 3814464.0, 
-      "rank": 134.0, 
-      "key": "PORTE DE SAINT OUEN", 
-      "latitude": 2.32883766969025, 
-      "connexion": {}
-    }, 
-    "GAITE": {
-      "name": "Gait\u00e9", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.8384911503461, 
-      "trafic": 3223366.0, 
-      "rank": 164.0, 
-      "key": "GAITE", 
-      "latitude": 2.32258277982791, 
-      "connexion": {}
-    }, 
-    "COLONEL FABIEN": {
-      "name": "Colonel Fabien", 
-      "lines": [
-        2
-      ], 
-      "longitude": 48.8779422921331, 
-      "trafic": 4554566.0, 
-      "rank": 97.0, 
-      "key": "COLONEL FABIEN", 
-      "latitude": 2.37014713779616, 
-      "connexion": {}
-    }, 
-    "PORTE DE VINCENNES": {
-      "name": "Porte de Vincennes", 
-      "lines": [
-        1
-      ], 
-      "longitude": 48.8472657113718, 
-      "trafic": 4363767.0, 
-      "rank": 107.0, 
-      "key": "PORTE DE VINCENNES", 
-      "latitude": 2.40888352534985, 
-      "connexion": {}
-    }, 
-    "RANELAGH": {
-      "name": "Ranelagh", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8553920307943, 
-      "trafic": 2315446.0, 
-      "rank": 228.0, 
-      "key": "RANELAGH", 
-      "latitude": 2.26997975035107, 
-      "connexion": {}
-    }, 
-    "PHILIPPE AUGUSTE": {
-      "name": "Philippe Auguste", 
-      "lines": [
-        2
-      ], 
-      "longitude": 48.8583654720925, 
-      "trafic": 1813811.0, 
-      "rank": 257.0, 
-      "key": "PHILIPPE AUGUSTE", 
-      "latitude": 2.38938739145325, 
-      "connexion": {}
-    }, 
-    "GARE DE L EST": {
-      "name": "Gare de l'Est (Verdun)", 
-      "lines": [
-        4, 
-        5, 
-        7
-      ], 
-      "longitude": 48.8760613055252, 
-      "trafic": 19671320.0, 
-      "rank": 5.0, 
-      "key": "GARE DE L EST", 
-      "latitude": 2.35791867724751, 
-      "connexion": {}
-    }, 
-    "PORTE DE LA CHAPELLE": {
-      "name": "Porte de la Chapelle", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.8980716716703, 
-      "trafic": 3431552.0, 
-      "rank": 149.0, 
-      "key": "PORTE DE LA CHAPELLE", 
-      "latitude": 2.35909154194382, 
-      "connexion": {}
-    }, 
-    "FORT D": {
-      "name": "Fort d'Aubervilliers", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.9146921997335, 
-      "trafic": 3455421.0, 
-      "rank": 148.0, 
-      "key": "FORT D", 
-      "latitude": 2.40417710143886, 
-      "connexion": {}
-    }, 
-    "ODEON": {
-      "name": "Od\u00e9on", 
-      "lines": [
-        4, 
-        10
-      ], 
-      "longitude": 48.8522489363668, 
-      "trafic": 6239672.0, 
-      "rank": 54.0, 
-      "key": "ODEON", 
-      "latitude": 2.33855755868422, 
-      "connexion": {}
-    }, 
-    "JUSSIEU": {
-      "name": "Jussieu", 
-      "lines": [
-        7, 
-        10
-      ], 
-      "longitude": 48.8458380895278, 
-      "trafic": 4080680.0, 
-      "rank": 118.0, 
-      "key": "JUSSIEU", 
-      "latitude": 2.35469159842714, 
-      "connexion": {}
-    }, 
-    "FILLES DU CALVAIRE": {
-      "name": "Filles du Calvaire", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.8633028923386, 
-      "trafic": 1663111.0, 
-      "rank": 264.0, 
-      "key": "FILLES DU CALVAIRE", 
-      "latitude": 2.36645313804373, 
-      "connexion": {}
-    }, 
-    "PORTE DE CLICHY": {
-      "name": "Porte de Clichy", 
-      "lines": [
-        13
-      ], 
-      "longitude": 48.8943611610735, 
-      "trafic": 4156619.0, 
-      "rank": 116.0, 
-      "key": "PORTE DE CLICHY", 
-      "latitude": 2.31373834378485, 
-      "connexion": {}
-    }, 
-    "BOBIGNY PABLO PICASSO": {
-      "name": "Bobigny-Pablo-Picasso", 
-      "lines": [
-        5
-      ], 
-      "longitude": 48.9069699442981, 
-      "trafic": 6722182.0, 
-      "rank": 47.0, 
-      "key": "BOBIGNY PABLO PICASSO", 
-      "latitude": 2.44962071744096, 
-      "connexion": {}
-    }, 
-    "PONT DE SEVRES": {
-      "name": "Pont de S\u00e8vres", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8295929841028, 
-      "trafic": 4352829.0, 
-      "rank": 108.0, 
-      "key": "PONT DE SEVRES", 
-      "latitude": 2.23025364790437, 
-      "connexion": {}
-    }, 
-    "DU BAC": {
-      "name": "Rue du Bac", 
-      "lines": [
-        12
-      ], 
-      "longitude": 48.8557564721823, 
-      "trafic": 2563169.0, 
-      "rank": 208.0, 
-      "key": "DU BAC", 
-      "latitude": 2.32556882179391, 
-      "connexion": {}
-    }, 
-    "GLACIERE": {
-      "name": "Glaci\u00e8re", 
-      "lines": [
-        6
-      ], 
-      "longitude": 48.8313647071449, 
-      "trafic": 4739497.0, 
-      "rank": 92.0, 
-      "key": "GLACIERE", 
-      "latitude": 2.34393889430969, 
-      "connexion": {}
-    }, 
-    "PORTE D ITALIE": {
-      "name": "Porte d'Italie", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.8189346110715, 
-      "trafic": 2562120.0, 
-      "rank": 209.0, 
-      "key": "PORTE D ITALIE", 
-      "latitude": 2.35985580265649, 
-      "connexion": {}
-    }, 
-    "BOULOGNE JEAN JAURES": {
-      "name": "Boulogne-Jean-Jaur\u00e8s", 
-      "lines": [
-        10
-      ], 
-      "longitude": 48.8422216612984, 
-      "trafic": 3748047.0, 
-      "rank": 136.0, 
-      "key": "BOULOGNE JEAN JAURES", 
-      "latitude": 2.23883585019659, 
-      "connexion": {}
-    }, 
-    "PASSY": {
-      "name": "Passy", 
-      "lines": [
-        6
-      ], 
-      "longitude": 48.8576333212361, 
-      "trafic": 3918954.0, 
-      "rank": 124.0, 
-      "key": "PASSY", 
-      "latitude": 2.28586501138629, 
-      "connexion": {}
-    }, 
-    "JAVEL ANDRE CITROEN": {
-      "name": "Javel-Andr\u00e9-Citroen", 
-      "lines": [
-        10
-      ], 
-      "longitude": 48.8461034637876, 
-      "trafic": 2473278.0, 
-      "rank": 218.0, 
-      "key": "JAVEL ANDRE CITROEN", 
-      "latitude": 2.27845497841475, 
-      "connexion": {}
-    }, 
-    "TERNES": {
-      "name": "Ternes", 
-      "lines": [
-        2
-      ], 
-      "longitude": 48.8780661989513, 
-      "trafic": 3930362.0, 
-      "rank": 121.0, 
-      "key": "TERNES", 
-      "latitude": 2.29803071264819, 
-      "connexion": {}
-    }, 
-    "SAINT AMBROISE": {
-      "name": "Saint-Ambroise", 
-      "lines": [
-        9
-      ], 
-      "longitude": 48.8612121032505, 
-      "trafic": 2758716.0, 
-      "rank": 191.0, 
-      "key": "SAINT AMBROISE", 
-      "latitude": 2.37409760383489, 
-      "connexion": {}
-    }, 
-    "GARE DE LYON": {
-      "name": "Gare de Lyon", 
-      "lines": [
-        1, 
-        14
-      ], 
-      "longitude": 48.8447045450658, 
-      "trafic": 34523049.0, 
-      "rank": 3.0, 
-      "key": "GARE DE LYON", 
-      "latitude": 2.37406590751466, 
-      "connexion": {}
-    }, 
-    "AVENUE EMILE ZOLA": {
-      "name": "Avenue Emile-Zola", 
-      "lines": [
-        10
-      ], 
-      "longitude": 48.8469642745973, 
-      "trafic": 1479756.0, 
-      "rank": 277.0, 
-      "key": "AVENUE EMILE ZOLA", 
-      "latitude": 2.29493807524416, 
-      "connexion": {}
-    }, 
-    "BELLEVILLE": {
-      "name": "Belleville", 
-      "lines": [
-        2, 
-        11
-      ], 
-      "longitude": 48.8720416041714, 
-      "trafic": 11794952.0, 
-      "rank": 16.0, 
-      "key": "BELLEVILLE", 
-      "latitude": 2.37680560769084, 
-      "connexion": {}
-    }, 
-    "LA COURNEUVE MAI QUATRE": {
-      "name": "La Courneuve-8-Mai-1945", 
-      "lines": [
-        7
-      ], 
-      "longitude": 48.9209043594324, 
-      "trafic": 5707118.0, 
-      "rank": 65.0, 
-      "key": "LA COURNEUVE MAI QUATRE", 
-      "latitude": 2.41045542691904, 
-      "connexion": {}
-    }, 
-    "ALEXANDRE DUMAS": {
-      "name": "Alexandre-Dumas", 
-      "lines": [
-        2
-      ], 
-      "longitude": 48.8561744489676, 
-      "trafic": 3926266.0, 
-      "rank": 122.0, 
-      "key": "ALEXANDRE DUMAS", 
-      "latitude": 2.3949898158233, 
-      "connexion": {}
-    }, 
-    "SEVRES LECOURBE": {
-      "name": "S\u00e8vres-Lecourbe", 
-      "lines": [
-        6
-      ], 
-      "longitude": 48.8451307700065, 
-      "trafic": 2416242.0, 
-      "rank": 223.0, 
-      "key": "SEVRES LECOURBE", 
-      "latitude": 2.31018390371145, 
-      "connexion": {}
-    }, 
-    "ESPLANADE DE LA DEFENSE": {
-      "name": "Esplanade de la D\u00e9fense", 
-      "lines": [
-        1
-      ], 
-      "longitude": 48.887843122138, 
-      "trafic": 8721277.0, 
-      "rank": 27.0, 
-      "key": "ESPLANADE DE LA DEFENSE", 
-      "latitude": 2.25044232471862, 
-      "connexion": {}
-    }, 
-    "LOURMEL": {
-      "name": "Lourmel", 
-      "lines": [
-        8
-      ], 
-      "longitude": 48.8384881095778, 
-      "trafic": 2441226.0, 
-      "rank": 221.0, 
-      "key": "LOURMEL", 
-      "latitude": 2.28175852328733, 
-      "connexion": {}
-    }, 
-    "CITE": {
-      "name": "Cit\u00e9", 
-      "lines": [
-        4
-      ], 
-      "longitude": 48.8551005857888, 
-      "trafic": 2364993.0, 
-      "rank": 227.0, 
-      "key": "CITE", 
-      "latitude": 2.3467203742446, 
-      "connexion": {}
+      "longitude": 48.8536134867907
     }
   }, 
   "lines": [
     {
+      "key": 1, 
       "paths": [
         [
           "CHATEAU DE VINCENNES", 
@@ -3725,40 +3726,42 @@
           "ESPLANADE DE LA DEFENSE", 
           "LA DEFENSE"
         ]
-      ], 
-      "key": 1
+      ]
     }, 
     {
+      "key": 2, 
       "paths": [
         [
-          "PORTE DAUPHINE", 
-          "VICTOR HUGO", 
-          "CHARLES DE GAULLE ETOILE", 
-          "COURCELLES", 
-          "MONCEAU", 
-          "VILLIERS", 
-          "ROME", 
-          "PLACE CLICHY", 
-          "BLANCHE", 
-          "PIGALLE", 
-          "FUNICULAIRE", 
-          "BARBES ROCHECHOUART", 
-          "LA CHAPELLE", 
-          "STALINGRAD", 
-          "COLONEL FABIEN", 
-          "BELLEVILLE", 
-          "COURONNES", 
-          "MENILMONTANT", 
-          "PERE LACHAISE", 
-          "PHILIPPE AUGUSTE", 
-          "ALEXANDRE DUMAS", 
+          "NATION", 
           "AVRON", 
-          "NATION"
+          "ALEXANDRE DUMAS", 
+          "PHILIPPE AUGUSTE", 
+          "PERE LACHAISE", 
+          "MENILMONTANT", 
+          "COURONNES", 
+          "BELLEVILLE", 
+          "COLONEL FABIEN", 
+          "JAURES", 
+          "STALINGRAD", 
+          "LA CHAPELLE", 
+          "BARBES ROCHECHOUART", 
+          "FUNICULAIRE", 
+          "PIGALLE", 
+          "BLANCHE", 
+          "PLACE CLICHY", 
+          "ROME", 
+          "VILLIERS", 
+          "MONCEAU", 
+          "COURCELLES", 
+          "TERNES", 
+          "CHARLES DE GAULLE ETOILE", 
+          "VICTOR HUGO", 
+          "PORTE DAUPHINE"
         ]
-      ], 
-      "key": 2
+      ]
     }, 
     {
+      "key": 3, 
       "paths": [
         [
           "PONT DE LEVALLOIS BECON", 
@@ -3778,17 +3781,23 @@
           "SENTIER", 
           "REAUMUR SEBASTOPOL", 
           "ARTS ET METIERS", 
-          "REPUBLIQUE", 
           "TEMPLE", 
+          "REPUBLIQUE", 
+          "PARMENTIER", 
+          "SAINT MAUR", 
           "PERE LACHAISE", 
-          "GAMBETTA", 
+          "PARMENTIER"
+        ], 
+        [
+          "GALLIENI", 
           "PORTE DE BAGNOLET", 
-          "GALLIENI"
+          "GAMBETTA", 
+          "PERE LACHAISE"
         ]
-      ], 
-      "key": 3
+      ]
     }, 
     {
+      "key": 4, 
       "paths": [
         [
           "PORTE DE CLIGNANCOURT", 
@@ -3818,11 +3827,26 @@
           "ALESIA", 
           "PORTE D ORLEANS"
         ]
-      ], 
-      "key": 4
+      ]
     }, 
     {
+      "key": 5, 
       "paths": [
+        [
+          "BOBIGNY PABLO PICASSO", 
+          "BOBIGNY RAYMOND QUENEAU", 
+          "EGLISE DE", 
+          "HOCHE", 
+          "PORTE DE", 
+          "OURCQ", 
+          "LAUMIERE", 
+          "JAURES", 
+          "STALINGRAD", 
+          "GARE DU NORD", 
+          "GARE DE L EST", 
+          "JACQUES BONSERGENT", 
+          "GARE DU NORD"
+        ], 
         [
           "PLACE D ITALIE", 
           "CAMPO FORMIO", 
@@ -3834,22 +3858,12 @@
           "RICHARD LENOIR", 
           "OBERKAMPF", 
           "REPUBLIQUE", 
-          "JACQUES BONSERGENT", 
-          "GARE DU NORD", 
-          "GARE DE L EST", 
-          "STALINGRAD", 
-          "JAURES", 
-          "LAUMIERE", 
-          "OURCQ", 
-          "PORTE DE", 
-          "HOCHE", 
-          "BOBIGNY RAYMOND QUENEAU", 
-          "BOBIGNY PABLO PICASSO"
+          "JACQUES BONSERGENT"
         ]
-      ], 
-      "key": 5
+      ]
     }, 
     {
+      "key": 6, 
       "paths": [
         [
           "NATION", 
@@ -3867,6 +3881,7 @@
           "SAINT JACQUES", 
           "DENFERT ROCHEREAU", 
           "RASPAIL", 
+          "EDGAR QUINET", 
           "MONTPARNASSE BIENVENUE", 
           "PASTEUR", 
           "SEVRES LECOURBE", 
@@ -3880,10 +3895,10 @@
           "KLEBER", 
           "CHARLES DE GAULLE ETOILE"
         ]
-      ], 
-      "key": 6
+      ]
     }, 
     {
+      "key": 7, 
       "paths": [
         [
           "MAIRIE D IVRY", 
@@ -3892,46 +3907,55 @@
           "PORTE DE CHOISY", 
           "PORTE D ITALIE", 
           "MAISON BLANCHE", 
-          "TOLBIAC", 
-          "PLACE D ITALIE", 
-          "LES GOBELINS", 
-          "CENSIER DAUBENTON", 
-          "PLACE MONGE", 
-          "JUSSIEU", 
-          "SULLY MORLAND", 
-          "PONT MARIE", 
-          "CHATELET", 
-          "PONT NEUF", 
-          "PALAIS ROYAL", 
-          "PYRAMIDES", 
-          "OPERA", 
-          "CHAUSSEE D ANTIN LA FAYETTE", 
-          "LE PELETIER", 
-          "CADET", 
-          "POISSONNIERE", 
-          "GARE DE L EST", 
-          "CHATEAU LANDON", 
-          "STALINGRAD", 
-          "RIQUET", 
-          "CRIMEE", 
-          "CORENTIN CARIOU", 
-          "PORTE DE LA VILLETTE", 
-          "QUATRE CHEMINS", 
-          "FORT D", 
-          "LA COURNEUVE MAI QUATRE"
+          "LE KREMLIN BICETRE", 
+          "VILLEJUIF LEO LAGRANGE", 
+          "VILLEJUIF PAUL VAILLANT COUTURIER", 
+          "VILLEJUIF LOUIS ARAGON"
         ], 
         [
-          "VILLEJUIF LOUIS ARAGON", 
-          "VILLEJUIF PAUL VAILLANT COUTURIER", 
-          "VILLEJUIF LEO LAGRANGE", 
-          "LE KREMLIN BICETRE", 
+          "LA COURNEUVE MAI QUATRE", 
+          "FORT D", 
+          "QUATRE CHEMINS", 
+          "PORTE DE LA VILLETTE", 
+          "CORENTIN CARIOU", 
+          "CRIMEE", 
+          "RIQUET", 
+          "STALINGRAD", 
+          "LOUIS BLANC", 
+          "CHATEAU LANDON", 
+          "GARE DE L EST", 
+          "POISSONNIERE", 
+          "CADET", 
+          "LE PELETIER", 
+          "CHAUSSEE D ANTIN LA FAYETTE", 
+          "OPERA", 
+          "PYRAMIDES", 
+          "PALAIS ROYAL", 
+          "PONT NEUF", 
+          "CHATELET", 
+          "PONT MARIE", 
+          "SULLY MORLAND", 
+          "JUSSIEU", 
+          "CENSIER DAUBENTON", 
+          "LES GOBELINS", 
+          "PLACE D ITALIE", 
+          "TOLBIAC", 
           "MAISON BLANCHE"
         ]
-      ], 
-      "key": 7
+      ]
     }, 
     {
+      "key": 8, 
       "paths": [
+        [
+          "BALARD", 
+          "LOURMEL", 
+          "BOUCICAUT", 
+          "FELIX FAURE", 
+          "COMMERCE", 
+          "LA MOTTE PICQUET", 
+          "FELIX FAURE"
+        ], 
         [
           "POINTE DU LAC", 
           "PREFECTURE", 
@@ -3965,17 +3989,12 @@
           "INVALIDES", 
           "LA TOUR MAUBOURG", 
           "ECOLE MILITAIRE", 
-          "LA MOTTE PICQUET", 
-          "COMMERCE", 
-          "FELIX FAURE", 
-          "BOUCICAUT", 
-          "LOURMEL", 
-          "BALARD"
+          "LA MOTTE PICQUET"
         ]
-      ], 
-      "key": 8
+      ]
     }, 
     {
+      "key": 9, 
       "paths": [
         [
           "MAIRIE DE MONTREUIL", 
@@ -3997,64 +4016,44 @@
           "RICHELIEU DROUOT", 
           "CHAUSSEE D ANTIN LA FAYETTE", 
           "HAVRE CAUMARTIN", 
-          "SAINT LAZARE", 
           "SAINT AUGUSTIN", 
-          "MIROMESNIL", 
-          "SAINT PHILIPPE DU ROULE", 
-          "FRANKLIN ROOSEVELT", 
-          "ALMA MARCEAU", 
-          "IENA", 
-          "TROCADERO", 
-          "DE LA POMPE", 
-          "LA MUETTE", 
-          "RANELAGH", 
-          "JASMIN", 
-          "MICHEL ANGE AUTEUIL", 
-          "MICHEL ANGE MOLITOR", 
-          "EXELMANS", 
-          "PORTE DE SAINT CLOUD", 
-          "MARCEL SEMBAT", 
-          "BILLANCOURT", 
-          "PONT DE SEVRES"
-        ]
-      ], 
-      "key": 9
-    }, 
-    {
-      "paths": [
-        [
-          "GARE D AUSTERLITZ", 
-          "JUSSIEU", 
-          "CARDINAL LEMOINE", 
-          "MAUBERT MUTUALITE", 
-          "CLUNY LA SORBONNE", 
-          "ODEON", 
-          "MABILLON", 
-          "SEVRES BABYLONE", 
-          "VANEAU", 
-          "DUROC", 
-          "SEGUR", 
-          "LA MOTTE PICQUET", 
-          "AVENUE EMILE ZOLA", 
-          "CHARLES MICHELS", 
-          "JAVEL ANDRE CITROEN", 
-          "MIRABEAU", 
-          "CHARDON LAGACHE", 
-          "MICHEL ANGE MOLITOR", 
-          "BOULOGNE JEAN JAURES", 
-          "BOULOGNE PONT DE SAINT CLOUD"
+          "SAINT LAZARE"
         ], 
         [
-          "JAVEL ANDRE CITROEN", 
-          "EGLISE D AUTEUIL", 
+          "PONT DE SEVRES", 
+          "BILLANCOURT", 
+          "MARCEL SEMBAT", 
+          "PORTE DE SAINT CLOUD", 
+          "EXELMANS", 
+          "MICHEL ANGE MOLITOR", 
           "MICHEL ANGE AUTEUIL", 
-          "PORTE D AUTEUIL", 
-          "BOULOGNE JEAN JAURES"
+          "JASMIN", 
+          "RANELAGH", 
+          "LA MUETTE", 
+          "DE LA POMPE", 
+          "TROCADERO", 
+          "IENA", 
+          "ALMA MARCEAU", 
+          "FRANKLIN ROOSEVELT", 
+          "SAINT PHILIPPE DU ROULE", 
+          "MIROMESNIL", 
+          "SAINT AUGUSTIN"
         ]
-      ], 
-      "key": 10
+      ]
     }, 
     {
+      "key": "3bis", 
+      "paths": [
+        [
+          "GAMBETTA", 
+          "PELLEPORT", 
+          "SAINT FARGEAU", 
+          "PORTE DES LILAS"
+        ]
+      ]
+    }, 
+    {
+      "key": 11, 
       "paths": [
         [
           "CHATELET", 
@@ -4071,10 +4070,10 @@
           "PORTE DES LILAS", 
           "MAIRIE DES LILAS"
         ]
-      ], 
-      "key": 11
+      ]
     }, 
     {
+      "key": 12, 
       "paths": [
         [
           "PORTE DE LA CHAPELLE", 
@@ -4106,29 +4105,11 @@
           "CORENTIN CELTON", 
           "MAIRIE D ISSY"
         ]
-      ], 
-      "key": 12
+      ]
     }, 
     {
+      "key": 13, 
       "paths": [
-        [
-          "LES COURTILLES", 
-          "LES AGNETTES", 
-          "GABRIEL PERI", 
-          "MAIRIE DE CLICHY", 
-          "PORTE DE CLICHY", 
-          "BROCHANT", 
-          "LA FOURCHE", 
-          "GUY MOQUET", 
-          "PORTE DE SAINT OUEN", 
-          "GARIBALDI", 
-          "MAIRIE DE SAINT OUEN", 
-          "CARREFOUR PLEYEL", 
-          "SAINT DENIS PORTE DE PARIS", 
-          "SAINT DENIS UNIVERSITE", 
-          "BASILIQUE DE SAINT DENIS", 
-          "SAINT DENIS PORTE DE PARIS"
-        ], 
         [
           "CHATILLON MONTROUGE", 
           "MALAKOFF ETIENNE DOLET", 
@@ -4145,13 +4126,20 @@
           "CHAMPS ELYSEES CLEMENCEAU", 
           "MIROMESNIL", 
           "SAINT LAZARE", 
+          "LIEGE", 
           "PLACE CLICHY", 
-          "LA FOURCHE"
+          "LA FOURCHE", 
+          "BROCHANT", 
+          "PORTE DE CLICHY", 
+          "MAIRIE DE CLICHY", 
+          "GABRIEL PERI", 
+          "LES AGNETTES", 
+          "LES COURTILLES"
         ]
-      ], 
-      "key": 13
+      ]
     }, 
     {
+      "key": 14, 
       "paths": [
         [
           "OLYMPIADES", 
@@ -4164,10 +4152,44 @@
           "MADELEINE", 
           "SAINT LAZARE"
         ]
-      ], 
-      "key": 14
+      ]
     }, 
     {
+      "key": 10, 
+      "paths": [
+        [
+          "GARE D AUSTERLITZ", 
+          "JUSSIEU", 
+          "CARDINAL LEMOINE", 
+          "MAUBERT MUTUALITE", 
+          "CLUNY LA SORBONNE", 
+          "ODEON", 
+          "MABILLON", 
+          "SEVRES BABYLONE", 
+          "VANEAU", 
+          "DUROC", 
+          "SEGUR", 
+          "LA MOTTE PICQUET", 
+          "AVENUE EMILE ZOLA", 
+          "CHARLES MICHELS", 
+          "JAVEL ANDRE CITROEN", 
+          "MIRABEAU", 
+          "CHARDON LAGACHE", 
+          "MICHEL ANGE MOLITOR", 
+          "BOULOGNE JEAN JAURES", 
+          "BOULOGNE PONT DE SAINT CLOUD"
+        ], 
+        [
+          "JAVEL ANDRE CITROEN", 
+          "EGLISE D AUTEUIL", 
+          "MICHEL ANGE AUTEUIL", 
+          "PORTE D AUTEUIL", 
+          "BOULOGNE JEAN JAURES"
+        ]
+      ]
+    }, 
+    {
+      "key": "7bis", 
       "paths": [
         [
           "LOUIS BLANC", 
@@ -4175,24 +4197,12 @@
           "BOLIVAR", 
           "BUTTES CHAUMONT", 
           "BOTZARIS", 
-          "DANUBE", 
-          "PRE SAINT GERVAIS", 
           "PLACES FETES", 
+          "PRE SAINT GERVAIS", 
+          "DANUBE", 
           "BOTZARIS"
         ]
-      ], 
-      "key": "7bis"
-    }, 
-    {
-      "paths": [
-        [
-          "GAMBETTA", 
-          "PELLEPORT", 
-          "SAINT FARGEAU", 
-          "PORTE DES LILAS"
-        ]
-      ], 
-      "key": "3bis"
+      ]
     }
   ]
 }
